@@ -45,7 +45,7 @@ for i, item in enumerate(folder_name_parts):
             new_path = os.path.join(result_folder, file_name)  # ./result 폴더로 이동할 경로 설정
             shutil.move(current_path, new_path)
             # 로그에 추가
-            log_data.append({item[0]: file_names[0]})
+            log_data.append({"Id": item[0], "FileName": file_names[0]})
 
 # 로그 파일 저장
 with open(log_file, 'w') as f:
