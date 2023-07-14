@@ -8,6 +8,7 @@
 
 1. AIHub [상품 이미지 데이터셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=64)
 ---
+https://www.youtube.com/watch?v=wdXsv4-2emg
 
 ### 구현 목록(ChatGPT도움받음)
 제품 등록 및 관리: 새로운 제품을 등록하고, 기존 제품의 정보를 수정하고 삭제할 수 있는 기능을 제공합니다. (위치 정보도 넣어주세요) --> 정선호  
