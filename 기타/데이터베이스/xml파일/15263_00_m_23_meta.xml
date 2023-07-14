@@ -1,0 +1,62 @@
+<comp_cd>
+  0135
+  <identifier>
+    <identifier>15263_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>01350500003</item_cd>
+    <item_no>15263</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>기타레토르트</div_s>
+    <div_n>기타레토르트</div_n>
+    <comp_nm>네슬레코리아</comp_nm>
+    <img_prod_nm>네슬레 거버1단계이유식당근113G</img_prod_nm>
+    <volume>113G</volume>
+    <barcd>015000003005</barcd>
+    <width>8</width>
+    <length>5</length>
+    <height>7</height>
+    <nutrition_info>{"1회제공량":"56","총내용량(g)":"112","총내용량(mL)":"","에너지(㎉)":"40","단백질(g)":"0.8","지방(g)":"0","탄수화물(g)":"10","총당류(g)":"5","총 식이섬유(g)":"2.5","칼슘(㎎)":"30","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"286","나트륨(㎎)":"40","비타민":"5","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15263_네슬레거버1단계이유식당근113G/</folder>
+    <filename>15263_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15263_네슬레거버1단계이유식당근113G/15263_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>네슬레거버1단계이유식당근113G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>198</xmin>
+        <ymin>1050</ymin>
+        <xmax>1686</xmax>
+        <ymax>2166</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>네슬레거버1단계이유식당근113G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1454</xmin>
+        <ymin>1082</ymin>
+        <xmax>2562</xmax>
+        <ymax>2030</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  1464
+  <identifier>
+    <identifier>25441_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>14640900004</item_cd>
+    <item_no>25441</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>원액</div_s>
+    <div_n>원액</div_n>
+    <comp_nm>한국쥬맥스</comp_nm>
+    <img_prod_nm>한국쥬맥스 아리조나 아이스드티위드레몬향 680ML</img_prod_nm>
+    <volume>680ML</volume>
+    <barcd>613008735159</barcd>
+    <width>7</width>
+    <length />
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"355","에너지(㎉)":"150","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"35","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"10","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/25441_한국쥬맥스아리조나아이스드티위드레몬향680ML/</folder>
+    <filename>25441_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/25441_한국쥬맥스아리조나아이스드티위드레몬향680ML/25441_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>한국쥬맥스아리조나아이스드티위드레몬향680ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>634</xmin>
+        <ymin>98</ymin>
+        <xmax>1641</xmax>
+        <ymax>2905</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>한국쥬맥스아리조나아이스드티위드레몬향680ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1418</xmin>
+        <ymin>236</ymin>
+        <xmax>2218</xmax>
+        <ymax>2684</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

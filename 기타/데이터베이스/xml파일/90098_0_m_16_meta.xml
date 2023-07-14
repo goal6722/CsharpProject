@@ -1,0 +1,74 @@
+<comp_cd>
+  1232
+  <identifier>
+    <identifier>90098_0_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12320900003</item_cd>
+    <item_no>90098</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>카페모아</comp_nm>
+    <img_prod_nm>카페모어복숭아아이스티(파우치)230ML</img_prod_nm>
+    <volume>230ML</volume>
+    <barcd>8809443211613</barcd>
+    <width>12</width>
+    <length />
+    <height>23</height>
+    <nutrition_info>{"1회제공량":"340","총내용량(g)":"0","총내용량(mL)":"340","에너지(㎉)":"180","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"46","총당류(g)":"42","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"10","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/90098_카페모어복숭아아이스티(파우치)230ML/</folder>
+    <filename>90098_0_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/90098_카페모어복숭아아이스티(파우치)230ML/90098_0_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>카페모어복숭아아이스티(파우치)230ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1773</xmin>
+        <ymin>466</ymin>
+        <xmax>2771</xmax>
+        <ymax>2581</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>카페모어복숭아아이스티(파우치)230ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1135</xmin>
+        <ymin>616</ymin>
+        <xmax>1883</xmax>
+        <ymax>2399</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>카페모어복숭아아이스티(파우치)230ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>724</xmin>
+        <ymin>766</ymin>
+        <xmax>1242</xmax>
+        <ymax>2290</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

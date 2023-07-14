@@ -1,0 +1,50 @@
+<comp_cd>
+  0251
+  <identifier>
+    <identifier>40224_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>02510500021</item_cd>
+    <item_no>40224</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석죽</div_s>
+    <div_n>즉석죽</div_n>
+    <comp_nm>동원F&amp;B</comp_nm>
+    <img_prod_nm>동원 양반 전복죽</img_prod_nm>
+    <volume>420g</volume>
+    <barcd>8801047169246</barcd>
+    <width>15</width>
+    <length>22</length>
+    <height />
+    <nutrition_info>{"1회제공량":"420","총내용량(g)":"420","총내용량(mL)":"","에너지(㎉)":"240","단백질(g)":"5","지방(g)":"5","탄수화물(g)":"44","총당류(g)":"0","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1000","비타민":"","콜레스테롤(㎎)":"10","총 지방산(g)":"5",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/40224_동원양반전복죽/</folder>
+    <filename>40224_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/40224_동원양반전복죽/40224_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>동원양반전복죽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>675</xmin>
+        <ymin>546</ymin>
+        <xmax>1910</xmax>
+        <ymax>2462</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

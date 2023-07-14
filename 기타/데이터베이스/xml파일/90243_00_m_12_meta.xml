@@ -1,0 +1,50 @@
+<comp_cd>
+  0995
+  <identifier>
+    <identifier>90243_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>09950700005</item_cd>
+    <item_no>90243</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>절임/잼</div_m>
+    <div_s>과일잼</div_s>
+    <div_n>과일잼</div_n>
+    <comp_nm>온리프라이스</comp_nm>
+    <img_prod_nm>onlyprice 깔끔하게 짜먹는 딸기잼</img_prod_nm>
+    <volume>500G</volume>
+    <barcd>8801068385588</barcd>
+    <width>13</width>
+    <length />
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"500","총내용량(mL)":"","에너지(㎉)":"234","단백질(g)":"0.6","지방(g)":"0.4","탄수화물(g)":"57","총당류(g)":"55","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"15","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"0.4",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/90243_onlyprice깔끔하게짜먹는딸기잼/</folder>
+    <filename>90243_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/90243_onlyprice깔끔하게짜먹는딸기잼/90243_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>onlyprice깔끔하게짜먹는딸기잼</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>556</xmin>
+        <ymin>560</ymin>
+        <xmax>1852</xmax>
+        <ymax>2542</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

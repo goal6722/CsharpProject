@@ -1,0 +1,62 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>15666_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>00000100008</item_cd>
+    <item_no>15666</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>젤리</div_s>
+    <div_n>젤리</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>오리지날 젤리빈스위트센세이션 200G</img_prod_nm>
+    <volume>200G</volume>
+    <barcd>8718469320899</barcd>
+    <width>10</width>
+    <length>4</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"200","총내용량(mL)":"0","에너지(㎉)":"365","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"91","총당류(g)":"76","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"30","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15666_오리지날젤리빈스위트센세이션200G/</folder>
+    <filename>15666_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15666_오리지날젤리빈스위트센세이션200G/15666_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오리지날젤리빈스위트센세이션200G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1538</xmin>
+        <ymin>461</ymin>
+        <xmax>2383</xmax>
+        <ymax>2591</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오리지날젤리빈스위트센세이션200G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>942</xmin>
+        <ymin>701</ymin>
+        <xmax>1576</xmax>
+        <ymax>2279</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

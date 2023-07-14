@@ -1,0 +1,50 @@
+<comp_cd>
+  1390
+  <identifier>
+    <identifier>35121_00_m_8.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>13900900007</item_cd>
+    <item_no>35121</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>풀무원</comp_nm>
+    <img_prod_nm>풀무원식품)아임리얼스무디아이스트로베리190ML</img_prod_nm>
+    <volume>190ML</volume>
+    <barcd>8801114127025</barcd>
+    <width>6</width>
+    <length>5</length>
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"190","에너지(㎉)":"115","단백질(g)":"3","지방(g)":"28","탄수화물(g)":"21","총당류(g)":"18","총 식이섬유(g)":"3","칼슘(㎎)":"88","철(㎍)":"0.6","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"80","비타민":"53","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35121_풀무원식품)아임리얼스무디아이스트로베리190ML/</folder>
+    <filename>35121_00_m_8.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35121_풀무원식품)아임리얼스무디아이스트로베리190ML/35121_00_m_8.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>풀무원식품)아임리얼스무디아이스트로베리190ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>964</xmin>
+        <ymin>210</ymin>
+        <xmax>1822</xmax>
+        <ymax>2656</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

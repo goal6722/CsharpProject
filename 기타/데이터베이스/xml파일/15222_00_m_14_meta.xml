@@ -1,0 +1,62 @@
+<comp_cd>
+  1520
+  <identifier>
+    <identifier>15222_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>15200800003</item_cd>
+    <item_no>15222</item_no>
+    <div_l>유제품</div_l>
+    <div_m>요구르트</div_m>
+    <div_s>마시는 요구르트</div_s>
+    <div_n>마시는 요구르트</div_n>
+    <comp_nm>홈플러스</comp_nm>
+    <img_prod_nm>홈플러스마시는유산군DELIGHT</img_prod_nm>
+    <volume>750ML</volume>
+    <barcd>8809350882500</barcd>
+    <width>8</width>
+    <length>8</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"","총내용량(mL)":"750","에너지(㎉)":"50","단백질(g)":"1.1","지방(g)":"","탄수화물(g)":"11.3","총당류(g)":"8.1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"13.4","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/15222_홈플러스마시는유산군DELIGHT/</folder>
+    <filename>15222_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/15222_홈플러스마시는유산군DELIGHT/15222_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>홈플러스마시는유산군DELIGHT</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1549</xmin>
+        <ymin>255</ymin>
+        <xmax>2376</xmax>
+        <ymax>2697</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>홈플러스마시는유산군DELIGHT</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>843</xmin>
+        <ymin>342</ymin>
+        <xmax>1586</xmax>
+        <ymax>2631</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

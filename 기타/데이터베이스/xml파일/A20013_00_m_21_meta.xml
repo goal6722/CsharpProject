@@ -1,0 +1,62 @@
+<comp_cd>
+  0243
+  <identifier>
+    <identifier>A20013_00_m_21.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>02431300087</item_cd>
+    <item_no>A20013</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>커피</div_s>
+    <div_n>모카</div_n>
+    <comp_nm>동서식품</comp_nm>
+    <img_prod_nm>맥심)부드러운블랙모카골드</img_prod_nm>
+    <volume>54G</volume>
+    <barcd>8801037044782</barcd>
+    <width>9</width>
+    <length>4</length>
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"2.7","총내용량(g)":"54","총내용량(mL)":"","에너지(㎉)":"10","단백질(g)":"","지방(g)":"","탄수화물(g)":"2","총당류(g)":"1.7","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"3","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/A20013_맥심)부드러운블랙모카골드/</folder>
+    <filename>A20013_00_m_21.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/A20013_맥심)부드러운블랙모카골드/A20013_00_m_21.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>맥심)부드러운블랙모카골드</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>455</xmin>
+        <ymin>327</ymin>
+        <xmax>1677</xmax>
+        <ymax>2729</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>맥심)부드러운블랙모카골드</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1449</xmin>
+        <ymin>580</ymin>
+        <xmax>2142</xmax>
+        <ymax>2405</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

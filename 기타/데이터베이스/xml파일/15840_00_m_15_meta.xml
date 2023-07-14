@@ -1,0 +1,62 @@
+<comp_cd>
+  0153
+  <identifier>
+    <identifier>15840_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>01530300004</item_cd>
+    <item_no>15840</item_no>
+    <div_l>면류</div_l>
+    <div_m>용기면</div_m>
+    <div_s>비빔용기라면</div_s>
+    <div_n>짜장라면</div_n>
+    <comp_nm>농심</comp_nm>
+    <img_prod_nm>농심 사천짜파게티컵 115G</img_prod_nm>
+    <volume>115G</volume>
+    <barcd>8801043020237</barcd>
+    <width>11</width>
+    <length />
+    <height>9</height>
+    <nutrition_info>{"1회제공량":"115","총내용량(g)":"","총내용량(mL)":"0","에너지(㎉)":"535","단백질(g)":"9","지방(g)":"0","탄수화물(g)":"80","총당류(g)":"9","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"1010","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"29",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/15840_농심사천짜파게티컵115G/</folder>
+    <filename>15840_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/15840_농심사천짜파게티컵115G/15840_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>농심사천짜파게티컵115G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1453</xmin>
+        <ymin>1149</ymin>
+        <xmax>2730</xmax>
+        <ymax>2064</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>농심사천짜파게티컵115G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>537</xmin>
+        <ymin>1200</ymin>
+        <xmax>1584</xmax>
+        <ymax>1967</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

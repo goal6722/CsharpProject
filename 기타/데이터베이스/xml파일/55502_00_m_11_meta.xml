@@ -1,0 +1,62 @@
+<comp_cd>
+  0309
+  <identifier>
+    <identifier>55502_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>03091100001</item_cd>
+    <item_no>55502</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>핸드크림</div_s>
+    <div_n>핸드크림</div_n>
+    <comp_nm>루리화장</comp_nm>
+    <img_prod_nm>루리화장품닥터바이오너리싱핸드크림</img_prod_nm>
+    <volume>80ML</volume>
+    <barcd>8807779095983</barcd>
+    <width>4</width>
+    <length>4</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/55502_루리화장품닥터바이오너리싱핸드크림/</folder>
+    <filename>55502_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/55502_루리화장품닥터바이오너리싱핸드크림/55502_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>루리화장품닥터바이오너리싱핸드크림</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>751</xmin>
+        <ymin>47</ymin>
+        <xmax>1589</xmax>
+        <ymax>2930</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>루리화장품닥터바이오너리싱핸드크림</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1402</xmin>
+        <ymin>111</ymin>
+        <xmax>2118</xmax>
+        <ymax>2864</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,50 @@
+<comp_cd>
+  0206
+  <identifier>
+    <identifier>30198_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>02060700001</item_cd>
+    <item_no>30198</item_no>
+    <div_l>소스</div_l>
+    <div_m>가공분만류</div_m>
+    <div_s>밀가루</div_s>
+    <div_n>밀가루</div_n>
+    <comp_nm>대한제분</comp_nm>
+    <img_prod_nm>곰표)튀김가루1KG</img_prod_nm>
+    <volume>1KG</volume>
+    <barcd>8801176250020</barcd>
+    <width>17</width>
+    <length>8</length>
+    <height>29</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"1000","총내용량(mL)":"","에너지(㎉)":"365","단백질(g)":"9","지방(g)":"1.8","탄수화물(g)":"79","총당류(g)":"1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"490","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"1.8",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/30198_곰표)튀김가루1KG/</folder>
+    <filename>30198_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/30198_곰표)튀김가루1KG/30198_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>곰표)튀김가루1KG</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>287</xmin>
+        <ymin>404</ymin>
+        <xmax>1709</xmax>
+        <ymax>2365</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

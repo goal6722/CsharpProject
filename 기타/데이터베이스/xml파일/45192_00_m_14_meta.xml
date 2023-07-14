@@ -1,0 +1,62 @@
+<comp_cd>
+  0124
+  <identifier>
+    <identifier>45192_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>01240100007</item_cd>
+    <item_no>45192</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>스낵</div_m>
+    <div_s>영유아과자</div_s>
+    <div_n>영유아과자</div_n>
+    <comp_nm>남양유업</comp_nm>
+    <img_prod_nm>남양유업)아이꼬야감자퐁30G</img_prod_nm>
+    <volume>30G</volume>
+    <barcd />
+    <width>17</width>
+    <length>9</length>
+    <height>26</height>
+    <nutrition_info>{"1회제공량":"30","총내용량(g)":"30","총내용량(mL)":"","에너지(㎉)":"112","단백질(g)":"2","지방(g)":"0","탄수화물(g)":"26","총당류(g)":"2.5","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"95","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45192_남양유업)아이꼬야감자퐁30G/</folder>
+    <filename>45192_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45192_남양유업)아이꼬야감자퐁30G/45192_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>남양유업)아이꼬야감자퐁30G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>401</xmin>
+        <ymin>629</ymin>
+        <xmax>1527</xmax>
+        <ymax>2472</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>남양유업)아이꼬야감자퐁30G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1505</xmin>
+        <ymin>483</ymin>
+        <xmax>2891</xmax>
+        <ymax>2600</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

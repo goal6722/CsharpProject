@@ -1,0 +1,62 @@
+<comp_cd>
+  0296
+  <identifier>
+    <identifier>A40033_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>02960100002</item_cd>
+    <item_no>A40033</item_no>
+    <div_l>과자</div_l>
+    <div_m>스낵</div_m>
+    <div_s>밀가루스낵</div_s>
+    <div_n>밀가루스낵</div_n>
+    <comp_nm>로아커</comp_nm>
+    <img_prod_nm>로아커사로아커웨하스샌드위치초콜릿</img_prod_nm>
+    <volume>200g</volume>
+    <barcd>8000380004669</barcd>
+    <width>13</width>
+    <length>7</length>
+    <height>23</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"200","총내용량(mL)":"0","에너지(㎉)":"498","단백질(g)":"8","지방(g)":"25.2","탄수화물(g)":"59.8","총당류(g)":"26.2","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"146","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/A40033_로아커사로아커웨하스샌드위치초콜릿/</folder>
+    <filename>A40033_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/A40033_로아커사로아커웨하스샌드위치초콜릿/A40033_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>로아커사로아커웨하스샌드위치초콜릿</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1238</xmin>
+        <ymin>324</ymin>
+        <xmax>2549</xmax>
+        <ymax>2676</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>로아커사로아커웨하스샌드위치초콜릿</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>746</xmin>
+        <ymin>507</ymin>
+        <xmax>1660</xmax>
+        <ymax>2315</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  1058
+  <identifier>
+    <identifier>26022_00_m_3.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    12
+    <item_cd>10581200001</item_cd>
+    <item_no>26022</item_no>
+    <div_l>주류</div_l>
+    <div_m>전통주</div_m>
+    <div_s>고량주</div_s>
+    <div_n>고량주</div_n>
+    <comp_nm>유한금융회사</comp_nm>
+    <img_prod_nm>유한회사금용 이과두주125ML</img_prod_nm>
+    <volume>125ML</volume>
+    <barcd>5998850337993</barcd>
+    <width>5</width>
+    <length />
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/26022_유한회사금용이과두주125ML/</folder>
+    <filename>26022_00_m_3.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/26022_유한회사금용이과두주125ML/26022_00_m_3.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>유한회사금용이과두주125ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1415</xmin>
+        <ymin>149</ymin>
+        <xmax>2195</xmax>
+        <ymax>2870</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>유한회사금용이과두주125ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>756</xmin>
+        <ymin>206</ymin>
+        <xmax>1447</xmax>
+        <ymax>2800</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

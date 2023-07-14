@@ -1,0 +1,62 @@
+<comp_cd>
+  0301
+  <identifier>
+    <identifier>15911_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>03010100020</item_cd>
+    <item_no>15911</item_no>
+    <div_l>과자</div_l>
+    <div_m>초콜렛</div_m>
+    <div_s>쉘초콜릿</div_s>
+    <div_n>쉘초콜릿</div_n>
+    <comp_nm>롯데제과</comp_nm>
+    <img_prod_nm>롯데 폴리페놀드림카카오72%174G</img_prod_nm>
+    <volume>174G</volume>
+    <barcd>8801062269853</barcd>
+    <width>7</width>
+    <length />
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"174","총내용량(mL)":"0","에너지(㎉)":"630","단백질(g)":"11","지방(g)":"45","탄수화물(g)":"45","총당류(g)":"28","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"230","비타민":"0","콜레스테롤(㎎)":"5","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15911_롯데폴리페놀드림카카오72_174G/</folder>
+    <filename>15911_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15911_롯데폴리페놀드림카카오72_174G/15911_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데폴리페놀드림카카오72_174G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>433</xmin>
+        <ymin>647</ymin>
+        <xmax>1652</xmax>
+        <ymax>2362</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데폴리페놀드림카카오72_174G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1486</xmin>
+        <ymin>691</ymin>
+        <xmax>2704</xmax>
+        <ymax>2321</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

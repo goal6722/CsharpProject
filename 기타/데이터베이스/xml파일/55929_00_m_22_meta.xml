@@ -1,0 +1,62 @@
+<comp_cd>
+  0196
+  <identifier>
+    <identifier>55929_00_m_22.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>01960900001</item_cd>
+    <item_no>55929</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>대웅생명과학</comp_nm>
+    <img_prod_nm>대웅생명과학)글램디4킬로칼로리곤약워터젤리자두맛</img_prod_nm>
+    <volume>150G</volume>
+    <barcd>8809506802550</barcd>
+    <width>10</width>
+    <length>4</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"150","총내용량(g)":"150","총내용량(mL)":"0","에너지(㎉)":"4","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"12","총당류(g)":"0","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"60","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/55929_대웅생명과학)글램디4킬로칼로리곤약워터젤리자두맛/</folder>
+    <filename>55929_00_m_22.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/55929_대웅생명과학)글램디4킬로칼로리곤약워터젤리자두맛/55929_00_m_22.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>대웅생명과학)글램디4킬로칼로리곤약워터젤리자두맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>521</xmin>
+        <ymin>259</ymin>
+        <xmax>1531</xmax>
+        <ymax>2677</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>대웅생명과학)글램디4킬로칼로리곤약워터젤리자두맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1521</xmin>
+        <ymin>402</ymin>
+        <xmax>2239</xmax>
+        <ymax>2389</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

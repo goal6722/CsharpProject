@@ -1,0 +1,62 @@
+<comp_cd>
+  0877
+  <identifier>
+    <identifier>45259_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>08771000002</item_cd>
+    <item_no>45259</item_no>
+    <div_l>의약외품</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>밴드류</div_s>
+    <div_n>밴드류</div_n>
+    <comp_nm>에버레이드</comp_nm>
+    <img_prod_nm>에버레이드)메디힐에이제로샷스킨드레싱패치80패치</img_prod_nm>
+    <volume>80패치</volume>
+    <barcd>8809470126195</barcd>
+    <width>7</width>
+    <length>2</length>
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/의약외품/45259_에버레이드)메디힐에이제로샷스킨드레싱패치80패치/</folder>
+    <filename>45259_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/의약외품/45259_에버레이드)메디힐에이제로샷스킨드레싱패치80패치/45259_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>에버레이드)메디힐에이제로샷스킨드레싱패치80패치</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1483</xmin>
+        <ymin>155</ymin>
+        <xmax>2811</xmax>
+        <ymax>2665</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>에버레이드)메디힐에이제로샷스킨드레싱패치80패치</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>289</xmin>
+        <ymin>209</ymin>
+        <xmax>1538</xmax>
+        <ymax>2594</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

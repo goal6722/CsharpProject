@@ -1,0 +1,62 @@
+<comp_cd>
+  0052
+  <identifier>
+    <identifier>35694_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>00520900003</item_cd>
+    <item_no>35694</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>고구려통상</comp_nm>
+    <img_prod_nm>고구려통상)가토수박맛</img_prod_nm>
+    <volume>320ML</volume>
+    <barcd>8850624197226</barcd>
+    <width>6</width>
+    <length />
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"320","에너지(㎉)":"72","단백질(g)":"","지방(g)":"","탄수화물(g)":"18","총당류(g)":"16","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"400","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35694_고구려통상)가토수박맛/</folder>
+    <filename>35694_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35694_고구려통상)가토수박맛/35694_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>고구려통상)가토수박맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>688</xmin>
+        <ymin>192</ymin>
+        <xmax>1531</xmax>
+        <ymax>2755</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>고구려통상)가토수박맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1502</xmin>
+        <ymin>241</ymin>
+        <xmax>2310</xmax>
+        <ymax>2701</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

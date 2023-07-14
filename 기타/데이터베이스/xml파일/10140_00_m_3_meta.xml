@@ -1,0 +1,74 @@
+<comp_cd>
+  0307
+  <identifier>
+    <identifier>10140_00_m_3.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    14
+    <item_cd>03071400001</item_cd>
+    <item_no>10140</item_no>
+    <div_l>통조림/안주</div_l>
+    <div_m>통조림</div_m>
+    <div_s>가미통조림</div_s>
+    <div_n>옥수수/반찬통조림</div_n>
+    <comp_nm>롯데햄</comp_nm>
+    <img_prod_nm>롯데햄장조림140G</img_prod_nm>
+    <volume>140G</volume>
+    <barcd>8801123600540</barcd>
+    <width>9</width>
+    <length>9</length>
+    <height>4</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"150","총내용량(mL)":"0","에너지(㎉)":"140","단백질(g)":"19","지방(g)":"6","탄수화물(g)":"2","총당류(g)":"2","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"1150","비타민":"0","콜레스테롤(㎎)":"55","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/10140_롯데햄장조림140G/</folder>
+    <filename>10140_00_m_3.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/10140_롯데햄장조림140G/10140_00_m_3.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데햄장조림140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>384</xmin>
+        <ymin>1328</ymin>
+        <xmax>1112</xmax>
+        <ymax>1708</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데햄장조림140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1067</xmin>
+        <ymin>1327</ymin>
+        <xmax>1883</xmax>
+        <ymax>1743</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데햄장조림140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1853</xmin>
+        <ymin>1327</ymin>
+        <xmax>2813</xmax>
+        <ymax>1790</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

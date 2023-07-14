@@ -1,0 +1,74 @@
+<comp_cd>
+  0825
+  <identifier>
+    <identifier>30081_0_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    10
+    <item_cd>08251000013</item_cd>
+    <item_no>30081</item_no>
+    <div_l>의약외품</div_l>
+    <div_m>구강용품</div_m>
+    <div_s>치약</div_s>
+    <div_n>치약</div_n>
+    <comp_nm>아모레퍼시픽</comp_nm>
+    <img_prod_nm>아모레퍼시픽)메디안치석오리지널치약120G</img_prod_nm>
+    <volume>120G</volume>
+    <barcd>8806403146473</barcd>
+    <width>4</width>
+    <length>4</length>
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/의약외품/30081_아모레퍼시픽)메디안치석오리지널치약120G/</folder>
+    <filename>30081_0_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/의약외품/30081_아모레퍼시픽)메디안치석오리지널치약120G/30081_0_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>아모레퍼시픽)메디안치석오리지널치약120G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>547</xmin>
+        <ymin>206</ymin>
+        <xmax>1361</xmax>
+        <ymax>2851</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아모레퍼시픽)메디안치석오리지널치약120G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1125</xmin>
+        <ymin>244</ymin>
+        <xmax>1905</xmax>
+        <ymax>2795</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아모레퍼시픽)메디안치석오리지널치약120G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1739</xmin>
+        <ymin>287</ymin>
+        <xmax>2422</xmax>
+        <ymax>2714</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

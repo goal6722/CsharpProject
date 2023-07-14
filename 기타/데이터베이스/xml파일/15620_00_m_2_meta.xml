@@ -1,0 +1,62 @@
+<comp_cd>
+  0009
+  <identifier>
+    <identifier>15620_00_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>00090900001</item_cd>
+    <item_no>15620</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>Dole 코리아</comp_nm>
+    <img_prod_nm>돌코리아 오렌지팝 496ML</img_prod_nm>
+    <volume>496ML</volume>
+    <barcd>8809069306441</barcd>
+    <width>14</width>
+    <length>7</length>
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"62","총내용량(g)":"","총내용량(mL)":"496","에너지(㎉)":"50","단백질(g)":"","지방(g)":"","탄수화물(g)":"12","총당류(g)":"8","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"5","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/15620_돌코리아오렌지팝496ML/</folder>
+    <filename>15620_00_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/15620_돌코리아오렌지팝496ML/15620_00_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>돌코리아오렌지팝496ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1450</xmin>
+        <ymin>571</ymin>
+        <xmax>2761</xmax>
+        <ymax>2498</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>돌코리아오렌지팝496ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>296</xmin>
+        <ymin>665</ymin>
+        <xmax>1535</xmax>
+        <ymax>2414</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0941
+  <identifier>
+    <identifier>65187_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>09411100140</item_cd>
+    <item_no>65187</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>핸드크림</div_s>
+    <div_n>핸드크림</div_n>
+    <comp_nm>엘지생활건강</comp_nm>
+    <img_prod_nm>엘지생활건강)온더바디스윗리틀라이언핸드크림(상큼한베리향)30ML</img_prod_nm>
+    <volume>30ML</volume>
+    <barcd />
+    <width>6</width>
+    <length>3</length>
+    <height>9</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/65187_엘지생활건강)온더바디스윗리틀라이언핸드크림(상큼한베리향)30ML/</folder>
+    <filename>65187_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/65187_엘지생활건강)온더바디스윗리틀라이언핸드크림(상큼한베리향)30ML/65187_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>엘지생활건강)온더바디스윗리틀라이언핸드크림(상큼한베리향)30ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>330</xmin>
+        <ymin>393</ymin>
+        <xmax>1443</xmax>
+        <ymax>2649</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>엘지생활건강)온더바디스윗리틀라이언핸드크림(상큼한베리향)30ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1444</xmin>
+        <ymin>334</ymin>
+        <xmax>2776</xmax>
+        <ymax>2795</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

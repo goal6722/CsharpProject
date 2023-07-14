@@ -1,0 +1,50 @@
+<comp_cd>
+  0243
+  <identifier>
+    <identifier>60139_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>02431300063</item_cd>
+    <item_no>60139</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>커피</div_s>
+    <div_n>모카</div_n>
+    <comp_nm>동서식품</comp_nm>
+    <img_prod_nm>맥심)모카골드마일드커피믹스50스틱600G</img_prod_nm>
+    <volume>600G</volume>
+    <barcd>8801037022322</barcd>
+    <width>16</width>
+    <length>17</length>
+    <height>8</height>
+    <nutrition_info>{"1회제공량":"12","총내용량(g)":"600","총내용량(mL)":"","에너지(㎉)":"50","단백질(g)":"","지방(g)":"","탄수화물(g)":"9","총당류(g)":"6","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"5","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"3",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/60139_맥심)모카골드마일드커피믹스50스틱600G/</folder>
+    <filename>60139_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/60139_맥심)모카골드마일드커피믹스50스틱600G/60139_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>맥심)모카골드마일드커피믹스50스틱600G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>655</xmin>
+        <ymin>919</ymin>
+        <xmax>1986</xmax>
+        <ymax>2420</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

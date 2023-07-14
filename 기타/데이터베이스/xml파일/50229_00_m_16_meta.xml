@@ -1,0 +1,74 @@
+<comp_cd>
+  0383
+  <identifier>
+    <identifier>50229_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    15
+    <item_cd>03831500004</item_cd>
+    <item_no>50229</item_no>
+    <div_l>홈클린</div_l>
+    <div_m>기타</div_m>
+    <div_s>기타</div_s>
+    <div_n>기타</div_n>
+    <comp_nm>메디앙스</comp_nm>
+    <img_prod_nm>메디앙스B&amp;B젖병세정제 액상형</img_prod_nm>
+    <volume>600ML</volume>
+    <barcd>8801092520252</barcd>
+    <width>8</width>
+    <length>7</length>
+    <height>23</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/50229_메디앙스B_B젖병세정제액상형/</folder>
+    <filename>50229_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/50229_메디앙스B_B젖병세정제액상형/50229_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>메디앙스B_B젖병세정제액상형</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1849</xmin>
+        <ymin>189</ymin>
+        <xmax>2761</xmax>
+        <ymax>2671</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>메디앙스B_B젖병세정제액상형</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1285</xmin>
+        <ymin>337</ymin>
+        <xmax>1954</xmax>
+        <ymax>2473</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>메디앙스B_B젖병세정제액상형</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>829</xmin>
+        <ymin>444</ymin>
+        <xmax>1421</xmax>
+        <ymax>2327</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

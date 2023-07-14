@@ -1,0 +1,50 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>20235_00_m_6.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00050500021</item_cd>
+    <item_no>20235</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석밥</div_s>
+    <div_n>즉석밥</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ햇반컵반낙지콩나물비빔밥216g</img_prod_nm>
+    <volume>216g</volume>
+    <barcd>8801007710655</barcd>
+    <width>10</width>
+    <length>10</length>
+    <height>9</height>
+    <nutrition_info>{"1회제공량":"216","총내용량(g)":"216","총내용량(mL)":"","에너지(㎉)":"320","단백질(g)":"9","지방(g)":"3.9","탄수화물(g)":"62","총당류(g)":"6","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"890","비타민":"","콜레스테롤(㎎)":"25","총 지방산(g)":"3.9",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/20235_CJ햇반컵반낙지콩나물비빔밥216g/</folder>
+    <filename>20235_00_m_6.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/20235_CJ햇반컵반낙지콩나물비빔밥216g/20235_00_m_6.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ햇반컵반낙지콩나물비빔밥216g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1196</xmin>
+        <ymin>1262</ymin>
+        <xmax>2370</xmax>
+        <ymax>2198</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0124
+  <identifier>
+    <identifier>10318_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>01241300001</item_cd>
+    <item_no>10318</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>기타</div_s>
+    <div_n>기능성차</div_n>
+    <comp_nm>남양유업</comp_nm>
+    <img_prod_nm>남양몸이가벼워지는시간17차25T</img_prod_nm>
+    <volume>37.5G</volume>
+    <barcd>8801069221601</barcd>
+    <width>14</width>
+    <length>8</length>
+    <height>7</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/10318_남양몸이가벼워지는시간17차25T/</folder>
+    <filename>10318_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/10318_남양몸이가벼워지는시간17차25T/10318_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>남양몸이가벼워지는시간17차25T</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>235</xmin>
+        <ymin>989</ymin>
+        <xmax>1732</xmax>
+        <ymax>1951</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>남양몸이가벼워지는시간17차25T</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1429</xmin>
+        <ymin>1107</ymin>
+        <xmax>2424</xmax>
+        <ymax>1823</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

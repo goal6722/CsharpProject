@@ -1,0 +1,74 @@
+<comp_cd>
+  0398
+  <identifier>
+    <identifier>30021_0_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03980900001</item_cd>
+    <item_no>30021</item_no>
+    <div_l>음료</div_l>
+    <div_m>커피음료</div_m>
+    <div_s>커피음료</div_s>
+    <div_n>커피음료</div_n>
+    <comp_nm>몬스터에</comp_nm>
+    <img_prod_nm>몬스터에너지파이프라인펀치355ML</img_prod_nm>
+    <volume>355ML</volume>
+    <barcd>4897036692424</barcd>
+    <width>5</width>
+    <length />
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"355","에너지(㎉)":"150","단백질(g)":"1","지방(g)":"0.1","탄수화물(g)":"36","총당류(g)":"35","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":"100"","칼륨(㎎)":"","나트륨(㎎)":"66","비타민":"44.6","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30021_몬스터에너지파이프라인펀치355ML/</folder>
+    <filename>30021_0_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30021_몬스터에너지파이프라인펀치355ML/30021_0_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>몬스터에너지파이프라인펀치355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>313</xmin>
+        <ymin>138</ymin>
+        <xmax>1256</xmax>
+        <ymax>2819</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>몬스터에너지파이프라인펀치355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1092</xmin>
+        <ymin>264</ymin>
+        <xmax>1868</xmax>
+        <ymax>2609</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>몬스터에너지파이프라인펀치355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1679</xmin>
+        <ymin>343</ymin>
+        <xmax>2362</xmax>
+        <ymax>2442</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

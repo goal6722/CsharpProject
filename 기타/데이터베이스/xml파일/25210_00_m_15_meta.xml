@@ -1,0 +1,62 @@
+<comp_cd>
+  1389
+  <identifier>
+    <identifier>25210_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>13890800005</item_cd>
+    <item_no>25210</item_no>
+    <div_l>유제품</div_l>
+    <div_m>요구르트</div_m>
+    <div_s>떠먹는 요구르트</div_s>
+    <div_n>떠먹는 요구르트</div_n>
+    <comp_nm>푸르밀</comp_nm>
+    <img_prod_nm>푸르밀)살아있는생유산균프로바이오요거트딸기85G</img_prod_nm>
+    <volume>85G</volume>
+    <barcd>8806371309238</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"85","총내용량(mL)":"","에너지(㎉)":"75","단백질(g)":"3","지방(g)":"1.5","탄수화물(g)":"12","총당류(g)":"11","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"60","비타민":"","콜레스테롤(㎎)":"5","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/25210_푸르밀)살아있는생유산균프로바이오요거트딸기85G/</folder>
+    <filename>25210_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/25210_푸르밀)살아있는생유산균프로바이오요거트딸기85G/25210_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>푸르밀)살아있는생유산균프로바이오요거트딸기85G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1098</xmin>
+        <ymin>1040</ymin>
+        <xmax>2598</xmax>
+        <ymax>2154</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>푸르밀)살아있는생유산균프로바이오요거트딸기85G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>193</xmin>
+        <ymin>1062</ymin>
+        <xmax>1490</xmax>
+        <ymax>2058</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

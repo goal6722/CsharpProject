@@ -1,0 +1,50 @@
+<comp_cd>
+  0721
+  <identifier>
+    <identifier>65921_00_s_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>07210100001</item_cd>
+    <item_no>65921</item_no>
+    <div_l>과자</div_l>
+    <div_m>파이류</div_m>
+    <div_s>파이</div_s>
+    <div_n>파이</div_n>
+    <comp_nm>스위트스에이스</comp_nm>
+    <img_prod_nm>스위트스에이스)미니스낵패스트리크림</img_prod_nm>
+    <volume>125G</volume>
+    <barcd>8000350001148</barcd>
+    <width>24</width>
+    <length>11</length>
+    <height>4</height>
+    <nutrition_info>{"1회제공량":"125","총내용량(g)":"125","총내용량(mL)":"0","에너지(㎉)":"677","단백질(g)":"8.1","지방(g)":"41.3","탄수화물(g)":"68.3","총당류(g)":"35","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"400","비타민":"0","콜레스테롤(㎎)":"50","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/65921_스위트스에이스)미니스낵패스트리크림/</folder>
+    <filename>65921_00_s_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/65921_스위트스에이스)미니스낵패스트리크림/65921_00_s_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>스위트스에이스)미니스낵패스트리크림</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>372</xmin>
+        <ymin>835</ymin>
+        <xmax>2672</xmax>
+        <ymax>2148</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

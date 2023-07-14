@@ -1,0 +1,62 @@
+<comp_cd>
+  0124
+  <identifier>
+    <identifier>35207_00_m_24.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>01240900017</item_cd>
+    <item_no>35207</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>남양유업</comp_nm>
+    <img_prod_nm>남양유업)초코에몽180ML</img_prod_nm>
+    <volume>180ML</volume>
+    <barcd>8801069171067</barcd>
+    <width>5</width>
+    <length>3</length>
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"180","에너지(㎉)":"175","단백질(g)":"5","지방(g)":"6","탄수화물(g)":"25","총당류(g)":"20","총 식이섬유(g)":"","칼슘(㎎)":"215","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"75","비타민":"","콜레스테롤(㎎)":"20","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35207_남양유업)초코에몽180ML/</folder>
+    <filename>35207_00_m_24.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35207_남양유업)초코에몽180ML/35207_00_m_24.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>남양유업)초코에몽180ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>575</xmin>
+        <ymin>408</ymin>
+        <xmax>1569</xmax>
+        <ymax>2732</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>남양유업)초코에몽180ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1526</xmin>
+        <ymin>457</ymin>
+        <xmax>2492</xmax>
+        <ymax>2688</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

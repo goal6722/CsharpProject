@@ -1,0 +1,62 @@
+<comp_cd>
+  0561
+  <identifier>
+    <identifier>65757_00_m_21.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    14
+    <item_cd>05611400019</item_cd>
+    <item_no>65757</item_no>
+    <div_l>통조림/안주</div_l>
+    <div_m>통조림</div_m>
+    <div_s>보일드통조림</div_s>
+    <div_n>참치통조림</div_n>
+    <comp_nm>사조</comp_nm>
+    <img_prod_nm>사조손이안전한찌개전용참치3캔100G*3</img_prod_nm>
+    <volume>300G</volume>
+    <barcd>8801075011913</barcd>
+    <width>7</width>
+    <length>7</length>
+    <height>9</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"300","총내용량(mL)":"0","에너지(㎉)":"185","단백질(g)":"19","지방(g)":"11","탄수화물(g)":"3","총당류(g)":"0","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"530","비타민":"0","콜레스테롤(㎎)":"50","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/65757_사조손이안전한찌개전용참치3캔100G_3/</folder>
+    <filename>65757_00_m_21.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/65757_사조손이안전한찌개전용참치3캔100G_3/65757_00_m_21.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>사조손이안전한찌개전용참치3캔100G_3</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>385</xmin>
+        <ymin>577</ymin>
+        <xmax>1870</xmax>
+        <ymax>2428</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>사조손이안전한찌개전용참치3캔100G_3</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1386</xmin>
+        <ymin>677</ymin>
+        <xmax>2460</xmax>
+        <ymax>2267</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

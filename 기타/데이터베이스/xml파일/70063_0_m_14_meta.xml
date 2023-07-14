@@ -1,0 +1,74 @@
+<comp_cd>
+  0580
+  <identifier>
+    <identifier>70063_0_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>05800900001</item_cd>
+    <item_no>70063</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>사이다</div_s>
+    <div_n>사이다</div_n>
+    <comp_nm>삼경에프에스</comp_nm>
+    <img_prod_nm>이로하스화이트피치555ML</img_prod_nm>
+    <volume>555ML</volume>
+    <barcd />
+    <width>6</width>
+    <length />
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"0","총내용량(mL)":"555","에너지(㎉)":"108","단백질(g)":"","지방(g)":"","탄수화물(g)":"27","총당류(g)":"18","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"155","비타민":"0","콜레스테롤(㎎)":"","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/70063_이로하스화이트피치555ML/</folder>
+    <filename>70063_0_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/70063_이로하스화이트피치555ML/70063_0_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>이로하스화이트피치555ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1843</xmin>
+        <ymin>210</ymin>
+        <xmax>2638</xmax>
+        <ymax>2717</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>이로하스화이트피치555ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>424</xmin>
+        <ymin>324</ymin>
+        <xmax>1128</xmax>
+        <ymax>2623</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>이로하스화이트피치555ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1125</xmin>
+        <ymin>283</ymin>
+        <xmax>1860</xmax>
+        <ymax>2663</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

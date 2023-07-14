@@ -1,0 +1,62 @@
+<comp_cd>
+  0215
+  <identifier>
+    <identifier>36014_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>02151100005</item_cd>
+    <item_no>36014</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>화장품</div_m>
+    <div_s>리무버</div_s>
+    <div_n>리무버</div_n>
+    <comp_nm>더샘인터내셔날</comp_nm>
+    <img_prod_nm>더샘인터내셔날)더샘힐링티가든그린티립앤아이리무버</img_prod_nm>
+    <volume>150ML</volume>
+    <barcd>8806164119105</barcd>
+    <width>5</width>
+    <length />
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/36014_더샘인터내셔날)더샘힐링티가든그린티립앤아이리무버/</folder>
+    <filename>36014_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/36014_더샘인터내셔날)더샘힐링티가든그린티립앤아이리무버/36014_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>더샘인터내셔날)더샘힐링티가든그린티립앤아이리무버</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>585</xmin>
+        <ymin>210</ymin>
+        <xmax>1549</xmax>
+        <ymax>2800</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>더샘인터내셔날)더샘힐링티가든그린티립앤아이리무버</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1517</xmin>
+        <ymin>273</ymin>
+        <xmax>2412</xmax>
+        <ymax>2761</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

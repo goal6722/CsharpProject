@@ -1,0 +1,62 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>66302_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900231</item_cd>
+    <item_no>66302</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데델몬트파인애플드링크190ML</img_prod_nm>
+    <volume>190ML</volume>
+    <barcd>8801056020378</barcd>
+    <width>5</width>
+    <length>3</length>
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"0","총내용량(mL)":"190","에너지(㎉)":"60","단백질(g)":"","지방(g)":"","탄수화물(g)":"15","총당류(g)":"15","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"20","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/66302_롯데델몬트파인애플드링크190ML/</folder>
+    <filename>66302_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/66302_롯데델몬트파인애플드링크190ML/66302_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데델몬트파인애플드링크190ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>352</xmin>
+        <ymin>233</ymin>
+        <xmax>1428</xmax>
+        <ymax>2719</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데델몬트파인애플드링크190ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1404</xmin>
+        <ymin>228</ymin>
+        <xmax>2463</xmax>
+        <ymax>2704</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

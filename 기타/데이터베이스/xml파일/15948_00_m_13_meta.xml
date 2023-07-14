@@ -1,0 +1,62 @@
+<comp_cd>
+  0298
+  <identifier>
+    <identifier>15948_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>02980500002</item_cd>
+    <item_no>15948</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레저취미</div_m>
+    <div_s>반려묘간식</div_s>
+    <div_n>반려묘간식</div_n>
+    <comp_nm>롯데네슬레코리아</comp_nm>
+    <img_prod_nm>롯데네슬레코리아 프리스키파우치키튼참치80G</img_prod_nm>
+    <volume>80G</volume>
+    <barcd>8850127062632</barcd>
+    <width>10</width>
+    <length>1</length>
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15948_롯데네슬레코리아프리스키파우치키튼참치80G/</folder>
+    <filename>15948_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15948_롯데네슬레코리아프리스키파우치키튼참치80G/15948_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데네슬레코리아프리스키파우치키튼참치80G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1442</xmin>
+        <ymin>794</ymin>
+        <xmax>2579</xmax>
+        <ymax>2459</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데네슬레코리아프리스키파우치키튼참치80G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>322</xmin>
+        <ymin>802</ymin>
+        <xmax>1441</xmax>
+        <ymax>2466</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

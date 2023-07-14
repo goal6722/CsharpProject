@@ -1,0 +1,74 @@
+<comp_cd>
+  1274
+  <identifier>
+    <identifier>10030_0_m_24.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12740900007</item_cd>
+    <item_no>10030</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>혼합탄산</div_s>
+    <div_n>혼합탄산</div_n>
+    <comp_nm>코카콜라음료</comp_nm>
+    <img_prod_nm>코카콜라)더탄산애플민트450ML</img_prod_nm>
+    <volume>450ML</volume>
+    <barcd />
+    <width>6</width>
+    <length>6</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"450","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"14","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/10030_코카콜라)더탄산애플민트450ML/</folder>
+    <filename>10030_0_m_24.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/10030_코카콜라)더탄산애플민트450ML/10030_0_m_24.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>코카콜라)더탄산애플민트450ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>498</xmin>
+        <ymin>232</ymin>
+        <xmax>1246</xmax>
+        <ymax>2741</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카콜라)더탄산애플민트450ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1226</xmin>
+        <ymin>291</ymin>
+        <xmax>1904</xmax>
+        <ymax>2698</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카콜라)더탄산애플민트450ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1880</xmin>
+        <ymin>321</ymin>
+        <xmax>2565</xmax>
+        <ymax>2668</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

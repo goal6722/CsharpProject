@@ -1,0 +1,62 @@
+<comp_cd>
+  0561
+  <identifier>
+    <identifier>46076_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    14
+    <item_cd>05611400012</item_cd>
+    <item_no>46076</item_no>
+    <div_l>통조림/안주</div_l>
+    <div_m>통조림</div_m>
+    <div_s>보일드통조림</div_s>
+    <div_n>기타수산통조림</div_n>
+    <comp_nm>사조</comp_nm>
+    <img_prod_nm>사조)초이스엘건강담은습식사료맛살</img_prod_nm>
+    <volume>160G</volume>
+    <barcd>8809239323612</barcd>
+    <width>7</width>
+    <length />
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"0","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"","비타민":"0","콜레스테롤(㎎)":"","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/46076_사조)초이스엘건강담은습식사료맛살/</folder>
+    <filename>46076_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/46076_사조)초이스엘건강담은습식사료맛살/46076_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>사조)초이스엘건강담은습식사료맛살</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>411</xmin>
+        <ymin>1043</ymin>
+        <xmax>1249</xmax>
+        <ymax>1897</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>사조)초이스엘건강담은습식사료맛살</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1217</xmin>
+        <ymin>1016</ymin>
+        <xmax>2601</xmax>
+        <ymax>2054</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

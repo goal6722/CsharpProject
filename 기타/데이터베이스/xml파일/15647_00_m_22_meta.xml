@@ -1,0 +1,50 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>15647_00_m_22.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00050500016</item_cd>
+    <item_no>15647</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>소시지</div_m>
+    <div_s>소시지</div_s>
+    <div_n>소시지</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ 맥스봉체다치즈어랏 400G</img_prod_nm>
+    <volume>400G</volume>
+    <barcd>8801007795638</barcd>
+    <width>17</width>
+    <length>9</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"20","총내용량(g)":"400","총내용량(mL)":"","에너지(㎉)":"35","단백질(g)":"2","지방(g)":"2.1","탄수화물(g)":"2","총당류(g)":"1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"140","비타민":"","콜레스테롤(㎎)":"5","총 지방산(g)":"2.1",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15647_CJ맥스봉체다치즈어랏400G/</folder>
+    <filename>15647_00_m_22.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15647_CJ맥스봉체다치즈어랏400G/15647_00_m_22.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ맥스봉체다치즈어랏400G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>827</xmin>
+        <ymin>369</ymin>
+        <xmax>2103</xmax>
+        <ymax>2619</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

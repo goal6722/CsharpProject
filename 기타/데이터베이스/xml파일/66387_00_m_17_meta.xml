@@ -1,0 +1,62 @@
+<comp_cd>
+  0284
+  <identifier>
+    <identifier>66387_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>02840600007</item_cd>
+    <item_no>66387</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>소독제</div_s>
+    <div_n>손소독제</div_n>
+    <comp_nm>라이온코리아</comp_nm>
+    <img_prod_nm>라이온코리아아이깨끗해상큼한레몬향100G</img_prod_nm>
+    <volume>100G</volume>
+    <barcd>8806325607243</barcd>
+    <width>10</width>
+    <length>4</length>
+    <height>6</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/66387_라이온코리아아이깨끗해상큼한레몬향100G/</folder>
+    <filename>66387_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/66387_라이온코리아아이깨끗해상큼한레몬향100G/66387_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>라이온코리아아이깨끗해상큼한레몬향100G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1283</xmin>
+        <ymin>864</ymin>
+        <xmax>2608</xmax>
+        <ymax>2009</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>라이온코리아아이깨끗해상큼한레몬향100G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>820</xmin>
+        <ymin>1072</ymin>
+        <xmax>1451</xmax>
+        <ymax>1889</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

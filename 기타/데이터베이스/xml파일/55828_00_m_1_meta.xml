@@ -1,0 +1,62 @@
+<comp_cd>
+  1335
+  <identifier>
+    <identifier>55828_00_m_1.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>13350100010</item_cd>
+    <item_no>55828</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>토이캔디</div_s>
+    <div_n>토이캔디</div_n>
+    <comp_nm>투데이</comp_nm>
+    <img_prod_nm>투데이)캐쳐토이캔디(핑크)</img_prod_nm>
+    <volume>15G</volume>
+    <barcd>6914204008578</barcd>
+    <width>9</width>
+    <length>11</length>
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"15","총내용량(g)":"15","총내용량(mL)":"0","에너지(㎉)":"56","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"14","총당류(g)":"14","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"0","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/55828_투데이)캐쳐토이캔디(핑크)/</folder>
+    <filename>55828_00_m_1.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/55828_투데이)캐쳐토이캔디(핑크)/55828_00_m_1.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>투데이)캐쳐토이캔디(핑크)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1485</xmin>
+        <ymin>696</ymin>
+        <xmax>2782</xmax>
+        <ymax>2120</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>투데이)캐쳐토이캔디(핑크)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>301</xmin>
+        <ymin>701</ymin>
+        <xmax>1489</xmax>
+        <ymax>2117</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  1024
+  <identifier>
+    <identifier>35786_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>10240100005</item_cd>
+    <item_no>35786</item_no>
+    <div_l>과자</div_l>
+    <div_m>비스킷</div_m>
+    <div_s>스틱과자</div_s>
+    <div_n>스틱과자</div_n>
+    <comp_nm>원더풀에프엔비</comp_nm>
+    <img_prod_nm>원더풀에프엔비)쿠기초콜릿맛와퍼스틱</img_prod_nm>
+    <volume>120G</volume>
+    <barcd>4712277822723</barcd>
+    <width>20</width>
+    <length>4</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"60","총내용량(g)":"120","총내용량(mL)":"0","에너지(㎉)":"292","단백질(g)":"3","지방(g)":"13","탄수화물(g)":"42","총당류(g)":"23","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"50","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/35786_원더풀에프엔비)쿠기초콜릿맛와퍼스틱/</folder>
+    <filename>35786_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/35786_원더풀에프엔비)쿠기초콜릿맛와퍼스틱/35786_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>원더풀에프엔비)쿠기초콜릿맛와퍼스틱</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>122</xmin>
+        <ymin>421</ymin>
+        <xmax>1542</xmax>
+        <ymax>2604</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>원더풀에프엔비)쿠기초콜릿맛와퍼스틱</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1392</xmin>
+        <ymin>633</ymin>
+        <xmax>2471</xmax>
+        <ymax>2420</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

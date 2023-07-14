@@ -1,0 +1,62 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>25422_00_m_1.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00050500030</item_cd>
+    <item_no>25422</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석밥</div_s>
+    <div_n>즉석밥</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ 햇반컵반 치킨커리덮밥 278G</img_prod_nm>
+    <volume>278G</volume>
+    <barcd>8801007445069</barcd>
+    <width>10</width>
+    <length />
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"278","총내용량(g)":"278","총내용량(mL)":"","에너지(㎉)":"355","단백질(g)":"11","지방(g)":"4.3","탄수화물(g)":"68","총당류(g)":"4","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"770","비타민":"","콜레스테롤(㎎)":"15","총 지방산(g)":"4.3",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/25422_CJ햇반컵반치킨커리덮밥278G/</folder>
+    <filename>25422_00_m_1.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/25422_CJ햇반컵반치킨커리덮밥278G/25422_00_m_1.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ햇반컵반치킨커리덮밥278G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1482</xmin>
+        <ymin>1159</ymin>
+        <xmax>2783</xmax>
+        <ymax>2134</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ햇반컵반치킨커리덮밥278G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>165</xmin>
+        <ymin>1179</ymin>
+        <xmax>1494</xmax>
+        <ymax>2193</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

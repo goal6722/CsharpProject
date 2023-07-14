@@ -1,0 +1,62 @@
+<comp_cd>
+  0124
+  <identifier>
+    <identifier>65071_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>01240900029</item_cd>
+    <item_no>65071</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>어린이음료</div_s>
+    <div_n>어린이음료</div_n>
+    <comp_nm>남양유업</comp_nm>
+    <img_prod_nm>남양아이꼬야한뼘더큰아기랑콩이랑2단계120ML</img_prod_nm>
+    <volume>120ML</volume>
+    <barcd>880169408521</barcd>
+    <width>5</width>
+    <length>9</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"120","에너지(㎉)":"80","단백질(g)":"3.7","지방(g)":"3","탄수화물(g)":"9","총당류(g)":"5.3","총 식이섬유(g)":"","칼슘(㎎)":"140","철(㎍)":"1.3","마그네슘(㎎)":"카페인(㎎)":""8","칼륨(㎎)":"123","나트륨(㎎)":"53","비타민":"91.25","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/65071_남양아이꼬야한뼘더큰아기랑콩이랑2단계120ML/</folder>
+    <filename>65071_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/65071_남양아이꼬야한뼘더큰아기랑콩이랑2단계120ML/65071_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>남양아이꼬야한뼘더큰아기랑콩이랑2단계120ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1538</xmin>
+        <ymin>258</ymin>
+        <xmax>2922</xmax>
+        <ymax>2686</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>남양아이꼬야한뼘더큰아기랑콩이랑2단계120ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>156</xmin>
+        <ymin>231</ymin>
+        <xmax>1617</xmax>
+        <ymax>2786</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

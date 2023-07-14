@@ -1,0 +1,62 @@
+<comp_cd>
+  0413
+  <identifier>
+    <identifier>15332_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>04130700005</item_cd>
+    <item_no>15332</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>파스타소스</div_s>
+    <div_n>파스타소스</div_n>
+    <comp_nm>미성패밀리</comp_nm>
+    <img_prod_nm>레고스 페스토 선드라이드토마토 190G</img_prod_nm>
+    <volume>190G</volume>
+    <barcd>93352208</barcd>
+    <width>6</width>
+    <length />
+    <height>9</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"190","총내용량(mL)":"","에너지(㎉)":"385","단백질(g)":"","지방(g)":"","탄수화물(g)":"7.2","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/15332_레고스페스토선드라이드토마토190G/</folder>
+    <filename>15332_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/15332_레고스페스토선드라이드토마토190G/15332_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>레고스페스토선드라이드토마토190G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>361</xmin>
+        <ymin>693</ymin>
+        <xmax>1619</xmax>
+        <ymax>2431</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>레고스페스토선드라이드토마토190G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1297</xmin>
+        <ymin>780</ymin>
+        <xmax>2434</xmax>
+        <ymax>2344</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

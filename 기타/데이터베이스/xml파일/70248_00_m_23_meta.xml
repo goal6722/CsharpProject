@@ -1,0 +1,74 @@
+<comp_cd>
+  0941
+  <identifier>
+    <identifier>70248_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    15
+    <item_cd>09411500052</item_cd>
+    <item_no>70248</item_no>
+    <div_l>홈클린</div_l>
+    <div_m>제습/탈취</div_m>
+    <div_s>섬유용탈취제</div_s>
+    <div_n>섬유용탈취제</div_n>
+    <comp_nm>엘지생활건강</comp_nm>
+    <img_prod_nm>엘지샤프란케어스타일러(섬유탈취제)</img_prod_nm>
+    <volume>100ML</volume>
+    <barcd>8801051262995</barcd>
+    <width>3</width>
+    <length>3</length>
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/70248_엘지샤프란케어스타일러(섬유탈취제)/</folder>
+    <filename>70248_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/70248_엘지샤프란케어스타일러(섬유탈취제)/70248_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>엘지샤프란케어스타일러(섬유탈취제)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>543</xmin>
+        <ymin>112</ymin>
+        <xmax>1344</xmax>
+        <ymax>2800</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>엘지샤프란케어스타일러(섬유탈취제)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1760</xmin>
+        <ymin>188</ymin>
+        <xmax>2463</xmax>
+        <ymax>2659</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>엘지샤프란케어스타일러(섬유탈취제)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1179</xmin>
+        <ymin>152</ymin>
+        <xmax>1925</xmax>
+        <ymax>2731</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

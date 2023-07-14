@@ -1,0 +1,74 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>80018_0_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900179</item_cd>
+    <item_no>80018</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>혼합탄산</div_s>
+    <div_n>혼합탄산</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데밀키스340ML</img_prod_nm>
+    <volume>340ML</volume>
+    <barcd>8801056043551</barcd>
+    <width>6</width>
+    <length />
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"340","총내용량(g)":"0","총내용량(mL)":"340","에너지(㎉)":"170","단백질(g)":"1","지방(g)":"","탄수화물(g)":"42","총당류(g)":"42","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"22","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/80018_롯데밀키스340ML/</folder>
+    <filename>80018_0_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/80018_롯데밀키스340ML/80018_0_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데밀키스340ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1059</xmin>
+        <ymin>660</ymin>
+        <xmax>1922</xmax>
+        <ymax>2365</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데밀키스340ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1917</xmin>
+        <ymin>627</ymin>
+        <xmax>2827</xmax>
+        <ymax>2370</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데밀키스340ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>202</xmin>
+        <ymin>671</ymin>
+        <xmax>1055</xmax>
+        <ymax>2353</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

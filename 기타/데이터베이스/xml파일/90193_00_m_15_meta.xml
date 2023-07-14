@@ -1,0 +1,74 @@
+<comp_cd>
+  1159
+  <identifier>
+    <identifier>90193_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>11590100001</item_cd>
+    <item_no>90193</item_no>
+    <div_l>과자</div_l>
+    <div_m>스낵</div_m>
+    <div_s>쌀스낵</div_s>
+    <div_n>전통과자?</div_n>
+    <comp_nm>조은제과</comp_nm>
+    <img_prod_nm>조은제과청우밥풀과자</img_prod_nm>
+    <volume>100g</volume>
+    <barcd>8801204401042</barcd>
+    <width>14</width>
+    <length>23</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"100","총내용량(mL)":"0","에너지(㎉)":"393","단백질(g)":"8","지방(g)":"1.4","탄수화물(g)":"87","총당류(g)":"22","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"46","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/90193_조은제과청우밥풀과자/</folder>
+    <filename>90193_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/90193_조은제과청우밥풀과자/90193_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>조은제과청우밥풀과자</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1662</xmin>
+        <ymin>789</ymin>
+        <xmax>2819</xmax>
+        <ymax>2266</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>조은제과청우밥풀과자</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>350</xmin>
+        <ymin>891</ymin>
+        <xmax>1140</xmax>
+        <ymax>2094</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>조은제과청우밥풀과자</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>971</xmin>
+        <ymin>813</ymin>
+        <xmax>1871</xmax>
+        <ymax>2166</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  1520
+  <identifier>
+    <identifier>25404_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>15200500014</item_cd>
+    <item_no>25404</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>초콜렛</div_m>
+    <div_s>쉘초콜릿</div_s>
+    <div_n>쉘초콜릿</div_n>
+    <comp_nm>홈플러스</comp_nm>
+    <img_prod_nm>홈플러스시그니쳐 오리지널트러플 450G</img_prod_nm>
+    <volume>450G</volume>
+    <barcd>3472710053725</barcd>
+    <width>19</width>
+    <length>10</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"450","총내용량(mL)":"","에너지(㎉)":"589","단백질(g)":"4","지방(g)":"45","탄수화물(g)":"42","총당류(g)":"40","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"15","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"45",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/25404_홈플러스시그니쳐오리지널트러플450G/</folder>
+    <filename>25404_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/25404_홈플러스시그니쳐오리지널트러플450G/25404_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>홈플러스시그니쳐오리지널트러플450G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1411</xmin>
+        <ymin>1003</ymin>
+        <xmax>2829</xmax>
+        <ymax>1903</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>홈플러스시그니쳐오리지널트러플450G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>220</xmin>
+        <ymin>1033</ymin>
+        <xmax>1535</xmax>
+        <ymax>1845</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

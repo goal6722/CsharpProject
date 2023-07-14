@@ -1,0 +1,62 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>90021_0_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900209</item_cd>
+    <item_no>90021</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>혼합탄산</div_s>
+    <div_n>혼합탄산</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>칸타타콜드브루라떼275ML</img_prod_nm>
+    <volume>275ML</volume>
+    <barcd>8801056090227</barcd>
+    <width>5</width>
+    <length />
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"275","총내용량(g)":"0","총내용량(mL)":"275","에너지(㎉)":"95","단백질(g)":"3","지방(g)":"1.5","탄수화물(g)":"17","총당류(g)":"14","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"165","비타민":"0","콜레스테롤(㎎)":"5","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/90021_칸타타콜드브루라떼275ML/</folder>
+    <filename>90021_0_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/90021_칸타타콜드브루라떼275ML/90021_0_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>칸타타콜드브루라떼275ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1474</xmin>
+        <ymin>339</ymin>
+        <xmax>2581</xmax>
+        <ymax>2715</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>칸타타콜드브루라떼275ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1009</xmin>
+        <ymin>562</ymin>
+        <xmax>1875</xmax>
+        <ymax>2446</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>65098_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>00051300002</item_cd>
+    <item_no>65098</item_no>
+    <div_l>커피차</div_l>
+    <div_m>액상차</div_m>
+    <div_s>생강차</div_s>
+    <div_n>생강차</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ백설리얼생강청310ML</img_prod_nm>
+    <volume>310ML</volume>
+    <barcd>8801007803852</barcd>
+    <width>5</width>
+    <length>5</length>
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"310","에너지(㎉)":"355","단백질(g)":"","지방(g)":"","탄수화물(g)":"89","총당류(g)":"79","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"5","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65098_CJ백설리얼생강청310ML/</folder>
+    <filename>65098_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65098_CJ백설리얼생강청310ML/65098_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ백설리얼생강청310ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1506</xmin>
+        <ymin>97</ymin>
+        <xmax>2244</xmax>
+        <ymax>2857</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ백설리얼생강청310ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>917</xmin>
+        <ymin>223</ymin>
+        <xmax>1562</xmax>
+        <ymax>2735</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

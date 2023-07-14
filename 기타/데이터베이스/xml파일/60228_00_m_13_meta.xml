@@ -1,0 +1,74 @@
+<comp_cd>
+  0956
+  <identifier>
+    <identifier>60228_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>09560800001</item_cd>
+    <item_no>60228</item_no>
+    <div_l>유제품</div_l>
+    <div_m>우유</div_m>
+    <div_s>가공우유</div_s>
+    <div_n>초코우유</div_n>
+    <comp_nm>연세유업</comp_nm>
+    <img_prod_nm>연세 마카다미아초코우유</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8801753102704</barcd>
+    <width>7</width>
+    <length />
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"500","에너지(㎉)":"375","단백질(g)":"11","지방(g)":"7","탄수화물(g)":"67","총당류(g)":"65","총 식이섬유(g)":"0","칼슘(㎎)":"","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"300","비타민":"0","콜레스테롤(㎎)":"30","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/60228_연세마카다미아초코우유/</folder>
+    <filename>60228_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/60228_연세마카다미아초코우유/60228_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>연세마카다미아초코우유</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1925</xmin>
+        <ymin>428</ymin>
+        <xmax>2804</xmax>
+        <ymax>2212</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>연세마카다미아초코우유</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>204</xmin>
+        <ymin>452</ymin>
+        <xmax>1095</xmax>
+        <ymax>2211</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>연세마카다미아초코우유</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1065</xmin>
+        <ymin>434</ymin>
+        <xmax>1928</xmax>
+        <ymax>2214</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

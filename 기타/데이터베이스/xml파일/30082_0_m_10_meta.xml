@@ -1,0 +1,74 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>30082_0_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>00000100011</item_cd>
+    <item_no>30082</item_no>
+    <div_l>과자</div_l>
+    <div_m>견과류</div_m>
+    <div_s>아몬드</div_s>
+    <div_n>아몬드</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>허니버터아몬드130G</img_prod_nm>
+    <volume>130G</volume>
+    <barcd>8809617944491</barcd>
+    <width>12</width>
+    <length>5</length>
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"0","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"","비타민":"0","콜레스테롤(㎎)":"","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/30082_허니버터아몬드130G/</folder>
+    <filename>30082_0_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/30082_허니버터아몬드130G/30082_0_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>허니버터아몬드130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>354</xmin>
+        <ymin>709</ymin>
+        <xmax>1290</xmax>
+        <ymax>2517</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>허니버터아몬드130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1238</xmin>
+        <ymin>764</ymin>
+        <xmax>1820</xmax>
+        <ymax>2298</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>허니버터아몬드130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1777</xmin>
+        <ymin>816</ymin>
+        <xmax>2263</xmax>
+        <ymax>2148</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

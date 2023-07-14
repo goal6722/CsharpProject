@@ -1,0 +1,62 @@
+<comp_cd>
+  0135
+  <identifier>
+    <identifier>15267_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>01350500007</item_cd>
+    <item_no>15267</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>기타레토르트</div_s>
+    <div_n>기타레토르트</div_n>
+    <comp_nm>네슬레코리아</comp_nm>
+    <img_prod_nm>네슬레 거버2단계이유식망고사과트위스트226G</img_prod_nm>
+    <volume>226G</volume>
+    <barcd>01500007903</barcd>
+    <width>8</width>
+    <length>5</length>
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"113","총내용량(g)":"226","총내용량(mL)":"","에너지(㎉)":"95","단백질(g)":"0.7","지방(g)":"0.5","탄수화물(g)":"22","총당류(g)":"15","총 식이섬유(g)":"1","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"137","나트륨(㎎)":"15","비타민":"18","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15267_네슬레거버2단계이유식망고사과트위스트226G/</folder>
+    <filename>15267_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15267_네슬레거버2단계이유식망고사과트위스트226G/15267_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>네슬레거버2단계이유식망고사과트위스트226G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1468</xmin>
+        <ymin>780</ymin>
+        <xmax>2742</xmax>
+        <ymax>2205</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>네슬레거버2단계이유식망고사과트위스트226G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>335</xmin>
+        <ymin>841</ymin>
+        <xmax>1606</xmax>
+        <ymax>2160</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

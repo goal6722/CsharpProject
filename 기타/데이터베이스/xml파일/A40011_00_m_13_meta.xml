@@ -1,0 +1,62 @@
+<comp_cd>
+  1070
+  <identifier>
+    <identifier>A40011_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>10700100010</item_cd>
+    <item_no>A40011</item_no>
+    <div_l>과자</div_l>
+    <div_m>스낵</div_m>
+    <div_s>스틱과자</div_s>
+    <div_n>스틱과자</div_n>
+    <comp_nm>이마트24</comp_nm>
+    <img_prod_nm>(주)이마트24바닐라향 웨이퍼롤</img_prod_nm>
+    <volume>115g</volume>
+    <barcd>8995077605123</barcd>
+    <width>9</width>
+    <length>3</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"115","총내용량(mL)":"0","에너지(㎉)":"490","단백질(g)":"3","지방(g)":"20","탄수화물(g)":"74","총당류(g)":"43","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"105","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/A40011_(주)이마트24바닐라향웨이퍼롤/</folder>
+    <filename>A40011_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/A40011_(주)이마트24바닐라향웨이퍼롤/A40011_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>(주)이마트24바닐라향웨이퍼롤</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>307</xmin>
+        <ymin>275</ymin>
+        <xmax>1482</xmax>
+        <ymax>2642</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>(주)이마트24바닐라향웨이퍼롤</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1458</xmin>
+        <ymin>286</ymin>
+        <xmax>2628</xmax>
+        <ymax>2635</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

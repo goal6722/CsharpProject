@@ -1,0 +1,62 @@
+<comp_cd>
+  1069
+  <identifier>
+    <identifier>15861_00_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>10690900001</item_cd>
+    <item_no>15861</item_no>
+    <div_l>음료</div_l>
+    <div_m>차음료</div_m>
+    <div_s>일반차음료</div_s>
+    <div_n>일반차음료</div_n>
+    <comp_nm>이마트</comp_nm>
+    <img_prod_nm>이마트 피코크 갈아만든자몽오미자400G</img_prod_nm>
+    <volume>400G</volume>
+    <barcd>8809720891792</barcd>
+    <width>7</width>
+    <length />
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"400","총내용량(mL)":"","에너지(㎉)":"970","단백질(g)":"1","지방(g)":"0.7","탄수화물(g)":"240","총당류(g)":"211","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"161","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/15861_이마트피코크갈아만든자몽오미자400G/</folder>
+    <filename>15861_00_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/15861_이마트피코크갈아만든자몽오미자400G/15861_00_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>이마트피코크갈아만든자몽오미자400G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>555</xmin>
+        <ymin>537</ymin>
+        <xmax>1476</xmax>
+        <ymax>2477</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>이마트피코크갈아만든자몽오미자400G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1463</xmin>
+        <ymin>513</ymin>
+        <xmax>2412</xmax>
+        <ymax>2513</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

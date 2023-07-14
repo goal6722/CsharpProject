@@ -1,0 +1,62 @@
+<comp_cd>
+  0251
+  <identifier>
+    <identifier>35077_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>02510500011</item_cd>
+    <item_no>35077</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석죽</div_s>
+    <div_n>즉석죽</div_n>
+    <comp_nm>동원F&amp;B</comp_nm>
+    <img_prod_nm>동원F&amp;B)양반수라차돌삼합죽420G</img_prod_nm>
+    <volume>420G</volume>
+    <barcd>8801047169918</barcd>
+    <width>14</width>
+    <length>7</length>
+    <height>23</height>
+    <nutrition_info>{"1회제공량":"420","총내용량(g)":"420","총내용량(mL)":"","에너지(㎉)":"240","단백질(g)":"9","지방(g)":"3","탄수화물(g)":"44","총당류(g)":"3","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"910","비타민":"","콜레스테롤(㎎)":"60","총 지방산(g)":"3",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35077_동원F_B)양반수라차돌삼합죽420G/</folder>
+    <filename>35077_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35077_동원F_B)양반수라차돌삼합죽420G/35077_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>동원F_B)양반수라차돌삼합죽420G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>261</xmin>
+        <ymin>736</ymin>
+        <xmax>1522</xmax>
+        <ymax>2549</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>동원F_B)양반수라차돌삼합죽420G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1479</xmin>
+        <ymin>641</ymin>
+        <xmax>2875</xmax>
+        <ymax>2608</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

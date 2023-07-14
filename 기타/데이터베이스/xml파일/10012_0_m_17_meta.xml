@@ -1,0 +1,62 @@
+<comp_cd>
+  1274
+  <identifier>
+    <identifier>10012_0_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12740900003</item_cd>
+    <item_no>10012</item_no>
+    <div_l>음료</div_l>
+    <div_m>커피음료</div_m>
+    <div_s>커피음료</div_s>
+    <div_n>커피음료</div_n>
+    <comp_nm>코카콜라음료</comp_nm>
+    <img_prod_nm>조지아고티카빈티지블랙390ML</img_prod_nm>
+    <volume>300ML</volume>
+    <barcd>8801056048310</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"300","에너지(㎉)":"130","단백질(g)":"","지방(g)":"","탄수화물(g)":"33","총당류(g)":"32","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"8","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/10012_조지아고티카빈티지블랙390ML/</folder>
+    <filename>10012_0_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/10012_조지아고티카빈티지블랙390ML/10012_0_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>조지아고티카빈티지블랙390ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1504</xmin>
+        <ymin>121</ymin>
+        <xmax>2537</xmax>
+        <ymax>2876</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>조지아고티카빈티지블랙390ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1083</xmin>
+        <ymin>295</ymin>
+        <xmax>1943</xmax>
+        <ymax>2622</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

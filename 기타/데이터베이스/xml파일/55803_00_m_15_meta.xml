@@ -1,0 +1,62 @@
+<comp_cd>
+  1096
+  <identifier>
+    <identifier>55803_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>10960500002</item_cd>
+    <item_no>55803</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>스낵</div_m>
+    <div_s>영유아과자</div_s>
+    <div_n>영유아과자</div_n>
+    <comp_nm>일동후디스</comp_nm>
+    <img_prod_nm>일동후디스)아이밀냠냠순배</img_prod_nm>
+    <volume>15G</volume>
+    <barcd>8801157552716</barcd>
+    <width>13</width>
+    <length>6</length>
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"15","총내용량(g)":"15","총내용량(mL)":"","에너지(㎉)":"51","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"13.5","총당류(g)":"12","총 식이섬유(g)":"1.5","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"0","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/55803_일동후디스)아이밀냠냠순배/</folder>
+    <filename>55803_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/55803_일동후디스)아이밀냠냠순배/55803_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>일동후디스)아이밀냠냠순배</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1442</xmin>
+        <ymin>457</ymin>
+        <xmax>2850</xmax>
+        <ymax>2465</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>일동후디스)아이밀냠냠순배</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>419</xmin>
+        <ymin>632</ymin>
+        <xmax>1446</xmax>
+        <ymax>2258</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

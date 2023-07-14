@@ -1,0 +1,74 @@
+<comp_cd>
+  0169
+  <identifier>
+    <identifier>10280_00_m_4.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>01691100001</item_cd>
+    <item_no>10280</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>바디보습</div_s>
+    <div_n>바디보습</div_n>
+    <comp_nm>니베아</comp_nm>
+    <img_prod_nm>니베아맨딥쉐이빙젤</img_prod_nm>
+    <volume>200ML</volume>
+    <barcd>4005900495143</barcd>
+    <width>5</width>
+    <length />
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/10280_니베아맨딥쉐이빙젤/</folder>
+    <filename>10280_00_m_4.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/10280_니베아맨딥쉐이빙젤/10280_00_m_4.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>니베아맨딥쉐이빙젤</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1569</xmin>
+        <ymin>154</ymin>
+        <xmax>2260</xmax>
+        <ymax>2842</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>니베아맨딥쉐이빙젤</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1170</xmin>
+        <ymin>311</ymin>
+        <xmax>1750</xmax>
+        <ymax>2657</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>니베아맨딥쉐이빙젤</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>841</xmin>
+        <ymin>428</ymin>
+        <xmax>1325</xmax>
+        <ymax>2515</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

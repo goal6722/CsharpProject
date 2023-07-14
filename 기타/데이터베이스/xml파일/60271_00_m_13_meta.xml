@@ -1,0 +1,62 @@
+<comp_cd>
+  0023
+  <identifier>
+    <identifier>60271_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>00231300001</item_cd>
+    <item_no>60271</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>커피</div_s>
+    <div_n>아메리카노</div_n>
+    <comp_nm>SweetHug</comp_nm>
+    <img_prod_nm>SweetHug)아메리카노30T</img_prod_nm>
+    <volume>30G</volume>
+    <barcd>8801055705894</barcd>
+    <width>8</width>
+    <length>13</length>
+    <height>6</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/60271_SweetHug)아메리카노30T/</folder>
+    <filename>60271_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/60271_SweetHug)아메리카노30T/60271_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>SweetHug)아메리카노30T</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>463</xmin>
+        <ymin>752</ymin>
+        <xmax>1421</xmax>
+        <ymax>2193</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>SweetHug)아메리카노30T</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1421</xmin>
+        <ymin>741</ymin>
+        <xmax>2367</xmax>
+        <ymax>2195</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

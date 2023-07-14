@@ -1,0 +1,62 @@
+<comp_cd>
+  0243
+  <identifier>
+    <identifier>65313_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>02431300074</item_cd>
+    <item_no>65313</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>커피</div_s>
+    <div_n>아메리카노</div_n>
+    <comp_nm>동서식품</comp_nm>
+    <img_prod_nm>동서맥심부드러운블랙아라비카10020T</img_prod_nm>
+    <volume>56G</volume>
+    <barcd>8801037044799</barcd>
+    <width>8</width>
+    <length>4</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"2.8","총내용량(g)":"56","총내용량(mL)":"","에너지(㎉)":"10","단백질(g)":"","지방(g)":"","탄수화물(g)":"2.5","총당류(g)":"1.8","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"3","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65313_동서맥심부드러운블랙아라비카10020T/</folder>
+    <filename>65313_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65313_동서맥심부드러운블랙아라비카10020T/65313_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>동서맥심부드러운블랙아라비카10020T</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1469</xmin>
+        <ymin>347</ymin>
+        <xmax>2877</xmax>
+        <ymax>2673</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>동서맥심부드러운블랙아라비카10020T</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>286</xmin>
+        <ymin>426</ymin>
+        <xmax>1562</xmax>
+        <ymax>2557</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

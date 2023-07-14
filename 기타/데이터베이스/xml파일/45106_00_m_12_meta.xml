@@ -1,0 +1,62 @@
+<comp_cd>
+  1117
+  <identifier>
+    <identifier>45106_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>11170700006</item_cd>
+    <item_no>45106</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>가공분말류</div_m>
+    <div_s>곡물가루</div_s>
+    <div_n>곡물가루</div_n>
+    <comp_nm>전원식품</comp_nm>
+    <img_prod_nm>전원식품 옥수수전분맛 350G</img_prod_nm>
+    <volume>350G</volume>
+    <barcd>8803612001692</barcd>
+    <width>9</width>
+    <length />
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"350","총내용량(mL)":"","에너지(㎉)":"360","단백질(g)":"1","지방(g)":"0","탄수화물(g)":"89","총당류(g)":"1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"42","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/45106_전원식품옥수수전분맛350G/</folder>
+    <filename>45106_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/45106_전원식품옥수수전분맛350G/45106_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>전원식품옥수수전분맛350G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>49</xmin>
+        <ymin>457</ymin>
+        <xmax>1501</xmax>
+        <ymax>2434</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>전원식품옥수수전분맛350G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1487</xmin>
+        <ymin>522</ymin>
+        <xmax>2840</xmax>
+        <ymax>2395</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

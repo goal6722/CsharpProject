@@ -1,0 +1,62 @@
+<comp_cd>
+  1493
+  <identifier>
+    <identifier>25034_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>14930100014</item_cd>
+    <item_no>25034</item_no>
+    <div_l>과자</div_l>
+    <div_m>비스킷</div_m>
+    <div_s>크래커</div_s>
+    <div_n>크래커</div_n>
+    <comp_nm>해태</comp_nm>
+    <img_prod_nm>해태 에이스 436G</img_prod_nm>
+    <volume>436G</volume>
+    <barcd>8801019310348</barcd>
+    <width>24</width>
+    <length>6</length>
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"24","총내용량(g)":"436","총내용량(mL)":"0","에너지(㎉)":"130","단백질(g)":"2","지방(g)":"7","탄수화물(g)":"15","총당류(g)":"2","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"120","비타민":"0","콜레스테롤(㎎)":"1","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25034_해태에이스436G/</folder>
+    <filename>25034_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25034_해태에이스436G/25034_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>해태에이스436G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>236</xmin>
+        <ymin>601</ymin>
+        <xmax>2038</xmax>
+        <ymax>2328</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>해태에이스436G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1263</xmin>
+        <ymin>786</ymin>
+        <xmax>2641</xmax>
+        <ymax>2139</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

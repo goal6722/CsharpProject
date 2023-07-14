@@ -1,0 +1,62 @@
+<comp_cd>
+  0153
+  <identifier>
+    <identifier>15823_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>01530300003</item_cd>
+    <item_no>15823</item_no>
+    <div_l>면류</div_l>
+    <div_m>용기면</div_m>
+    <div_s>국물용기라면</div_s>
+    <div_n>일반라면</div_n>
+    <comp_nm>농심</comp_nm>
+    <img_prod_nm>농심 새우탕컵(소) 67G</img_prod_nm>
+    <volume>67G</volume>
+    <barcd>8801043015776</barcd>
+    <width>7</width>
+    <length />
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"67","총내용량(g)":"","총내용량(mL)":"0","에너지(㎉)":"290","단백질(g)":"5","지방(g)":"0","탄수화물(g)":"43","총당류(g)":"3","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"1210","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"17",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/15823_농심새우탕컵(소)67G/</folder>
+    <filename>15823_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/15823_농심새우탕컵(소)67G/15823_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>농심새우탕컵(소)67G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1506</xmin>
+        <ymin>771</ymin>
+        <xmax>2685</xmax>
+        <ymax>2148</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>농심새우탕컵(소)67G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>362</xmin>
+        <ymin>780</ymin>
+        <xmax>1512</xmax>
+        <ymax>2129</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

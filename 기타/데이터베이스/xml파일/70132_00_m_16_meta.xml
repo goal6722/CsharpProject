@@ -1,0 +1,74 @@
+<comp_cd>
+  1493
+  <identifier>
+    <identifier>70132_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>14930100054</item_cd>
+    <item_no>70132</item_no>
+    <div_l>과자</div_l>
+    <div_m>껌류</div_m>
+    <div_s>일반껌</div_s>
+    <div_n>일반껌</div_n>
+    <comp_nm>해태</comp_nm>
+    <img_prod_nm>해태키즈톨30G</img_prod_nm>
+    <volume>30G</volume>
+    <barcd>8801019408359</barcd>
+    <width>13</width>
+    <length>21</length>
+    <height />
+    <nutrition_info>{"1회제공량":"30","총내용량(g)":"30","총내용량(mL)":"0","에너지(㎉)":"80","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"27","총당류(g)":"0","총 식이섬유(g)":"0","칼슘(㎎)":"126","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"5","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/70132_해태키즈톨30G/</folder>
+    <filename>70132_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/70132_해태키즈톨30G/70132_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>해태키즈톨30G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1935</xmin>
+        <ymin>716</ymin>
+        <xmax>2786</xmax>
+        <ymax>2453</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>해태키즈톨30G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1341</xmin>
+        <ymin>831</ymin>
+        <xmax>1918</xmax>
+        <ymax>2259</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>해태키즈톨30G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>882</xmin>
+        <ymin>920</ymin>
+        <xmax>1348</xmax>
+        <ymax>2128</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

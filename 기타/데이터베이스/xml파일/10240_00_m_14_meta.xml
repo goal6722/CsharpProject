@@ -1,0 +1,74 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>10240_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00050500003</item_cd>
+    <item_no>10240</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석밥</div_s>
+    <div_n>즉석밥</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ햇반컵반설렁탕밥253g</img_prod_nm>
+    <volume>253g</volume>
+    <barcd>8801007778266</barcd>
+    <width>13</width>
+    <length />
+    <height>9</height>
+    <nutrition_info>{"1회제공량":"253","총내용량(g)":"253","총내용량(mL)":"","에너지(㎉)":"280","단백질(g)":"10","지방(g)":"2.2","탄수화물(g)":"55","총당류(g)":"1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"810","비타민":"","콜레스테롤(㎎)":"10","총 지방산(g)":"2.2",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/10240_CJ햇반컵반설렁탕밥253g/</folder>
+    <filename>10240_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/10240_CJ햇반컵반설렁탕밥253g/10240_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ햇반컵반설렁탕밥253g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1893</xmin>
+        <ymin>1141</ymin>
+        <xmax>2858</xmax>
+        <ymax>1842</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ햇반컵반설렁탕밥253g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>211</xmin>
+        <ymin>1163</ymin>
+        <xmax>1039</xmax>
+        <ymax>1768</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ햇반컵반설렁탕밥253g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1047</xmin>
+        <ymin>1152</ymin>
+        <xmax>1875</xmax>
+        <ymax>1799</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0004
+  <identifier>
+    <identifier>35191_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    02
+    <item_cd>00040200004</item_cd>
+    <item_no>35191</item_no>
+    <div_l>디저트</div_l>
+    <div_m>푸딩/젤리</div_m>
+    <div_s>냉장푸딩류</div_s>
+    <div_n>냉장푸딩류</div_n>
+    <comp_nm>CJ쟈뎅</comp_nm>
+    <img_prod_nm>CJ쟈뎅)쁘띠첼과일젤리복숭아90G</img_prod_nm>
+    <volume>90G</volume>
+    <barcd>8801007091310</barcd>
+    <width>7</width>
+    <length>7</length>
+    <height>4</height>
+    <nutrition_info>{"1회제공량":"90","총내용량(g)":"90","총내용량(mL)":"0","에너지(㎉)":"75","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"19","총당류(g)":"17","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"13","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/디저트/35191_CJ쟈뎅)쁘띠첼과일젤리복숭아90G/</folder>
+    <filename>35191_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/디저트/35191_CJ쟈뎅)쁘띠첼과일젤리복숭아90G/35191_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ쟈뎅)쁘띠첼과일젤리복숭아90G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>431</xmin>
+        <ymin>1432</ymin>
+        <xmax>1683</xmax>
+        <ymax>2040</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ쟈뎅)쁘띠첼과일젤리복숭아90G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1486</xmin>
+        <ymin>1448</ymin>
+        <xmax>2416</xmax>
+        <ymax>1962</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

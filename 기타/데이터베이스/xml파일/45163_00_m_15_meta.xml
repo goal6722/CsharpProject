@@ -1,0 +1,62 @@
+<comp_cd>
+  1520
+  <identifier>
+    <identifier>45163_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>15200500019</item_cd>
+    <item_no>45163</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>분말조리식</div_m>
+    <div_s>분말국/찌개</div_s>
+    <div_n>분말국/찌개</div_n>
+    <comp_nm>홈플러스</comp_nm>
+    <img_prod_nm>홈플러스)즉석미역국16G</img_prod_nm>
+    <volume>16G</volume>
+    <barcd>8809258780908</barcd>
+    <width>17</width>
+    <length>12</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"8","총내용량(g)":"16","총내용량(mL)":"","에너지(㎉)":"28","단백질(g)":"1","지방(g)":"0.7","탄수화물(g)":"4","총당류(g)":"1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"539","비타민":"","콜레스테롤(㎎)":"2","총 지방산(g)":"0.7",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/45163_홈플러스)즉석미역국16G/</folder>
+    <filename>45163_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/45163_홈플러스)즉석미역국16G/45163_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>홈플러스)즉석미역국16G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1477</xmin>
+        <ymin>346</ymin>
+        <xmax>2952</xmax>
+        <ymax>2643</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>홈플러스)즉석미역국16G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>418</xmin>
+        <ymin>527</ymin>
+        <xmax>1561</xmax>
+        <ymax>2458</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

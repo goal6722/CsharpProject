@@ -1,0 +1,74 @@
+<comp_cd>
+  0301
+  <identifier>
+    <identifier>90212_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>03010100180</item_cd>
+    <item_no>90212</item_no>
+    <div_l>과자</div_l>
+    <div_m>초콜렛</div_m>
+    <div_s>판초콜릿</div_s>
+    <div_n>판초콜릿</div_n>
+    <comp_nm>롯데제과</comp_nm>
+    <img_prod_nm>롯데허쉬크리미밀크초콜릿100G</img_prod_nm>
+    <volume>100G</volume>
+    <barcd>6942836707620</barcd>
+    <width>19</width>
+    <length>7</length>
+    <height />
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"540","총내용량(mL)":"0","에너지(㎉)":"540","단백질(g)":"9","지방(g)":"30","탄수화물(g)":"59","총당류(g)":"53","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"105","비타민":"0","콜레스테롤(㎎)":"20","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/90212_롯데허쉬크리미밀크초콜릿100G/</folder>
+    <filename>90212_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/90212_롯데허쉬크리미밀크초콜릿100G/90212_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데허쉬크리미밀크초콜릿100G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>195</xmin>
+        <ymin>1308</ymin>
+        <xmax>1143</xmax>
+        <ymax>1756</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데허쉬크리미밀크초콜릿100G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1048</xmin>
+        <ymin>1309</ymin>
+        <xmax>2040</xmax>
+        <ymax>1734</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데허쉬크리미밀크초콜릿100G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1822</xmin>
+        <ymin>1314</ymin>
+        <xmax>2813</xmax>
+        <ymax>1723</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

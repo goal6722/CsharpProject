@@ -1,0 +1,62 @@
+<comp_cd>
+  1060
+  <identifier>
+    <identifier>15764_00_m_3.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>10600600006</item_cd>
+    <item_no>15764</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>생리용품</div_m>
+    <div_s>생리대</div_s>
+    <div_n>날개형</div_n>
+    <comp_nm>유한킴벌리</comp_nm>
+    <img_prod_nm>유한킴벌리 좋은느낌유기농순면커버울트라슬림날개형대형 32개입</img_prod_nm>
+    <volume>32개입</volume>
+    <barcd>8801166232579</barcd>
+    <width>20</width>
+    <length>10</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/15764_유한킴벌리좋은느낌유기농순면커버울트라슬림날개형대형32개입/</folder>
+    <filename>15764_00_m_3.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/15764_유한킴벌리좋은느낌유기농순면커버울트라슬림날개형대형32개입/15764_00_m_3.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>유한킴벌리좋은느낌유기농순면커버울트라슬림날개형대형32개입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1296</xmin>
+        <ymin>469</ymin>
+        <xmax>2484</xmax>
+        <ymax>2322</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>유한킴벌리좋은느낌유기농순면커버울트라슬림날개형대형32개입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>437</xmin>
+        <ymin>583</ymin>
+        <xmax>1462</xmax>
+        <ymax>2228</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

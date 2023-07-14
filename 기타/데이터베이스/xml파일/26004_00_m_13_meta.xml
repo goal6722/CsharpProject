@@ -1,0 +1,62 @@
+<comp_cd>
+  1386
+  <identifier>
+    <identifier>26004_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>13860900001</item_cd>
+    <item_no>26004</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산수</div_m>
+    <div_s>플레인탄산수</div_s>
+    <div_n>플레인탄산수</div_n>
+    <comp_nm>푸드웰</comp_nm>
+    <img_prod_nm>푸드웰 닥터리브곤약젤리애플망고150G</img_prod_nm>
+    <volume>150G</volume>
+    <barcd>8809682984003</barcd>
+    <width>8</width>
+    <length>4</length>
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"150","총내용량(mL)":"","에너지(㎉)":"6","단백질(g)":"","지방(g)":"","탄수화물(g)":"13","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"100","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/26004_푸드웰닥터리브곤약젤리애플망고150G/</folder>
+    <filename>26004_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/26004_푸드웰닥터리브곤약젤리애플망고150G/26004_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>푸드웰닥터리브곤약젤리애플망고150G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>195</xmin>
+        <ymin>187</ymin>
+        <xmax>1475</xmax>
+        <ymax>2682</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>푸드웰닥터리브곤약젤리애플망고150G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1459</xmin>
+        <ymin>210</ymin>
+        <xmax>2729</xmax>
+        <ymax>2678</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

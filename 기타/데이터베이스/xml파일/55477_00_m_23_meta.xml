@@ -1,0 +1,62 @@
+<comp_cd>
+  0419
+  <identifier>
+    <identifier>55477_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>04191100006</item_cd>
+    <item_no>55477</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>두발용품</div_m>
+    <div_s>염색약</div_s>
+    <div_n>염색약</div_n>
+    <comp_nm>미쟝센</comp_nm>
+    <img_prod_nm>미쟝센헬로크림5쿨브라운</img_prod_nm>
+    <volume>1개입</volume>
+    <barcd>8809685834489</barcd>
+    <width>9</width>
+    <length>6</length>
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/55477_미쟝센헬로크림5쿨브라운/</folder>
+    <filename>55477_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/55477_미쟝센헬로크림5쿨브라운/55477_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>미쟝센헬로크림5쿨브라운</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>553</xmin>
+        <ymin>289</ymin>
+        <xmax>1659</xmax>
+        <ymax>2741</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>미쟝센헬로크림5쿨브라운</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1645</xmin>
+        <ymin>406</ymin>
+        <xmax>2422</xmax>
+        <ymax>2613</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

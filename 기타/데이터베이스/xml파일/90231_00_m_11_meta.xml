@@ -1,0 +1,74 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>90231_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900229</item_cd>
+    <item_no>90231</item_no>
+    <div_l>음료</div_l>
+    <div_m>차음료</div_m>
+    <div_s>일반차음료</div_s>
+    <div_n>일반차음료</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데델몬트콜드비타민플러스포도100</img_prod_nm>
+    <volume>240ML</volume>
+    <barcd>8801056054069</barcd>
+    <width>5</width>
+    <length>5</length>
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"240","총내용량(g)":"0","총내용량(mL)":"240","에너지(㎉)":"120","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"31","총당류(g)":"26","총 식이섬유(g)":"2","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"10","비타민":"0.54","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/90231_롯데델몬트콜드비타민플러스포도100/</folder>
+    <filename>90231_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/90231_롯데델몬트콜드비타민플러스포도100/90231_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데델몬트콜드비타민플러스포도100</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>391</xmin>
+        <ymin>326</ymin>
+        <xmax>1314</xmax>
+        <ymax>2527</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데델몬트콜드비타민플러스포도100</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1784</xmin>
+        <ymin>484</ymin>
+        <xmax>2614</xmax>
+        <ymax>2430</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데델몬트콜드비타민플러스포도100</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1165</xmin>
+        <ymin>411</ymin>
+        <xmax>2007</xmax>
+        <ymax>2472</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

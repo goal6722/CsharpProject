@@ -1,0 +1,62 @@
+<comp_cd>
+  1052
+  <identifier>
+    <identifier>35842_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>10520100003</item_cd>
+    <item_no>35842</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>토이캔디</div_s>
+    <div_n>토이캔디</div_n>
+    <comp_nm>유앤아이트레아드</comp_nm>
+    <img_prod_nm>유앤아이트레이드)L.O.L서프라이즈키링(분홍색)</img_prod_nm>
+    <volume>10G</volume>
+    <barcd>8809714120002</barcd>
+    <width>5</width>
+    <length />
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"10","총내용량(g)":"10","총내용량(mL)":"0","에너지(㎉)":"40","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"9.6","총당류(g)":"7.1","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"3","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/35842_유앤아이트레이드)L.O.L서프라이즈키링(분홍색)/</folder>
+    <filename>35842_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/35842_유앤아이트레이드)L.O.L서프라이즈키링(분홍색)/35842_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>유앤아이트레이드)L.O.L서프라이즈키링(분홍색)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>875</xmin>
+        <ymin>162</ymin>
+        <xmax>1492</xmax>
+        <ymax>2867</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>유앤아이트레이드)L.O.L서프라이즈키링(분홍색)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1500</xmin>
+        <ymin>154</ymin>
+        <xmax>2125</xmax>
+        <ymax>2868</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

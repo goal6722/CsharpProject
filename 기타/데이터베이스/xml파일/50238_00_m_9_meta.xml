@@ -1,0 +1,74 @@
+<comp_cd>
+  1288
+  <identifier>
+    <identifier>50238_00_m_9.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>12880700001</item_cd>
+    <item_no>50238</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>양념소스</div_s>
+    <div_n>양념소스</div_n>
+    <comp_nm>퀴네</comp_nm>
+    <img_prod_nm>퀴네 갈릭소스 250ML</img_prod_nm>
+    <volume>250ML</volume>
+    <barcd>40804972</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/50238_퀴네갈릭소스250ML/</folder>
+    <filename>50238_00_m_9.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/50238_퀴네갈릭소스250ML/50238_00_m_9.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>퀴네갈릭소스250ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>589</xmin>
+        <ymin>229</ymin>
+        <xmax>1492</xmax>
+        <ymax>2826</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>퀴네갈릭소스250ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1128</xmin>
+        <ymin>442</ymin>
+        <xmax>1837</xmax>
+        <ymax>2574</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>퀴네갈릭소스250ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1465</xmin>
+        <ymin>592</ymin>
+        <xmax>2096</xmax>
+        <ymax>2408</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

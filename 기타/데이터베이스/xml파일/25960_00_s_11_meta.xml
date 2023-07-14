@@ -1,0 +1,50 @@
+<comp_cd>
+  1455
+  <identifier>
+    <identifier>25960_00_s_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    15
+    <item_cd>14551500006</item_cd>
+    <item_no>25960</item_no>
+    <div_l>홈클린</div_l>
+    <div_m>화장지</div_m>
+    <div_s>청소용물티슈</div_s>
+    <div_n>청소용물티슈</div_n>
+    <comp_nm>한국쓰리엠</comp_nm>
+    <img_prod_nm>한국쓰리엠 스카치브라이트손으로쓰는물걸레청소포80매</img_prod_nm>
+    <volume>80매</volume>
+    <barcd>8806080060741</barcd>
+    <width>24</width>
+    <length>12</length>
+    <height>6</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/25960_한국쓰리엠스카치브라이트손으로쓰는물걸레청소포80매/</folder>
+    <filename>25960_00_s_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/25960_한국쓰리엠스카치브라이트손으로쓰는물걸레청소포80매/25960_00_s_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>한국쓰리엠스카치브라이트손으로쓰는물걸레청소포80매</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>380</xmin>
+        <ymin>770</ymin>
+        <xmax>2489</xmax>
+        <ymax>2074</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

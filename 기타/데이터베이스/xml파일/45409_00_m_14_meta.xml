@@ -1,0 +1,62 @@
+<comp_cd>
+  1060
+  <identifier>
+    <identifier>45409_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    15
+    <item_cd>10601500001</item_cd>
+    <item_no>45409</item_no>
+    <div_l>홈클린</div_l>
+    <div_m>화장지</div_m>
+    <div_s>세정티슈</div_s>
+    <div_n>세정티슈</div_n>
+    <comp_nm>유한킴벌리</comp_nm>
+    <img_prod_nm>유한킴벌리)스카트기름찌든때서정티슈</img_prod_nm>
+    <volume>30매</volume>
+    <barcd>8801166032469</barcd>
+    <width>21</width>
+    <length>12</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/45409_유한킴벌리)스카트기름찌든때서정티슈/</folder>
+    <filename>45409_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/45409_유한킴벌리)스카트기름찌든때서정티슈/45409_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>유한킴벌리)스카트기름찌든때서정티슈</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>109</xmin>
+        <ymin>1373</ymin>
+        <xmax>1462</xmax>
+        <ymax>1582</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>유한킴벌리)스카트기름찌든때서정티슈</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1389</xmin>
+        <ymin>1371</ymin>
+        <xmax>2869</xmax>
+        <ymax>1614</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

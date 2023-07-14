@@ -1,0 +1,74 @@
+<comp_cd>
+  0633
+  <identifier>
+    <identifier>40066_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    12
+    <item_cd>06331200020</item_cd>
+    <item_no>40066</item_no>
+    <div_l>주류</div_l>
+    <div_m>맥주</div_m>
+    <div_s>국내맥주</div_s>
+    <div_n>국내맥주</div_n>
+    <comp_nm>서울로직</comp_nm>
+    <img_prod_nm>하이트)필라이트후레쉬(캔)500ML</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8801119241511</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/40066_하이트)필라이트후레쉬(캔)500ML/</folder>
+    <filename>40066_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/40066_하이트)필라이트후레쉬(캔)500ML/40066_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>하이트)필라이트후레쉬(캔)500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1940</xmin>
+        <ymin>442</ymin>
+        <xmax>2751</xmax>
+        <ymax>2556</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>하이트)필라이트후레쉬(캔)500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1171</xmin>
+        <ymin>467</ymin>
+        <xmax>1947</xmax>
+        <ymax>2518</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>하이트)필라이트후레쉬(캔)500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>441</xmin>
+        <ymin>490</ymin>
+        <xmax>1191</xmax>
+        <ymax>2484</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

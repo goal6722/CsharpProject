@@ -1,0 +1,74 @@
+<comp_cd>
+  0059
+  <identifier>
+    <identifier>30244_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>00591100002</item_cd>
+    <item_no>30244</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>화장품</div_m>
+    <div_s>미스트</div_s>
+    <div_n>미스트</div_n>
+    <comp_nm>과일나라</comp_nm>
+    <img_prod_nm>과일나라탐나는복숭아바디미스트</img_prod_nm>
+    <volume>110ML</volume>
+    <barcd>8808739000207</barcd>
+    <width>3</width>
+    <length>3</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/30244_과일나라탐나는복숭아바디미스트/</folder>
+    <filename>30244_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/30244_과일나라탐나는복숭아바디미스트/30244_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>과일나라탐나는복숭아바디미스트</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1814</xmin>
+        <ymin>146</ymin>
+        <xmax>2337</xmax>
+        <ymax>2676</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>과일나라탐나는복숭아바디미스트</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>786</xmin>
+        <ymin>146</ymin>
+        <xmax>1307</xmax>
+        <ymax>2675</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>과일나라탐나는복숭아바디미스트</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1298</xmin>
+        <ymin>156</ymin>
+        <xmax>1822</xmax>
+        <ymax>2669</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

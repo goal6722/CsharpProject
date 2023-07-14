@@ -1,0 +1,50 @@
+<comp_cd>
+  0830
+  <identifier>
+    <identifier>20289_00_m_18.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>08300700001</item_cd>
+    <item_no>20289</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>양념소스</div_s>
+    <div_n>양념소스</div_n>
+    <comp_nm>아얌</comp_nm>
+    <img_prod_nm>TOM 아얌핫칠리소스 275ML</img_prod_nm>
+    <volume>275ML</volume>
+    <barcd>9556041602730</barcd>
+    <width>6</width>
+    <length />
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"15","총내용량(g)":"","총내용량(mL)":"275","에너지(㎉)":"23","단백질(g)":"1","지방(g)":"","탄수화물(g)":"5.3","총당류(g)":"5.1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"374","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/20289_TOM아얌핫칠리소스275ML/</folder>
+    <filename>20289_00_m_18.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/20289_TOM아얌핫칠리소스275ML/20289_00_m_18.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>TOM아얌핫칠리소스275ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1345</xmin>
+        <ymin>76</ymin>
+        <xmax>2081</xmax>
+        <ymax>2903</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>10308_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00000700001</item_cd>
+    <item_no>10308</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>양념소스</div_s>
+    <div_n>양념소스</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>타이헤리티지 코코넛크림 400ML</img_prod_nm>
+    <volume>400ML</volume>
+    <barcd>8850781700048</barcd>
+    <width>7</width>
+    <length />
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"400","총내용량(mL)":"","에너지(㎉)":"194","단백질(g)":"1.7","지방(g)":"19.6","탄수화물(g)":"2.2","총당류(g)":"2.1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"0.01","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"19.6",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/10308_타이헤리티지코코넛크림400ML/</folder>
+    <filename>10308_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/10308_타이헤리티지코코넛크림400ML/10308_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>타이헤리티지코코넛크림400ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1360</xmin>
+        <ymin>441</ymin>
+        <xmax>2613</xmax>
+        <ymax>2488</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>타이헤리티지코코넛크림400ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>65</xmin>
+        <ymin>398</ymin>
+        <xmax>1401</xmax>
+        <ymax>2573</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

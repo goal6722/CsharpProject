@@ -1,0 +1,62 @@
+<comp_cd>
+  0141
+  <identifier>
+    <identifier>56114_00_m_22.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>01411100130</item_cd>
+    <item_no>56114</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>에멀젼/로션</div_s>
+    <div_n>에멀젼/로션</div_n>
+    <comp_nm>네이처리퍼블릭</comp_nm>
+    <img_prod_nm>네이처리퍼블릭)네이처리퍼블릭맑은벚꽃생기에멀전</img_prod_nm>
+    <volume>155ML</volume>
+    <barcd>8806173459964</barcd>
+    <width>4</width>
+    <length>4</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/56114_네이처리퍼블릭)네이처리퍼블릭맑은벚꽃생기에멀전/</folder>
+    <filename>56114_00_m_22.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/56114_네이처리퍼블릭)네이처리퍼블릭맑은벚꽃생기에멀전/56114_00_m_22.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>네이처리퍼블릭)네이처리퍼블릭맑은벚꽃생기에멀전</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>847</xmin>
+        <ymin>109</ymin>
+        <xmax>1624</xmax>
+        <ymax>2861</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>네이처리퍼블릭)네이처리퍼블릭맑은벚꽃생기에멀전</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1424</xmin>
+        <ymin>216</ymin>
+        <xmax>2099</xmax>
+        <ymax>2728</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

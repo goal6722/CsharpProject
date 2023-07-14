@@ -1,0 +1,62 @@
+<comp_cd>
+  1390
+  <identifier>
+    <identifier>25191_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>13900900005</item_cd>
+    <item_no>25191</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>채소음료</div_s>
+    <div_n>채소음료</div_n>
+    <comp_nm>풀무원</comp_nm>
+    <img_prod_nm>풀무원식품)아임리얼 스무디 마이스트로베리700ML</img_prod_nm>
+    <volume>700ML</volume>
+    <barcd>8801114127018</barcd>
+    <width>8</width>
+    <length>6</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"","총내용량(mL)":"700","에너지(㎉)":"60","단백질(g)":"2","지방(g)":"1.5","탄수화물(g)":"11","총당류(g)":"10","총 식이섬유(g)":"2","칼슘(㎎)":"47","철(㎍)":"0.3","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"45","비타민":"28","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/25191_풀무원식품)아임리얼스무디마이스트로베리700ML/</folder>
+    <filename>25191_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/25191_풀무원식품)아임리얼스무디마이스트로베리700ML/25191_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>풀무원식품)아임리얼스무디마이스트로베리700ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>639</xmin>
+        <ymin>237</ymin>
+        <xmax>1509</xmax>
+        <ymax>2849</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>풀무원식품)아임리얼스무디마이스트로베리700ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1379</xmin>
+        <ymin>368</ymin>
+        <xmax>2158</xmax>
+        <ymax>2699</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

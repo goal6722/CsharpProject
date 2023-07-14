@@ -1,0 +1,50 @@
+<comp_cd>
+  0866
+  <identifier>
+    <identifier>15462_00_m_19.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>08660500003</item_cd>
+    <item_no>15462</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석국/찌개</div_s>
+    <div_n>즉석국/찌개</div_n>
+    <comp_nm>양반</comp_nm>
+    <img_prod_nm>양반 진국 왕갈비탕 460G</img_prod_nm>
+    <volume>460G</volume>
+    <barcd>8801047169437</barcd>
+    <width>14</width>
+    <length>6</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"460","총내용량(g)":"460","총내용량(mL)":"","에너지(㎉)":"480","단백질(g)":"15","지방(g)":"46","탄수화물(g)":"2","총당류(g)":"1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1420","비타민":"","콜레스테롤(㎎)":"110","총 지방산(g)":"46",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15462_양반진국왕갈비탕460G/</folder>
+    <filename>15462_00_m_19.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15462_양반진국왕갈비탕460G/15462_00_m_19.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>양반진국왕갈비탕460G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1227</xmin>
+        <ymin>325</ymin>
+        <xmax>1753</xmax>
+        <ymax>2511</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

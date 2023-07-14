@@ -1,0 +1,62 @@
+<comp_cd>
+  1390
+  <identifier>
+    <identifier>80239_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>13900700014</item_cd>
+    <item_no>80239</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>양념소스</div_s>
+    <div_n>양념소스</div_n>
+    <comp_nm>풀무원</comp_nm>
+    <img_prod_nm>풀무원 큰건더기강된장덮밥소스 170g</img_prod_nm>
+    <volume>170g</volume>
+    <barcd>8801114148280</barcd>
+    <width>11</width>
+    <length>4</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"170","총내용량(mL)":"","에너지(㎉)":"155","단백질(g)":"11","지방(g)":"","탄수화물(g)":"15","총당류(g)":"8","총 식이섬유(g)":"6","칼슘(㎎)":"54","철(㎍)":"1.4","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1290","비타민":"","콜레스테롤(㎎)":"5","총 지방산(g)":"1.4",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/80239_풀무원큰건더기강된장덮밥소스170g/</folder>
+    <filename>80239_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/80239_풀무원큰건더기강된장덮밥소스170g/80239_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>풀무원큰건더기강된장덮밥소스170g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>372</xmin>
+        <ymin>590</ymin>
+        <xmax>1495</xmax>
+        <ymax>2404</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>풀무원큰건더기강된장덮밥소스170g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1520</xmin>
+        <ymin>726</ymin>
+        <xmax>2399</xmax>
+        <ymax>2277</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,74 @@
+<comp_cd>
+  1520
+  <identifier>
+    <identifier>50234_00_m_22.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>15200700024</item_cd>
+    <item_no>50234</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>상온드레싱</div_s>
+    <div_n>상온드레싱</div_n>
+    <comp_nm>홈플러스</comp_nm>
+    <img_prod_nm>홈플러스시그니처 발사믹드레싱 110G</img_prod_nm>
+    <volume>110G</volume>
+    <barcd>8809489617981</barcd>
+    <width>4</width>
+    <length>4</length>
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/50234_홈플러스시그니처발사믹드레싱110G/</folder>
+    <filename>50234_00_m_22.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/50234_홈플러스시그니처발사믹드레싱110G/50234_00_m_22.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>홈플러스시그니처발사믹드레싱110G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>516</xmin>
+        <ymin>362</ymin>
+        <xmax>1327</xmax>
+        <ymax>2784</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>홈플러스시그니처발사믹드레싱110G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1133</xmin>
+        <ymin>456</ymin>
+        <xmax>1853</xmax>
+        <ymax>2626</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>홈플러스시그니처발사믹드레싱110G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1596</xmin>
+        <ymin>541</ymin>
+        <xmax>2270</xmax>
+        <ymax>2506</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

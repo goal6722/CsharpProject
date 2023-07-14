@@ -1,0 +1,74 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>60230_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>00000600017</item_cd>
+    <item_no>60230</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>기타</div_m>
+    <div_s>기타</div_s>
+    <div_n>기타</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>그린세이프에프마이홈솔루션네오큐모기향</img_prod_nm>
+    <volume>20개</volume>
+    <barcd>8808739000108</barcd>
+    <width>12</width>
+    <length>13</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/60230_그린세이프에프마이홈솔루션네오큐모기향/</folder>
+    <filename>60230_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/60230_그린세이프에프마이홈솔루션네오큐모기향/60230_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>그린세이프에프마이홈솔루션네오큐모기향</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>345</xmin>
+        <ymin>1140</ymin>
+        <xmax>1072</xmax>
+        <ymax>1910</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>그린세이프에프마이홈솔루션네오큐모기향</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1026</xmin>
+        <ymin>1120</ymin>
+        <xmax>1833</xmax>
+        <ymax>1953</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>그린세이프에프마이홈솔루션네오큐모기향</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1796</xmin>
+        <ymin>1134</ymin>
+        <xmax>2659</xmax>
+        <ymax>1998</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

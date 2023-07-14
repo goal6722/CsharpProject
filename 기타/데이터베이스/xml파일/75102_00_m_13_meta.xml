@@ -1,0 +1,62 @@
+<comp_cd>
+  0828
+  <identifier>
+    <identifier>75102_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>08280600026</item_cd>
+    <item_no>75102</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>기타</div_m>
+    <div_s>기타</div_s>
+    <div_n>기타</div_n>
+    <comp_nm>아성에이치엠</comp_nm>
+    <img_prod_nm>아성에이치엠피스텐레스스타공수저통</img_prod_nm>
+    <volume>1개</volume>
+    <barcd>8808739000207</barcd>
+    <width>9</width>
+    <length />
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/75102_아성에이치엠피스텐레스스타공수저통/</folder>
+    <filename>75102_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/75102_아성에이치엠피스텐레스스타공수저통/75102_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>아성에이치엠피스텐레스스타공수저통</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1516</xmin>
+        <ymin>498</ymin>
+        <xmax>2846</xmax>
+        <ymax>2385</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아성에이치엠피스텐레스스타공수저통</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>154</xmin>
+        <ymin>503</ymin>
+        <xmax>1486</xmax>
+        <ymax>2383</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

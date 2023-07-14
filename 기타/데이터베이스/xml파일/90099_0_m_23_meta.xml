@@ -1,0 +1,74 @@
+<comp_cd>
+  0440
+  <identifier>
+    <identifier>90099_0_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>04400900001</item_cd>
+    <item_no>90099</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>바이오포</comp_nm>
+    <img_prod_nm>바이오포트코리아블루레몬에이드(파우치)340ML</img_prod_nm>
+    <volume>340ML</volume>
+    <barcd>8809184805140</barcd>
+    <width>12</width>
+    <length />
+    <height>23</height>
+    <nutrition_info>{"1회제공량":"340","총내용량(g)":"0","총내용량(mL)":"340","에너지(㎉)":"135","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"33","총당류(g)":"32","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"40","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/90099_바이오포트코리아블루레몬에이드(파우치)340ML/</folder>
+    <filename>90099_0_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/90099_바이오포트코리아블루레몬에이드(파우치)340ML/90099_0_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>바이오포트코리아블루레몬에이드(파우치)340ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>71</xmin>
+        <ymin>521</ymin>
+        <xmax>1044</xmax>
+        <ymax>2528</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>바이오포트코리아블루레몬에이드(파우치)340ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1058</xmin>
+        <ymin>598</ymin>
+        <xmax>1929</xmax>
+        <ymax>2409</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>바이오포트코리아블루레몬에이드(파우치)340ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1837</xmin>
+        <ymin>692</ymin>
+        <xmax>2634</xmax>
+        <ymax>2338</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

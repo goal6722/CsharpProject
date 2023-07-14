@@ -1,0 +1,62 @@
+<comp_cd>
+  0825
+  <identifier>
+    <identifier>15688_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>08251100027</item_cd>
+    <item_no>15688</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>두발용품</div_m>
+    <div_s>헤어스프레이</div_s>
+    <div_n>헤어스프레이</div_n>
+    <comp_nm>아모레퍼시픽</comp_nm>
+    <img_prod_nm>아모레 미쟝센 스테이지콜렉션 텍스쳐이블락킹워터스프레이 200ML</img_prod_nm>
+    <volume>200ML</volume>
+    <barcd>8801042647626</barcd>
+    <width>4</width>
+    <length />
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/15688_아모레미쟝센스테이지콜렉션텍스쳐이블락킹워터스프레이200ML/</folder>
+    <filename>15688_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/15688_아모레미쟝센스테이지콜렉션텍스쳐이블락킹워터스프레이200ML/15688_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>아모레미쟝센스테이지콜렉션텍스쳐이블락킹워터스프레이200ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1415</xmin>
+        <ymin>505</ymin>
+        <xmax>1903</xmax>
+        <ymax>2729</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아모레미쟝센스테이지콜렉션텍스쳐이블락킹워터스프레이200ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1196</xmin>
+        <ymin>585</ymin>
+        <xmax>1521</xmax>
+        <ymax>2583</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

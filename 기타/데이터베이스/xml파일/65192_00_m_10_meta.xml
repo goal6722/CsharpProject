@@ -1,0 +1,62 @@
+<comp_cd>
+  0834
+  <identifier>
+    <identifier>65192_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    14
+    <item_cd>08341400001</item_cd>
+    <item_no>65192</item_no>
+    <div_l>통조림/안주</div_l>
+    <div_m>안주</div_m>
+    <div_s>수산물/건해산</div_s>
+    <div_n>쥐포/어포/육포</div_n>
+    <comp_nm>아이배냇</comp_nm>
+    <img_prod_nm>아이배넷꼬마육포쇠고기</img_prod_nm>
+    <volume>30G</volume>
+    <barcd>8809360921954</barcd>
+    <width>7</width>
+    <length>15</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"30","총내용량(g)":"30","총내용량(mL)":"0","에너지(㎉)":"89","단백질(g)":"11","지방(g)":"1.1","탄수화물(g)":"9","총당류(g)":"8","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"167","비타민":"0","콜레스테롤(㎎)":"20","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/65192_아이배넷꼬마육포쇠고기/</folder>
+    <filename>65192_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/65192_아이배넷꼬마육포쇠고기/65192_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>아이배넷꼬마육포쇠고기</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>657</xmin>
+        <ymin>245</ymin>
+        <xmax>1681</xmax>
+        <ymax>2855</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아이배넷꼬마육포쇠고기</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1399</xmin>
+        <ymin>451</ymin>
+        <xmax>2226</xmax>
+        <ymax>2605</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

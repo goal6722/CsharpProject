@@ -1,0 +1,62 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>65648_00_m_22.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    14
+    <item_cd>00051400009</item_cd>
+    <item_no>65648</item_no>
+    <div_l>통조림/안주</div_l>
+    <div_m>통조림</div_m>
+    <div_s>가미통조림</div_s>
+    <div_n>스팸/햄통조림</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ더건강한페퍼&amp;갈릭블랙페퍼가햄속으로</img_prod_nm>
+    <volume>200G</volume>
+    <barcd>8801007764597</barcd>
+    <width>9</width>
+    <length>5</length>
+    <height>4</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"200","총내용량(mL)":"0","에너지(㎉)":"330","단백질(g)":"14","지방(g)":"29","탄수화물(g)":"3","총당류(g)":"1","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"660","비타민":"0","콜레스테롤(㎎)":"60","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/65648_CJ더건강한페퍼_갈릭블랙페퍼가햄속으로/</folder>
+    <filename>65648_00_m_22.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/65648_CJ더건강한페퍼_갈릭블랙페퍼가햄속으로/65648_00_m_22.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ더건강한페퍼_갈릭블랙페퍼가햄속으로</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>205</xmin>
+        <ymin>1095</ymin>
+        <xmax>1670</xmax>
+        <ymax>1951</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ더건강한페퍼_갈릭블랙페퍼가햄속으로</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1481</xmin>
+        <ymin>1130</ymin>
+        <xmax>2496</xmax>
+        <ymax>1820</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

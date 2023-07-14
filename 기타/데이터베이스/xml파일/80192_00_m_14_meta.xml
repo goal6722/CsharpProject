@@ -1,0 +1,74 @@
+<comp_cd>
+  0551
+  <identifier>
+    <identifier>80192_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>05510800018</item_cd>
+    <item_no>80192</item_no>
+    <div_l>유제품</div_l>
+    <div_m>요구르트</div_m>
+    <div_s>떠먹는 요구르트</div_s>
+    <div_n>떠먹는 요구르트</div_n>
+    <comp_nm>빙그레</comp_nm>
+    <img_prod_nm>빙그레토핑프레첼&amp;초코청크</img_prod_nm>
+    <volume>120G</volume>
+    <barcd>8801104664929</barcd>
+    <width>10</width>
+    <length>8</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"120","총내용량(mL)":"","에너지(㎉)":"140","단백질(g)":"6","지방(g)":"4","탄수화물(g)":"20","총당류(g)":"14","총 식이섬유(g)":"0","칼슘(㎎)":"100","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"100","비타민":"0","콜레스테롤(㎎)":"20","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/80192_빙그레토핑프레첼_초코청크/</folder>
+    <filename>80192_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/80192_빙그레토핑프레첼_초코청크/80192_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>빙그레토핑프레첼_초코청크</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>256</xmin>
+        <ymin>1161</ymin>
+        <xmax>1179</xmax>
+        <ymax>1536</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>빙그레토핑프레첼_초코청크</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1041</xmin>
+        <ymin>1167</ymin>
+        <xmax>1961</xmax>
+        <ymax>1568</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>빙그레토핑프레첼_초코청크</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1922</xmin>
+        <ymin>1170</ymin>
+        <xmax>2887</xmax>
+        <ymax>1606</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

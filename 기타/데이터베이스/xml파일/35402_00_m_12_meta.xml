@@ -1,0 +1,62 @@
+<comp_cd>
+  1464
+  <identifier>
+    <identifier>35402_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>14640900007</item_cd>
+    <item_no>35402</item_no>
+    <div_l>음료</div_l>
+    <div_m>생수</div_m>
+    <div_s>일반생수</div_s>
+    <div_n>일반생수</div_n>
+    <comp_nm>한국쥬맥스</comp_nm>
+    <img_prod_nm>한국쥬맥스)랭거스루비레드자몽</img_prod_nm>
+    <volume>1.89L</volume>
+    <barcd>041755008491</barcd>
+    <width>12</width>
+    <length>9</length>
+    <height>27</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"237","에너지(㎉)":"120","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"30","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"10","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35402_한국쥬맥스)랭거스루비레드자몽/</folder>
+    <filename>35402_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35402_한국쥬맥스)랭거스루비레드자몽/35402_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>한국쥬맥스)랭거스루비레드자몽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>460</xmin>
+        <ymin>290</ymin>
+        <xmax>1553</xmax>
+        <ymax>2709</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>한국쥬맥스)랭거스루비레드자몽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1510</xmin>
+        <ymin>366</ymin>
+        <xmax>2506</xmax>
+        <ymax>2639</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

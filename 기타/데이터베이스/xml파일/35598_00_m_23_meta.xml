@@ -1,0 +1,62 @@
+<comp_cd>
+  0301
+  <identifier>
+    <identifier>35598_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>03010100068</item_cd>
+    <item_no>35598</item_no>
+    <div_l>과자</div_l>
+    <div_m>초콜렛</div_m>
+    <div_s>쉘초콜릿</div_s>
+    <div_n>쉘초콜릿</div_n>
+    <comp_nm>롯데제과</comp_nm>
+    <img_prod_nm>롯데 가나티라미수 90G</img_prod_nm>
+    <volume>90G</volume>
+    <barcd>8801062880188</barcd>
+    <width>13</width>
+    <length>3</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"90","총내용량(g)":"90","총내용량(mL)":"0","에너지(㎉)":"520","단백질(g)":"6","지방(g)":"34","탄수화물(g)":"47","총당류(g)":"42","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"80","비타민":"0","콜레스테롤(㎎)":"15","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/35598_롯데가나티라미수90G/</folder>
+    <filename>35598_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/35598_롯데가나티라미수90G/35598_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데가나티라미수90G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>132</xmin>
+        <ymin>844</ymin>
+        <xmax>1573</xmax>
+        <ymax>2097</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데가나티라미수90G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1420</xmin>
+        <ymin>936</ymin>
+        <xmax>2607</xmax>
+        <ymax>2030</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

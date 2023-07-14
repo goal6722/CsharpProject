@@ -1,0 +1,74 @@
+<comp_cd>
+  0191
+  <identifier>
+    <identifier>70238_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>01910700042</item_cd>
+    <item_no>70238</item_no>
+    <div_l>소스</div_l>
+    <div_m>분말조미료</div_m>
+    <div_s>후추</div_s>
+    <div_n>후추</div_n>
+    <comp_nm>대상</comp_nm>
+    <img_prod_nm>대상 요리통후추 그라인더</img_prod_nm>
+    <volume>35G</volume>
+    <barcd>8801052736440</barcd>
+    <width>5</width>
+    <length />
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/70238_대상요리통후추그라인더/</folder>
+    <filename>70238_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/70238_대상요리통후추그라인더/70238_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>대상요리통후추그라인더</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1482</xmin>
+        <ymin>230</ymin>
+        <xmax>2420</xmax>
+        <ymax>2863</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>대상요리통후추그라인더</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>773</xmin>
+        <ymin>431</ymin>
+        <xmax>1328</xmax>
+        <ymax>2592</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>대상요리통후추그라인더</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1102</xmin>
+        <ymin>337</ymin>
+        <xmax>1717</xmax>
+        <ymax>2714</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

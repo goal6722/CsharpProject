@@ -1,0 +1,62 @@
+<comp_cd>
+  1356
+  <identifier>
+    <identifier>A40001_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>13560300017</item_cd>
+    <item_no>A40001</item_no>
+    <div_l>면류</div_l>
+    <div_m>용기면</div_m>
+    <div_s>국물용기라면</div_s>
+    <div_n>일반라면</div_n>
+    <comp_nm>팔도</comp_nm>
+    <img_prod_nm>(주)팔도민생라면컵 얼큰한맛</img_prod_nm>
+    <volume>80g</volume>
+    <barcd>8809296884552</barcd>
+    <width>14</width>
+    <length>14</length>
+    <height>7</height>
+    <nutrition_info>{"1회제공량":"80","총내용량(g)":"80","총내용량(mL)":"0","에너지(㎉)":"350","단백질(g)":"7","지방(g)":"12","탄수화물(g)":"53","총당류(g)":"2","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"1450","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/A40001_(주)팔도민생라면컵얼큰한맛/</folder>
+    <filename>A40001_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/A40001_(주)팔도민생라면컵얼큰한맛/A40001_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>(주)팔도민생라면컵얼큰한맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1498</xmin>
+        <ymin>1279</ymin>
+        <xmax>2829</xmax>
+        <ymax>1906</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>(주)팔도민생라면컵얼큰한맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>176</xmin>
+        <ymin>1290</ymin>
+        <xmax>1503</xmax>
+        <ymax>1921</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0369
+  <identifier>
+    <identifier>45182_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>03690800022</item_cd>
+    <item_no>45182</item_no>
+    <div_l>유제품</div_l>
+    <div_m>치즈</div_m>
+    <div_s>크림치즈</div_s>
+    <div_n>크림치즈</div_n>
+    <comp_nm>매일유업</comp_nm>
+    <img_prod_nm>매일유업)아리아네츄럴크림치즈150G</img_prod_nm>
+    <volume>150G</volume>
+    <barcd>5711953017360</barcd>
+    <width>12</width>
+    <length>9</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"25","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"63","단백질(g)":"1.1","지방(g)":"0","탄수화물(g)":"0.8","총당류(g)":"0.8","총 식이섬유(g)":"0","칼슘(㎎)":"22","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"80","비타민":"0","콜레스테롤(㎎)":"19","총 지방산(g)":"6.3",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/45182_매일유업)아리아네츄럴크림치즈150G/</folder>
+    <filename>45182_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/45182_매일유업)아리아네츄럴크림치즈150G/45182_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>매일유업)아리아네츄럴크림치즈150G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>71</xmin>
+        <ymin>1262</ymin>
+        <xmax>1673</xmax>
+        <ymax>1605</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>매일유업)아리아네츄럴크림치즈150G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1562</xmin>
+        <ymin>1302</ymin>
+        <xmax>2750</xmax>
+        <ymax>1594</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,74 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>20184_00_m_18.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>09750500022</item_cd>
+    <item_no>20184</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>분말조리식</div_m>
+    <div_s>분말죽</div_s>
+    <div_n>분말죽</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기)옛날쇠고기죽85G</img_prod_nm>
+    <volume>85G</volume>
+    <barcd>8801045080109</barcd>
+    <width>13</width>
+    <length />
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"85","총내용량(g)":"85","총내용량(mL)":"","에너지(㎉)":"315","단백질(g)":"8","지방(g)":"2.8","탄수화물(g)":"65","총당류(g)":"2","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1210","비타민":"","콜레스테롤(㎎)":"5","총 지방산(g)":"2.8",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/20184_오뚜기)옛날쇠고기죽85G/</folder>
+    <filename>20184_00_m_18.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/20184_오뚜기)옛날쇠고기죽85G/20184_00_m_18.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기)옛날쇠고기죽85G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1912</xmin>
+        <ymin>877</ymin>
+        <xmax>2436</xmax>
+        <ymax>2465</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기)옛날쇠고기죽85G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1606</xmin>
+        <ymin>955</ymin>
+        <xmax>1934</xmax>
+        <ymax>2179</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기)옛날쇠고기죽85G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1377</xmin>
+        <ymin>1028</ymin>
+        <xmax>1616</xmax>
+        <ymax>2011</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

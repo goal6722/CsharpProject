@@ -1,0 +1,74 @@
+<comp_cd>
+  0301
+  <identifier>
+    <identifier>10177_00_m_6.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>03010100007</item_cd>
+    <item_no>10177</item_no>
+    <div_l>과자</div_l>
+    <div_m>스낵</div_m>
+    <div_s>밀가루스낵</div_s>
+    <div_n>밀가루스낵</div_n>
+    <comp_nm>롯데제과</comp_nm>
+    <img_prod_nm>롯데)오징어땅콩90G</img_prod_nm>
+    <volume>90G</volume>
+    <barcd>8801062385911</barcd>
+    <width>13</width>
+    <length>18</length>
+    <height />
+    <nutrition_info>{"1회제공량":"90","총내용량(g)":"90","총내용량(mL)":"0","에너지(㎉)":"455","단백질(g)":"9","지방(g)":"21","탄수화물(g)":"57","총당류(g)":"14","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"310","비타민":"0","콜레스테롤(㎎)":"5","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/10177_롯데)오징어땅콩90G/</folder>
+    <filename>10177_00_m_6.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/10177_롯데)오징어땅콩90G/10177_00_m_6.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데)오징어땅콩90G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1138</xmin>
+        <ymin>770</ymin>
+        <xmax>1498</xmax>
+        <ymax>2326</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데)오징어땅콩90G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1570</xmin>
+        <ymin>539</ymin>
+        <xmax>2064</xmax>
+        <ymax>2529</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데)오징어땅콩90G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>802</xmin>
+        <ymin>839</ymin>
+        <xmax>1062</xmax>
+        <ymax>2179</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

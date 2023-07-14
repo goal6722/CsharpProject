@@ -1,0 +1,62 @@
+<comp_cd>
+  1351
+  <identifier>
+    <identifier>15187_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>13510800005</item_cd>
+    <item_no>15187</item_no>
+    <div_l>유제품</div_l>
+    <div_m>요구르트</div_m>
+    <div_s>마시는 요구르트</div_s>
+    <div_n>마시는 요구르트</div_n>
+    <comp_nm>파스퇴르</comp_nm>
+    <img_prod_nm>파스퇴르)락토프리 속편한 쾌변150ML</img_prod_nm>
+    <volume>150ML</volume>
+    <barcd>8801207155034</barcd>
+    <width>4</width>
+    <length>4</length>
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"150","에너지(㎉)":"145","단백질(g)":"6","지방(g)":"2","탄수화물(g)":"29","총당류(g)":"14","총 식이섬유(g)":"7.5","칼슘(㎎)":"180","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"100","비타민":"","콜레스테롤(㎎)":"10","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/15187_파스퇴르)락토프리속편한쾌변150ML/</folder>
+    <filename>15187_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/15187_파스퇴르)락토프리속편한쾌변150ML/15187_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>파스퇴르)락토프리속편한쾌변150ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>687</xmin>
+        <ymin>269</ymin>
+        <xmax>1558</xmax>
+        <ymax>2698</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>파스퇴르)락토프리속편한쾌변150ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1365</xmin>
+        <ymin>332</ymin>
+        <xmax>2228</xmax>
+        <ymax>2613</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

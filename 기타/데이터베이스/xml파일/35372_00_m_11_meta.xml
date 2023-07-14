@@ -1,0 +1,62 @@
+<comp_cd>
+  0795
+  <identifier>
+    <identifier>35372_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>07951300003</item_cd>
+    <item_no>35372</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>잎차</div_s>
+    <div_n>히비스커스</div_n>
+    <comp_nm>쌍계명차</comp_nm>
+    <img_prod_nm>쌍계명차히비스커스</img_prod_nm>
+    <volume>12G</volume>
+    <barcd>8805167020135</barcd>
+    <width>13</width>
+    <length />
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/35372_쌍계명차히비스커스/</folder>
+    <filename>35372_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/35372_쌍계명차히비스커스/35372_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>쌍계명차히비스커스</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>291</xmin>
+        <ymin>447</ymin>
+        <xmax>1546</xmax>
+        <ymax>2494</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>쌍계명차히비스커스</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1528</xmin>
+        <ymin>575</ymin>
+        <xmax>2479</xmax>
+        <ymax>2356</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,50 @@
+<comp_cd>
+  0352
+  <identifier>
+    <identifier>25497_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>03521100006</item_cd>
+    <item_no>25497</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>화장품</div_m>
+    <div_s>립글로즈/틴트</div_s>
+    <div_n>립글로즈/틴트</div_n>
+    <comp_nm>마몽드 </comp_nm>
+    <img_prod_nm>마몽드 크리미틴트컬러밤인텐스 24넥타코랄 2.5G</img_prod_nm>
+    <volume>2.5G</volume>
+    <barcd />
+    <width>12</width>
+    <length>2</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/25497_마몽드크리미틴트컬러밤인텐스24넥타코랄2.5G/</folder>
+    <filename>25497_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/25497_마몽드크리미틴트컬러밤인텐스24넥타코랄2.5G/25497_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>마몽드크리미틴트컬러밤인텐스24넥타코랄2.5G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>251</xmin>
+        <ymin>1327</ymin>
+        <xmax>2439</xmax>
+        <ymax>1714</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

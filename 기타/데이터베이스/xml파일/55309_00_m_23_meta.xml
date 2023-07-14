@@ -1,0 +1,62 @@
+<comp_cd>
+  1219
+  <identifier>
+    <identifier>55309_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>12190700023</item_cd>
+    <item_no>55309</item_no>
+    <div_l>소스</div_l>
+    <div_m>장류</div_m>
+    <div_s>간장</div_s>
+    <div_n>간장</div_n>
+    <comp_nm>청정원</comp_nm>
+    <img_prod_nm>청정원햇살담은한식국간장깊고구수한국물맛</img_prod_nm>
+    <volume>840ML</volume>
+    <barcd>8801052732503</barcd>
+    <width>7</width>
+    <length>7</length>
+    <height>26</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"","총내용량(mL)":"840","에너지(㎉)":"30","단백질(g)":"6","지방(g)":"","탄수화물(g)":"2","총당류(g)":"1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"9600","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/55309_청정원햇살담은한식국간장깊고구수한국물맛/</folder>
+    <filename>55309_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/55309_청정원햇살담은한식국간장깊고구수한국물맛/55309_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>청정원햇살담은한식국간장깊고구수한국물맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>832</xmin>
+        <ymin>251</ymin>
+        <xmax>1548</xmax>
+        <ymax>2818</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>청정원햇살담은한식국간장깊고구수한국물맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1444</xmin>
+        <ymin>347</ymin>
+        <xmax>2101</xmax>
+        <ymax>2701</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,74 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>60033_0_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900132</item_cd>
+    <item_no>60033</item_no>
+    <div_l>음료</div_l>
+    <div_m>기능성음료</div_m>
+    <div_s>비타민/에너지음료</div_s>
+    <div_n>비타민/에너지음료</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데델몬트스퀴즈포도에이드240ML</img_prod_nm>
+    <volume>240ML</volume>
+    <barcd>8801056019976</barcd>
+    <width>5</width>
+    <length />
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"240","에너지(㎉)":"65","단백질(g)":"","지방(g)":"","탄수화물(g)":"16","총당류(g)":"15","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"25","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/60033_롯데델몬트스퀴즈포도에이드240ML/</folder>
+    <filename>60033_0_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/60033_롯데델몬트스퀴즈포도에이드240ML/60033_0_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데델몬트스퀴즈포도에이드240ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1893</xmin>
+        <ymin>236</ymin>
+        <xmax>2847</xmax>
+        <ymax>2748</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데델몬트스퀴즈포도에이드240ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1010</xmin>
+        <ymin>314</ymin>
+        <xmax>1894</xmax>
+        <ymax>2694</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데델몬트스퀴즈포도에이드240ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>217</xmin>
+        <ymin>376</ymin>
+        <xmax>1030</xmax>
+        <ymax>2632</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

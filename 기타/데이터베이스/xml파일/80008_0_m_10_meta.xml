@@ -1,0 +1,74 @@
+<comp_cd>
+  1351
+  <identifier>
+    <identifier>80008_0_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>13510900003</item_cd>
+    <item_no>80008</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과채혼합음료</div_s>
+    <div_n>과채혼합음료</div_n>
+    <comp_nm>파스퇴르</comp_nm>
+    <img_prod_nm>파스퇴르오가닉유기농사과&amp;당근125ML</img_prod_nm>
+    <volume>125ML</volume>
+    <barcd>8801056095413</barcd>
+    <width>4</width>
+    <length />
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"125","총내용량(g)":"0","총내용량(mL)":"125","에너지(㎉)":"50","단백질(g)":"","지방(g)":"","탄수화물(g)":"12","총당류(g)":"12","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"15","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/80008_파스퇴르오가닉유기농사과_당근125ML/</folder>
+    <filename>80008_0_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/80008_파스퇴르오가닉유기농사과_당근125ML/80008_0_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>파스퇴르오가닉유기농사과_당근125ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>237</xmin>
+        <ymin>547</ymin>
+        <xmax>1361</xmax>
+        <ymax>2719</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>파스퇴르오가닉유기농사과_당근125ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1067</xmin>
+        <ymin>616</ymin>
+        <xmax>1983</xmax>
+        <ymax>2635</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>파스퇴르오가닉유기농사과_당근125ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1694</xmin>
+        <ymin>662</ymin>
+        <xmax>2504</xmax>
+        <ymax>2529</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

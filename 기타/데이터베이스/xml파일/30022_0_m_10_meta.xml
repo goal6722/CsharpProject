@@ -1,0 +1,74 @@
+<comp_cd>
+  1273
+  <identifier>
+    <identifier>30022_0_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12730900003</item_cd>
+    <item_no>30022</item_no>
+    <div_l>음료</div_l>
+    <div_m>기능성음료</div_m>
+    <div_s>비타민/에너지음료</div_s>
+    <div_n>비타민/에너지음료</div_n>
+    <comp_nm>코카콜라</comp_nm>
+    <img_prod_nm>코카콜라)미닛메이드망고175ML</img_prod_nm>
+    <volume>175ML</volume>
+    <barcd>8801094293901</barcd>
+    <width>5</width>
+    <length />
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"175","에너지(㎉)":"60","단백질(g)":"","지방(g)":"","탄수화물(g)":"15","총당류(g)":"14","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"36","비타민":"0.8","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30022_코카콜라)미닛메이드망고175ML/</folder>
+    <filename>30022_0_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30022_코카콜라)미닛메이드망고175ML/30022_0_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>코카콜라)미닛메이드망고175ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>224</xmin>
+        <ymin>425</ymin>
+        <xmax>1263</xmax>
+        <ymax>2588</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카콜라)미닛메이드망고175ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1076</xmin>
+        <ymin>494</ymin>
+        <xmax>1976</xmax>
+        <ymax>2421</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카콜라)미닛메이드망고175ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1695</xmin>
+        <ymin>538</ymin>
+        <xmax>2501</xmax>
+        <ymax>2275</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

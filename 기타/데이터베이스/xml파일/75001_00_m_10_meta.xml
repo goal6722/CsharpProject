@@ -1,0 +1,62 @@
+<comp_cd>
+  0814
+  <identifier>
+    <identifier>75001_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>08140500044</item_cd>
+    <item_no>75001</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>가공분말류</div_m>
+    <div_s>호떡믹스</div_s>
+    <div_n>호떡믹스</div_n>
+    <comp_nm>씨제이제일제당</comp_nm>
+    <img_prod_nm>씨제이)인절미호떡믹스</img_prod_nm>
+    <volume>300G</volume>
+    <barcd>8801007875620</barcd>
+    <width>15</width>
+    <length>5</length>
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"300","총내용량(g)":"300","총내용량(mL)":"","에너지(㎉)":"1198","단백질(g)":"27","지방(g)":"18","탄수화물(g)":"232","총당류(g)":"79","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1560","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"18",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/75001_씨제이)인절미호떡믹스/</folder>
+    <filename>75001_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/75001_씨제이)인절미호떡믹스/75001_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>씨제이)인절미호떡믹스</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1360</xmin>
+        <ymin>618</ymin>
+        <xmax>2340</xmax>
+        <ymax>2558</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>씨제이)인절미호떡믹스</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>136</xmin>
+        <ymin>302</ymin>
+        <xmax>1596</xmax>
+        <ymax>2754</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

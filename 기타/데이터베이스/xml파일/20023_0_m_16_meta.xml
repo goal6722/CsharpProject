@@ -1,0 +1,74 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>20023_0_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900029</item_cd>
+    <item_no>20023</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>콜라</div_s>
+    <div_n>콜라</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데트레비플레인(PET)500ML</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8801056055226</barcd>
+    <width>6</width>
+    <length />
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"500","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"15","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20023_롯데트레비플레인(PET)500ML/</folder>
+    <filename>20023_0_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20023_롯데트레비플레인(PET)500ML/20023_0_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데트레비플레인(PET)500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>702</xmin>
+        <ymin>362</ymin>
+        <xmax>1378</xmax>
+        <ymax>2526</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데트레비플레인(PET)500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1194</xmin>
+        <ymin>262</ymin>
+        <xmax>1958</xmax>
+        <ymax>2666</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데트레비플레인(PET)500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1786</xmin>
+        <ymin>130</ymin>
+        <xmax>2670</xmax>
+        <ymax>2834</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

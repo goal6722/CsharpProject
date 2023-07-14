@@ -1,0 +1,62 @@
+<comp_cd>
+  0225
+  <identifier>
+    <identifier>55923_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>02250100018</item_cd>
+    <item_no>55923</item_no>
+    <div_l>과자</div_l>
+    <div_m>초콜렛</div_m>
+    <div_s>쉘초콜릿</div_s>
+    <div_n>쉘초콜릿</div_n>
+    <comp_nm>델리팜</comp_nm>
+    <img_prod_nm>델리팜)앤디스토피크런치띤</img_prod_nm>
+    <volume>132G</volume>
+    <barcd>041186001573</barcd>
+    <width>16</width>
+    <length>2</length>
+    <height>7</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"132","총내용량(mL)":"0","에너지(㎉)":"550","단백질(g)":"10","지방(g)":"30","탄수화물(g)":"60","총당류(g)":"60","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"100","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/55923_델리팜)앤디스토피크런치띤/</folder>
+    <filename>55923_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/55923_델리팜)앤디스토피크런치띤/55923_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>델리팜)앤디스토피크런치띤</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1413</xmin>
+        <ymin>1033</ymin>
+        <xmax>2551</xmax>
+        <ymax>1901</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>델리팜)앤디스토피크런치띤</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>908</xmin>
+        <ymin>1124</ymin>
+        <xmax>1767</xmax>
+        <ymax>1720</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

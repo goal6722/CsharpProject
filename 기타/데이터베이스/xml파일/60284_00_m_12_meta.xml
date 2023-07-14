@@ -1,0 +1,62 @@
+<comp_cd>
+  1520
+  <identifier>
+    <identifier>60284_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>15200100022</item_cd>
+    <item_no>60284</item_no>
+    <div_l>과자</div_l>
+    <div_m>스낵</div_m>
+    <div_s>감자스낵</div_s>
+    <div_n>감자스낵</div_n>
+    <comp_nm>홈플러스</comp_nm>
+    <img_prod_nm>심플러스 오리지날 감자칩 샤워크림 &amp; 어니언향</img_prod_nm>
+    <volume>111G</volume>
+    <barcd>9555727906155</barcd>
+    <width>7</width>
+    <length />
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"110","총내용량(mL)":"0","에너지(㎉)":"505","단백질(g)":"4","지방(g)":"27","탄수화물(g)":"62","총당류(g)":"3","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"680","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/60284_심플러스오리지날감자칩샤워크림_어니언향/</folder>
+    <filename>60284_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/60284_심플러스오리지날감자칩샤워크림_어니언향/60284_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>심플러스오리지날감자칩샤워크림_어니언향</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1378</xmin>
+        <ymin>241</ymin>
+        <xmax>2194</xmax>
+        <ymax>2768</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>심플러스오리지날감자칩샤워크림_어니언향</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>577</xmin>
+        <ymin>203</ymin>
+        <xmax>1413</xmax>
+        <ymax>2824</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

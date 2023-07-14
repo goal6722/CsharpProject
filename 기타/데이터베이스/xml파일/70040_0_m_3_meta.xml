@@ -1,0 +1,74 @@
+<comp_cd>
+  0246
+  <identifier>
+    <identifier>70040_0_m_3.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>02460900022</item_cd>
+    <item_no>70040</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산수</div_m>
+    <div_s>플레인탄산수</div_s>
+    <div_n>플레인탄산수</div_n>
+    <comp_nm>동아오츠카</comp_nm>
+    <img_prod_nm>동아포카리스웨트620ML</img_prod_nm>
+    <volume>620ML</volume>
+    <barcd>8801097250079</barcd>
+    <width>7</width>
+    <length />
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"0","총내용량(mL)":"620","에너지(㎉)":"25","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"6","총당류(g)":"6","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"50","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/70040_동아포카리스웨트620ML/</folder>
+    <filename>70040_0_m_3.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/70040_동아포카리스웨트620ML/70040_0_m_3.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>동아포카리스웨트620ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1789</xmin>
+        <ymin>207</ymin>
+        <xmax>2600</xmax>
+        <ymax>2776</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>동아포카리스웨트620ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1139</xmin>
+        <ymin>322</ymin>
+        <xmax>1836</xmax>
+        <ymax>2650</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>동아포카리스웨트620ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>583</xmin>
+        <ymin>418</ymin>
+        <xmax>1209</xmax>
+        <ymax>2557</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

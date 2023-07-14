@@ -1,0 +1,74 @@
+<comp_cd>
+  0520
+  <identifier>
+    <identifier>30207_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>05200500002</item_cd>
+    <item_no>30207</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석국/찌개</div_s>
+    <div_n>즉석국/찌개</div_n>
+    <comp_nm>비비고된</comp_nm>
+    <img_prod_nm>비비고된장찌개</img_prod_nm>
+    <volume>460g</volume>
+    <barcd>8801007528595</barcd>
+    <width>18</width>
+    <length>26</length>
+    <height />
+    <nutrition_info>{"1회제공량":"460","총내용량(g)":"460","총내용량(mL)":"","에너지(㎉)":"185","단백질(g)":"14","지방(g)":"7","탄수화물(g)":"16","총당류(g)":"6","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"2280","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"7",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/30207_비비고된장찌개/</folder>
+    <filename>30207_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/30207_비비고된장찌개/30207_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>비비고된장찌개</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>316</xmin>
+        <ymin>783</ymin>
+        <xmax>849</xmax>
+        <ymax>2113</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>비비고된장찌개</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1181</xmin>
+        <ymin>781</ymin>
+        <xmax>1859</xmax>
+        <ymax>2098</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>비비고된장찌개</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1975</xmin>
+        <ymin>804</ymin>
+        <xmax>2911</xmax>
+        <ymax>2149</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

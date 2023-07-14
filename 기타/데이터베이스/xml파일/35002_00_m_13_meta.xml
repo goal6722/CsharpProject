@@ -1,0 +1,62 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>35002_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    15
+    <item_cd>00001500008</item_cd>
+    <item_no>35002</item_no>
+    <div_l>홈클린</div_l>
+    <div_m>세탁세제</div_m>
+    <div_s>분말표백제</div_s>
+    <div_n>분말표백제</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>퐁퐁 베이킹소다 (1200ml)</img_prod_nm>
+    <volume>1.2L</volume>
+    <barcd>8801051232394</barcd>
+    <width>14</width>
+    <length>8</length>
+    <height>27</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/35002_퐁퐁베이킹소다(1200ml)/</folder>
+    <filename>35002_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/35002_퐁퐁베이킹소다(1200ml)/35002_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>퐁퐁베이킹소다(1200ml)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1541</xmin>
+        <ymin>581</ymin>
+        <xmax>2729</xmax>
+        <ymax>2411</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>퐁퐁베이킹소다(1200ml)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>261</xmin>
+        <ymin>579</ymin>
+        <xmax>1518</xmax>
+        <ymax>2443</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

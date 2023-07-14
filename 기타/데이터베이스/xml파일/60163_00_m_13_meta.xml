@@ -1,0 +1,74 @@
+<comp_cd>
+  0191
+  <identifier>
+    <identifier>60163_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>01910700029</item_cd>
+    <item_no>60163</item_no>
+    <div_l>소스</div_l>
+    <div_m>장류</div_m>
+    <div_s>고추장</div_s>
+    <div_n>초고추장</div_n>
+    <comp_nm>대상</comp_nm>
+    <img_prod_nm>오뚜기초고추장500g</img_prod_nm>
+    <volume>500G</volume>
+    <barcd>8801045120676</barcd>
+    <width>6</width>
+    <length />
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"500","총내용량(mL)":"","에너지(㎉)":"210","단백질(g)":"2","지방(g)":"","탄수화물(g)":"50","총당류(g)":"29","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1340","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/60163_오뚜기초고추장500g/</folder>
+    <filename>60163_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/60163_오뚜기초고추장500g/60163_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기초고추장500g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>394</xmin>
+        <ymin>359</ymin>
+        <xmax>1099</xmax>
+        <ymax>2686</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기초고추장500g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1782</xmin>
+        <ymin>331</ymin>
+        <xmax>2529</xmax>
+        <ymax>2684</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기초고추장500g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1086</xmin>
+        <ymin>347</ymin>
+        <xmax>1807</xmax>
+        <ymax>2683</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

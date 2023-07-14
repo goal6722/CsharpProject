@@ -1,0 +1,74 @@
+<comp_cd>
+  0814
+  <identifier>
+    <identifier>10193_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>08140700004</item_cd>
+    <item_no>10193</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>고기양념장</div_s>
+    <div_n>고기양념장</div_n>
+    <comp_nm>씨제이제일제당</comp_nm>
+    <img_prod_nm>백설소갈비양념290G</img_prod_nm>
+    <volume>290G</volume>
+    <barcd>8801007176307</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/10193_백설소갈비양념290G/</folder>
+    <filename>10193_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/10193_백설소갈비양념290G/10193_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>백설소갈비양념290G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>80</xmin>
+        <ymin>395</ymin>
+        <xmax>1065</xmax>
+        <ymax>2639</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>백설소갈비양념290G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1010</xmin>
+        <ymin>459</ymin>
+        <xmax>1884</xmax>
+        <ymax>2500</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>백설소갈비양념290G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1735</xmin>
+        <ymin>486</ymin>
+        <xmax>2592</xmax>
+        <ymax>2373</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

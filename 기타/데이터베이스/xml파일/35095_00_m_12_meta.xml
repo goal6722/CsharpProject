@@ -1,0 +1,62 @@
+<comp_cd>
+  0082
+  <identifier>
+    <identifier>35095_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00820100001</item_cd>
+    <item_no>35095</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>스낵</div_m>
+    <div_s>영유아과자</div_s>
+    <div_n>영유아과자</div_n>
+    <comp_nm>그리원푸드</comp_nm>
+    <img_prod_nm>그리원푸드)아이배냇꼬마쌀콩이35G</img_prod_nm>
+    <volume>35G</volume>
+    <barcd>8809360927499</barcd>
+    <width>11</width>
+    <length>7</length>
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"35","총내용량(g)":"35","총내용량(mL)":"","에너지(㎉)":"155","단백질(g)":"3","지방(g)":"4.3","탄수화물(g)":"26","총당류(g)":"10","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"55","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"4.3",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/35095_그리원푸드)아이배냇꼬마쌀콩이35G/</folder>
+    <filename>35095_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/35095_그리원푸드)아이배냇꼬마쌀콩이35G/35095_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>그리원푸드)아이배냇꼬마쌀콩이35G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>134</xmin>
+        <ymin>666</ymin>
+        <xmax>1345</xmax>
+        <ymax>2499</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>그리원푸드)아이배냇꼬마쌀콩이35G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1313</xmin>
+        <ymin>777</ymin>
+        <xmax>2350</xmax>
+        <ymax>2399</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

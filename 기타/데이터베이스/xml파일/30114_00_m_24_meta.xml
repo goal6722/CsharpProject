@@ -1,0 +1,74 @@
+<comp_cd>
+  1291
+  <identifier>
+    <identifier>30114_00_m_24.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>12910100005</item_cd>
+    <item_no>30114</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>소프트캔디</div_s>
+    <div_n>소프트캔디</div_n>
+    <comp_nm>크라운</comp_nm>
+    <img_prod_nm>크라운)새콤달콤복숭아29G</img_prod_nm>
+    <volume>29G</volume>
+    <barcd>8801111188036</barcd>
+    <width>12</width>
+    <length>3</length>
+    <height>1</height>
+    <nutrition_info>{"1회제공량":"30","총내용량(g)":"30","총내용량(mL)":"0","에너지(㎉)":"37.31","단백질(g)":"0.07","지방(g)":"0.85","탄수화물(g)":"7.41","총당류(g)":"4.89","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"3.6","비타민":"0","콜레스테롤(㎎)":"2.12","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/30114_크라운)새콤달콤복숭아29G/</folder>
+    <filename>30114_00_m_24.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/30114_크라운)새콤달콤복숭아29G/30114_00_m_24.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>크라운)새콤달콤복숭아29G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>279</xmin>
+        <ymin>1369</ymin>
+        <xmax>1102</xmax>
+        <ymax>1577</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>크라운)새콤달콤복숭아29G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1817</xmin>
+        <ymin>1349</ymin>
+        <xmax>2496</xmax>
+        <ymax>1531</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>크라운)새콤달콤복숭아29G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1097</xmin>
+        <ymin>1349</ymin>
+        <xmax>1842</xmax>
+        <ymax>1542</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

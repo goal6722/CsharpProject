@@ -1,0 +1,74 @@
+<comp_cd>
+  0941
+  <identifier>
+    <identifier>70253_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    15
+    <item_cd>09411500053</item_cd>
+    <item_no>70253</item_no>
+    <div_l>홈클린</div_l>
+    <div_m>욕실주거세제</div_m>
+    <div_s>세탁조세정제</div_s>
+    <div_n>세탁조세정제</div_n>
+    <comp_nm>엘지생활건강</comp_nm>
+    <img_prod_nm>엘지홈스타퍼펙트세탁조클리너</img_prod_nm>
+    <volume>450ML</volume>
+    <barcd>8808739000504</barcd>
+    <width>8</width>
+    <length>4</length>
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/70253_엘지홈스타퍼펙트세탁조클리너/</folder>
+    <filename>70253_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/70253_엘지홈스타퍼펙트세탁조클리너/70253_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>엘지홈스타퍼펙트세탁조클리너</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>168</xmin>
+        <ymin>482</ymin>
+        <xmax>1161</xmax>
+        <ymax>2682</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>엘지홈스타퍼펙트세탁조클리너</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1091</xmin>
+        <ymin>553</ymin>
+        <xmax>1930</xmax>
+        <ymax>2532</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>엘지홈스타퍼펙트세탁조클리너</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1875</xmin>
+        <ymin>601</ymin>
+        <xmax>2607</xmax>
+        <ymax>2418</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

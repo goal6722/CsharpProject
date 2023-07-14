@@ -1,0 +1,74 @@
+<comp_cd>
+  1493
+  <identifier>
+    <identifier>40109_0_m_18.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>14930100034</item_cd>
+    <item_no>40109</item_no>
+    <div_l>과자</div_l>
+    <div_m>비스킷</div_m>
+    <div_s>쿠키</div_s>
+    <div_n>쿠키</div_n>
+    <comp_nm>해태</comp_nm>
+    <img_prod_nm>해태칼로리바란스76G</img_prod_nm>
+    <volume>76G</volume>
+    <barcd>8801019306396</barcd>
+    <width>11</width>
+    <length>2</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"76","총내용량(g)":"76","총내용량(mL)":"0","에너지(㎉)":"325","단백질(g)":"6","지방(g)":"10","탄수화물(g)":"53","총당류(g)":"17","총 식이섬유(g)":"0","칼슘(㎎)":"250","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"290","비타민":"243.78","콜레스테롤(㎎)":"35","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/40109_해태칼로리바란스76G/</folder>
+    <filename>40109_0_m_18.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/40109_해태칼로리바란스76G/40109_0_m_18.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>해태칼로리바란스76G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1574</xmin>
+        <ymin>806</ymin>
+        <xmax>2258</xmax>
+        <ymax>2058</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>해태칼로리바란스76G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1290</xmin>
+        <ymin>978</ymin>
+        <xmax>1574</xmax>
+        <ymax>1922</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>해태칼로리바란스76G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1146</xmin>
+        <ymin>1074</ymin>
+        <xmax>1322</xmax>
+        <ymax>1850</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

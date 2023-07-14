@@ -1,0 +1,74 @@
+<comp_cd>
+  0124
+  <identifier>
+    <identifier>30215_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>01240800008</item_cd>
+    <item_no>30215</item_no>
+    <div_l>유제품</div_l>
+    <div_m>요구르트</div_m>
+    <div_s>마시는 요구르트</div_s>
+    <div_n>마시는 요구르트</div_n>
+    <comp_nm>남양유업</comp_nm>
+    <img_prod_nm>남양이오트웬티즈</img_prod_nm>
+    <volume>135ML</volume>
+    <barcd>8801069176567</barcd>
+    <width>4</width>
+    <length>4</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"135","에너지(㎉)":"60","단백질(g)":"1.5","지방(g)":"","탄수화물(g)":"14","총당류(g)":"13.5","총 식이섬유(g)":"","칼슘(㎎)":"65","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"27","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/30215_남양이오트웬티즈/</folder>
+    <filename>30215_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/30215_남양이오트웬티즈/30215_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>남양이오트웬티즈</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1752</xmin>
+        <ymin>434</ymin>
+        <xmax>2605</xmax>
+        <ymax>2476</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>남양이오트웬티즈</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1001</xmin>
+        <ymin>483</ymin>
+        <xmax>1815</xmax>
+        <ymax>2418</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>남양이오트웬티즈</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>341</xmin>
+        <ymin>529</ymin>
+        <xmax>1093</xmax>
+        <ymax>2358</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

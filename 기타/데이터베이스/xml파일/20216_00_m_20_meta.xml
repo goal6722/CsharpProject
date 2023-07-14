@@ -1,0 +1,38 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>20216_00_m_20.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>09750500024</item_cd>
+    <item_no>20216</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>분말조리식</div_m>
+    <div_s>분말스프</div_s>
+    <div_n>분말스프</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기야채스프80G</img_prod_nm>
+    <volume>80G</volume>
+    <barcd>8801045054100</barcd>
+    <width>13</width>
+    <length>17</length>
+    <height />
+    <nutrition_info>{"1회제공량":"80","총내용량(g)":"80","총내용량(mL)":"","에너지(㎉)":"325","단백질(g)":"8","지방(g)":"7.6","탄수화물(g)":"56","총당류(g)":"12","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"2000","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"7.6",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/20216_오뚜기야채스프80G/</folder>
+    <filename>20216_00_m_20.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/20216_오뚜기야채스프80G/20216_00_m_20.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,74 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>30222_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>09750700043</item_cd>
+    <item_no>30222</item_no>
+    <div_l>소스</div_l>
+    <div_m>분말조미료</div_m>
+    <div_s>후추</div_s>
+    <div_n>후추</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기 굵은순후추</img_prod_nm>
+    <volume>45G</volume>
+    <barcd>8801045450117</barcd>
+    <width>4</width>
+    <length>4</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/30222_오뚜기굵은순후추/</folder>
+    <filename>30222_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/30222_오뚜기굵은순후추/30222_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기굵은순후추</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>347</xmin>
+        <ymin>359</ymin>
+        <xmax>1145</xmax>
+        <ymax>2497</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기굵은순후추</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1667</xmin>
+        <ymin>472</ymin>
+        <xmax>2385</xmax>
+        <ymax>2404</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기굵은순후추</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1020</xmin>
+        <ymin>421</ymin>
+        <xmax>1777</xmax>
+        <ymax>2442</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

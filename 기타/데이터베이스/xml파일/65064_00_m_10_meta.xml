@@ -1,0 +1,62 @@
+<comp_cd>
+  0112
+  <identifier>
+    <identifier>65064_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>01121300014</item_cd>
+    <item_no>65064</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>아이스티</div_s>
+    <div_n>아이스티</div_n>
+    <comp_nm>꽃샘식품</comp_nm>
+    <img_prod_nm>꽃샘식품립톤아이스티레몬&amp;라임300G</img_prod_nm>
+    <volume>300G</volume>
+    <barcd>8801619803547</barcd>
+    <width>16</width>
+    <length>17</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"15","총내용량(g)":"300","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"8","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65064_꽃샘식품립톤아이스티레몬_라임300G/</folder>
+    <filename>65064_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65064_꽃샘식품립톤아이스티레몬_라임300G/65064_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>꽃샘식품립톤아이스티레몬_라임300G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>218</xmin>
+        <ymin>608</ymin>
+        <xmax>1635</xmax>
+        <ymax>2448</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>꽃샘식품립톤아이스티레몬_라임300G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1522</xmin>
+        <ymin>835</ymin>
+        <xmax>2347</xmax>
+        <ymax>2222</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

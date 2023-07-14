@@ -1,0 +1,62 @@
+<comp_cd>
+  0057
+  <identifier>
+    <identifier>66044_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>00570900001</item_cd>
+    <item_no>66044</item_no>
+    <div_l>음료</div_l>
+    <div_m>차음료</div_m>
+    <div_s>일반차음료</div_s>
+    <div_n>일반차음료</div_n>
+    <comp_nm>골든라이프텍</comp_nm>
+    <img_prod_nm>골든라이프텍)곡물가게궁자연주의건강함리얼호박차</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8809058703428</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/66044_골든라이프텍)곡물가게궁자연주의건강함리얼호박차/</folder>
+    <filename>66044_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/66044_골든라이프텍)곡물가게궁자연주의건강함리얼호박차/66044_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>골든라이프텍)곡물가게궁자연주의건강함리얼호박차</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1251</xmin>
+        <ymin>151</ymin>
+        <xmax>2077</xmax>
+        <ymax>2807</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>골든라이프텍)곡물가게궁자연주의건강함리얼호박차</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>981</xmin>
+        <ymin>349</ymin>
+        <xmax>1685</xmax>
+        <ymax>2561</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

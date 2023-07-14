@@ -1,0 +1,62 @@
+<comp_cd>
+  1018
+  <identifier>
+    <identifier>35627_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>10180600001</item_cd>
+    <item_no>35627</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>기타</div_m>
+    <div_s>기타</div_s>
+    <div_n>기타</div_n>
+    <comp_nm>우진</comp_nm>
+    <img_prod_nm>우진)이쑤시개원통(단면)</img_prod_nm>
+    <volume>460개</volume>
+    <barcd>8806144500916</barcd>
+    <width>6</width>
+    <length />
+    <height>7</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/35627_우진)이쑤시개원통(단면)/</folder>
+    <filename>35627_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/35627_우진)이쑤시개원통(단면)/35627_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>우진)이쑤시개원통(단면)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>160</xmin>
+        <ymin>765</ymin>
+        <xmax>1498</xmax>
+        <ymax>2471</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>우진)이쑤시개원통(단면)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1430</xmin>
+        <ymin>802</ymin>
+        <xmax>2622</xmax>
+        <ymax>2423</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

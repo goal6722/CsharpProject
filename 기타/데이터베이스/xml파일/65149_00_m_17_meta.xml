@@ -1,0 +1,62 @@
+<comp_cd>
+  0825
+  <identifier>
+    <identifier>65149_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>08251100127</item_cd>
+    <item_no>65149</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>바디워시</div_s>
+    <div_n>바디워시</div_n>
+    <comp_nm>아모레퍼시픽</comp_nm>
+    <img_prod_nm>아모레퍼시픽해피바스내추럴정말순한바디밀크</img_prod_nm>
+    <volume>450ML</volume>
+    <barcd>8801042471023</barcd>
+    <width>8</width>
+    <length>4</length>
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/65149_아모레퍼시픽해피바스내추럴정말순한바디밀크/</folder>
+    <filename>65149_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/65149_아모레퍼시픽해피바스내추럴정말순한바디밀크/65149_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>아모레퍼시픽해피바스내추럴정말순한바디밀크</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1427</xmin>
+        <ymin>86</ymin>
+        <xmax>2228</xmax>
+        <ymax>2895</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아모레퍼시픽해피바스내추럴정말순한바디밀크</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1039</xmin>
+        <ymin>346</ymin>
+        <xmax>1592</xmax>
+        <ymax>2574</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

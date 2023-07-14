@@ -1,0 +1,74 @@
+<comp_cd>
+  0615
+  <identifier>
+    <identifier>80191_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>06150900001</item_cd>
+    <item_no>80191</item_no>
+    <div_l>음료</div_l>
+    <div_m>커피음료</div_m>
+    <div_s>커피음료</div_s>
+    <div_n>커피음료</div_n>
+    <comp_nm>생생초스</comp_nm>
+    <img_prod_nm>생생초스위트몬스터워터젤리사과</img_prod_nm>
+    <volume>100ML</volume>
+    <barcd />
+    <width>8</width>
+    <length>2</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"0","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"0","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/80191_생생초스위트몬스터워터젤리사과/</folder>
+    <filename>80191_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/80191_생생초스위트몬스터워터젤리사과/80191_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>생생초스위트몬스터워터젤리사과</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>176</xmin>
+        <ymin>368</ymin>
+        <xmax>1116</xmax>
+        <ymax>2452</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>생생초스위트몬스터워터젤리사과</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1127</xmin>
+        <ymin>484</ymin>
+        <xmax>1879</xmax>
+        <ymax>2322</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>생생초스위트몬스터워터젤리사과</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1863</xmin>
+        <ymin>554</ymin>
+        <xmax>2491</xmax>
+        <ymax>2198</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

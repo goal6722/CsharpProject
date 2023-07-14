@@ -1,0 +1,62 @@
+<comp_cd>
+  0245
+  <identifier>
+    <identifier>55532_00_m_4.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>02451100005</item_cd>
+    <item_no>55532</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>두발용품</div_m>
+    <div_s>염색약</div_s>
+    <div_n>염색약</div_n>
+    <comp_nm>동성제약</comp_nm>
+    <img_prod_nm>동성제약헤이씨리얼헤어컬러팝핑샤워앤코튼캔디퍼플60G60ML</img_prod_nm>
+    <volume>60G60ML</volume>
+    <barcd>8806022172204</barcd>
+    <width>9</width>
+    <length>8</length>
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/55532_동성제약헤이씨리얼헤어컬러팝핑샤워앤코튼캔디퍼플60G60ML/</folder>
+    <filename>55532_00_m_4.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/55532_동성제약헤이씨리얼헤어컬러팝핑샤워앤코튼캔디퍼플60G60ML/55532_00_m_4.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>동성제약헤이씨리얼헤어컬러팝핑샤워앤코튼캔디퍼플60G60ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1029</xmin>
+        <ymin>184</ymin>
+        <xmax>2743</xmax>
+        <ymax>2837</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>동성제약헤이씨리얼헤어컬러팝핑샤워앤코튼캔디퍼플60G60ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>332</xmin>
+        <ymin>325</ymin>
+        <xmax>1474</xmax>
+        <ymax>2623</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

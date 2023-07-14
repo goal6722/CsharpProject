@@ -1,0 +1,74 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>10018_0_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900005</item_cd>
+    <item_no>10018</item_no>
+    <div_l>음료</div_l>
+    <div_m>커피음료</div_m>
+    <div_s>커피음료</div_s>
+    <div_n>커피음료</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데레쓰비175ML</img_prod_nm>
+    <volume>175ML</volume>
+    <barcd>8801056290016</barcd>
+    <width>5</width>
+    <length>5</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"175","에너지(㎉)":"60","단백질(g)":"1","지방(g)":"","탄수화물(g)":"14","총당류(g)":"14","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"70","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/10018_롯데레쓰비175ML/</folder>
+    <filename>10018_0_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/10018_롯데레쓰비175ML/10018_0_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데레쓰비175ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>156</xmin>
+        <ymin>509</ymin>
+        <xmax>1165</xmax>
+        <ymax>2615</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데레쓰비175ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1064</xmin>
+        <ymin>567</ymin>
+        <xmax>1974</xmax>
+        <ymax>2495</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데레쓰비175ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1843</xmin>
+        <ymin>591</ymin>
+        <xmax>2685</xmax>
+        <ymax>2390</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

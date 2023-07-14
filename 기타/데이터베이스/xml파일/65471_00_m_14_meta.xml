@@ -1,0 +1,62 @@
+<comp_cd>
+  1219
+  <identifier>
+    <identifier>65471_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>12190700037</item_cd>
+    <item_no>65471</item_no>
+    <div_l>소스</div_l>
+    <div_m>소금류</div_m>
+    <div_s>천일염</div_s>
+    <div_n>천일염</div_n>
+    <comp_nm>청정원</comp_nm>
+    <img_prod_nm>청정원신안섬보배천일염구운소금(번들)</img_prod_nm>
+    <volume>200G*3</volume>
+    <barcd>8801052045283</barcd>
+    <width>16</width>
+    <length>6</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/65471_청정원신안섬보배천일염구운소금(번들)/</folder>
+    <filename>65471_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/65471_청정원신안섬보배천일염구운소금(번들)/65471_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>청정원신안섬보배천일염구운소금(번들)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1398</xmin>
+        <ymin>753</ymin>
+        <xmax>2826</xmax>
+        <ymax>2215</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>청정원신안섬보배천일염구운소금(번들)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>183</xmin>
+        <ymin>821</ymin>
+        <xmax>1470</xmax>
+        <ymax>2156</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

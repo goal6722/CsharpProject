@@ -1,0 +1,62 @@
+<comp_cd>
+  1184
+  <identifier>
+    <identifier>35313_00_m_5.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    15
+    <item_cd>11841500001</item_cd>
+    <item_no>35313</item_no>
+    <div_l>홈클린</div_l>
+    <div_m>제습/탈취</div_m>
+    <div_s>개미/바퀴살충제</div_s>
+    <div_n>개미/바퀴살충제</div_n>
+    <comp_nm>지에스켐</comp_nm>
+    <img_prod_nm>지에스켐)에프킬라개미용멀티</img_prod_nm>
+    <volume>450ML</volume>
+    <barcd>8801328101583</barcd>
+    <width>7</width>
+    <length>7</length>
+    <height>25</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/35313_지에스켐)에프킬라개미용멀티/</folder>
+    <filename>35313_00_m_5.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/35313_지에스켐)에프킬라개미용멀티/35313_00_m_5.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>지에스켐)에프킬라개미용멀티</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1394</xmin>
+        <ymin>299</ymin>
+        <xmax>2027</xmax>
+        <ymax>2807</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>지에스켐)에프킬라개미용멀티</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1062</xmin>
+        <ymin>432</ymin>
+        <xmax>1651</xmax>
+        <ymax>2650</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

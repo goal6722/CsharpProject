@@ -1,0 +1,62 @@
+<comp_cd>
+  0977
+  <identifier>
+    <identifier>65029_00_m_6.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>09770100089</item_cd>
+    <item_no>65029</item_no>
+    <div_l>과자</div_l>
+    <div_m>파이류</div_m>
+    <div_s>케이크</div_s>
+    <div_n>케이크</div_n>
+    <comp_nm>오리온</comp_nm>
+    <img_prod_nm>오리온 오뜨쇼콜라300G</img_prod_nm>
+    <volume>300G</volume>
+    <barcd>8801117548414</barcd>
+    <width>31</width>
+    <length>25</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"25","총내용량(g)":"300","총내용량(mL)":"0","에너지(㎉)":"123","단백질(g)":"4","지방(g)":"7","탄수화물(g)":"13","총당류(g)":"8","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"55","비타민":"0","콜레스테롤(㎎)":"21","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/65029_오리온오뜨쇼콜라300G/</folder>
+    <filename>65029_00_m_6.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/65029_오리온오뜨쇼콜라300G/65029_00_m_6.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오리온오뜨쇼콜라300G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1382</xmin>
+        <ymin>258</ymin>
+        <xmax>2459</xmax>
+        <ymax>2704</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오리온오뜨쇼콜라300G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>780</xmin>
+        <ymin>303</ymin>
+        <xmax>1364</xmax>
+        <ymax>2638</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

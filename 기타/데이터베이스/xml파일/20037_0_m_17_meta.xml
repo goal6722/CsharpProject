@@ -1,0 +1,62 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>20037_0_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900033</item_cd>
+    <item_no>20037</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산수</div_m>
+    <div_s>Flavor탄산수</div_s>
+    <div_n>Flavor탄산수</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데마운틴듀400ML</img_prod_nm>
+    <volume>400ML</volume>
+    <barcd>8801056075071</barcd>
+    <width>6</width>
+    <length />
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"400","에너지(㎉)":"192","단백질(g)":"","지방(g)":"","탄수화물(g)":"48","총당류(g)":"48","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20037_롯데마운틴듀400ML/</folder>
+    <filename>20037_0_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20037_롯데마운틴듀400ML/20037_0_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데마운틴듀400ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1539</xmin>
+        <ymin>58</ymin>
+        <xmax>2312</xmax>
+        <ymax>2906</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데마운틴듀400ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1194</xmin>
+        <ymin>257</ymin>
+        <xmax>1954</xmax>
+        <ymax>2714</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

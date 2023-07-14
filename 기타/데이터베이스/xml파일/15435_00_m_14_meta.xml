@@ -1,0 +1,62 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>15435_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>00000100004</item_cd>
+    <item_no>15435</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>젤리</div_s>
+    <div_n>젤리</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>베베토 쿨빈스사워믹스 12개입</img_prod_nm>
+    <volume>12개입</volume>
+    <barcd>8690146128724</barcd>
+    <width>11</width>
+    <length>10</length>
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"36","총내용량(g)":"432","총내용량(mL)":"0","에너지(㎉)":"140","단백질(g)":"2","지방(g)":"0","탄수화물(g)":"33","총당류(g)":"19","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"0","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15435_베베토쿨빈스사워믹스12개입/</folder>
+    <filename>15435_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15435_베베토쿨빈스사워믹스12개입/15435_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>베베토쿨빈스사워믹스12개입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1235</xmin>
+        <ymin>889</ymin>
+        <xmax>2338</xmax>
+        <ymax>2017</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>베베토쿨빈스사워믹스12개입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>228</xmin>
+        <ymin>914</ymin>
+        <xmax>1282</xmax>
+        <ymax>1984</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

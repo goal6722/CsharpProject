@@ -1,0 +1,62 @@
+<comp_cd>
+  0237
+  <identifier>
+    <identifier>45779_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>02370500001</item_cd>
+    <item_no>45779</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>기타레토르트</div_s>
+    <div_n>기타레토르트</div_n>
+    <comp_nm>동림식품</comp_nm>
+    <img_prod_nm>동림식품)훈제굴</img_prod_nm>
+    <volume>85G</volume>
+    <barcd>8801450571537</barcd>
+    <width>11</width>
+    <length>2</length>
+    <height>6</height>
+    <nutrition_info>{"1회제공량":"85","총내용량(g)":"85","총내용량(mL)":"","에너지(㎉)":"280","단백질(g)":"14","지방(g)":"20","탄수화물(g)":"11","총당류(g)":"0","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"229","비타민":"","콜레스테롤(㎎)":"75","총 지방산(g)":"20",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/45779_동림식품)훈제굴/</folder>
+    <filename>45779_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/45779_동림식품)훈제굴/45779_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>동림식품)훈제굴</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1414</xmin>
+        <ymin>1413</ymin>
+        <xmax>2484</xmax>
+        <ymax>2428</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>동림식품)훈제굴</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>930</xmin>
+        <ymin>1361</ymin>
+        <xmax>1643</xmax>
+        <ymax>2093</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

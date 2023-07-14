@@ -1,0 +1,62 @@
+<comp_cd>
+  0580
+  <identifier>
+    <identifier>45794_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>05800100006</item_cd>
+    <item_no>45794</item_no>
+    <div_l>과자</div_l>
+    <div_m>파이류</div_m>
+    <div_s>과자세트</div_s>
+    <div_n>과자세트</div_n>
+    <comp_nm>삼경에프에스</comp_nm>
+    <img_prod_nm>삼경에프에스)벤또만들기</img_prod_nm>
+    <volume>29G</volume>
+    <barcd>4901551353958</barcd>
+    <width>14</width>
+    <length>5</length>
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"29","총내용량(g)":"29","총내용량(mL)":"0","에너지(㎉)":"113","단백질(g)":"0.1","지방(g)":"0.5","탄수화물(g)":"27","총당류(g)":"12","총 식이섬유(g)":"0","칼슘(㎎)":"152","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"32","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45794_삼경에프에스)벤또만들기/</folder>
+    <filename>45794_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45794_삼경에프에스)벤또만들기/45794_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>삼경에프에스)벤또만들기</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1505</xmin>
+        <ymin>835</ymin>
+        <xmax>2823</xmax>
+        <ymax>1953</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>삼경에프에스)벤또만들기</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>233</xmin>
+        <ymin>856</ymin>
+        <xmax>1520</xmax>
+        <ymax>1964</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

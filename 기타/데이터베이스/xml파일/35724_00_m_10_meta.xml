@@ -1,0 +1,62 @@
+<comp_cd>
+  0391
+  <identifier>
+    <identifier>35724_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>03910500001</item_cd>
+    <item_no>35724</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>건채소</div_m>
+    <div_s>고구마</div_s>
+    <div_n>고구마</div_n>
+    <comp_nm>명성식품</comp_nm>
+    <img_prod_nm>명성식품)말랑말랑군고구마</img_prod_nm>
+    <volume>50G</volume>
+    <barcd>8806075963378</barcd>
+    <width>11</width>
+    <length>5</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"50","총내용량(g)":"50","총내용량(mL)":"","에너지(㎉)":"160","단백질(g)":"2","지방(g)":"0","탄수화물(g)":"38","총당류(g)":"22","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"0","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35724_명성식품)말랑말랑군고구마/</folder>
+    <filename>35724_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35724_명성식품)말랑말랑군고구마/35724_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>명성식품)말랑말랑군고구마</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>215</xmin>
+        <ymin>563</ymin>
+        <xmax>1484</xmax>
+        <ymax>2611</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>명성식품)말랑말랑군고구마</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1394</xmin>
+        <ymin>726</ymin>
+        <xmax>2165</xmax>
+        <ymax>2402</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

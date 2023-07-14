@@ -1,0 +1,74 @@
+<comp_cd>
+  0301
+  <identifier>
+    <identifier>80042_00_m_3.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03010900010</item_cd>
+    <item_no>80042</item_no>
+    <div_l>음료</div_l>
+    <div_m>차음료</div_m>
+    <div_s>일반차음료</div_s>
+    <div_n>일반차음료</div_n>
+    <comp_nm>롯데제과</comp_nm>
+    <img_prod_nm>롯데GS보리차</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8801056103132</barcd>
+    <width>6</width>
+    <length />
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"0","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"0","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/80042_롯데GS보리차/</folder>
+    <filename>80042_00_m_3.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/80042_롯데GS보리차/80042_00_m_3.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데GS보리차</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1166</xmin>
+        <ymin>333</ymin>
+        <xmax>1770</xmax>
+        <ymax>2612</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데GS보리차</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1741</xmin>
+        <ymin>231</ymin>
+        <xmax>2471</xmax>
+        <ymax>2747</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데GS보리차</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>658</xmin>
+        <ymin>404</ymin>
+        <xmax>1204</xmax>
+        <ymax>2511</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

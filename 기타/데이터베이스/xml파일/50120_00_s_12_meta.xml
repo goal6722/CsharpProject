@@ -1,0 +1,50 @@
+<comp_cd>
+  0565
+  <identifier>
+    <identifier>50120_00_s_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    12
+    <item_cd>05651200002</item_cd>
+    <item_no>50120</item_no>
+    <div_l>주류</div_l>
+    <div_m>맥주</div_m>
+    <div_s>수입맥주</div_s>
+    <div_n>수입맥주</div_n>
+    <comp_nm>사쿠오리</comp_nm>
+    <img_prod_nm>사쿠오리지널(캔)500ML</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>4740019766233</barcd>
+    <width>6</width>
+    <length />
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/50120_사쿠오리지널(캔)500ML/</folder>
+    <filename>50120_00_s_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/50120_사쿠오리지널(캔)500ML/50120_00_s_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>사쿠오리지널(캔)500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>979</xmin>
+        <ymin>264</ymin>
+        <xmax>1952</xmax>
+        <ymax>2873</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

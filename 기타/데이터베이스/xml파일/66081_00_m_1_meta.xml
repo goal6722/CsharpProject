@@ -1,0 +1,62 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>66081_00_m_1.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00000700028</item_cd>
+    <item_no>66081</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>식용유</div_m>
+    <div_s>올리브유</div_s>
+    <div_n>올리브유</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>롯데쇼핑)올리브유스프레이에어프라이어용200ML</img_prod_nm>
+    <volume>200ML</volume>
+    <barcd>8004123014021</barcd>
+    <width>5</width>
+    <length>5</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"","총내용량(mL)":"200","에너지(㎉)":"847","단백질(g)":"0","지방(g)":"94.1","탄수화물(g)":"0","총당류(g)":"0","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"0","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"94.1",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/66081_롯데쇼핑)올리브유스프레이에어프라이어용200ML/</folder>
+    <filename>66081_00_m_1.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/66081_롯데쇼핑)올리브유스프레이에어프라이어용200ML/66081_00_m_1.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데쇼핑)올리브유스프레이에어프라이어용200ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>833</xmin>
+        <ymin>177</ymin>
+        <xmax>1514</xmax>
+        <ymax>2827</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데쇼핑)올리브유스프레이에어프라이어용200ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1494</xmin>
+        <ymin>161</ymin>
+        <xmax>2182</xmax>
+        <ymax>2826</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

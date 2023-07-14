@@ -1,0 +1,74 @@
+<comp_cd>
+  0685
+  <identifier>
+    <identifier>30219_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>06850800002</item_cd>
+    <item_no>30219</item_no>
+    <div_l>유제품</div_l>
+    <div_m>요구르트</div_m>
+    <div_s>마시는 요구르트</div_s>
+    <div_n>마시는 요구르트</div_n>
+    <comp_nm>소와나무</comp_nm>
+    <img_prod_nm>소와나무쿨피스오리지널파인애플</img_prod_nm>
+    <volume>930ML</volume>
+    <barcd>8801155418212</barcd>
+    <width>7</width>
+    <length>7</length>
+    <height>23</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"","총내용량(mL)":"930","에너지(㎉)":"40","단백질(g)":"0.5","지방(g)":"0.5","탄수화물(g)":"10","총당류(g)":"9","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"40","비타민":"21","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/30219_소와나무쿨피스오리지널파인애플/</folder>
+    <filename>30219_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/30219_소와나무쿨피스오리지널파인애플/30219_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>소와나무쿨피스오리지널파인애플</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>588</xmin>
+        <ymin>387</ymin>
+        <xmax>1527</xmax>
+        <ymax>2708</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>소와나무쿨피스오리지널파인애플</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1160</xmin>
+        <ymin>514</ymin>
+        <xmax>1956</xmax>
+        <ymax>2582</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>소와나무쿨피스오리지널파인애플</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1588</xmin>
+        <ymin>633</ymin>
+        <xmax>2288</xmax>
+        <ymax>2481</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

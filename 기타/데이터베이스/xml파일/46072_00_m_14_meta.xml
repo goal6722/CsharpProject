@@ -1,0 +1,62 @@
+<comp_cd>
+  0267
+  <identifier>
+    <identifier>46072_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    14
+    <item_cd>02671400003</item_cd>
+    <item_no>46072</item_no>
+    <div_l>통조림/안주</div_l>
+    <div_m>통조림</div_m>
+    <div_s>애견식품</div_s>
+    <div_n>애견습식사료</div_n>
+    <comp_nm>드림펫푸드</comp_nm>
+    <img_prod_nm>드림펫푸드)이코노미런치플러스캔참치&amp;고등어</img_prod_nm>
+    <volume>80G</volume>
+    <barcd>8809192519695</barcd>
+    <width>7</width>
+    <length />
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"0","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"","비타민":"0","콜레스테롤(㎎)":"","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/46072_드림펫푸드)이코노미런치플러스캔참치_고등어/</folder>
+    <filename>46072_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/46072_드림펫푸드)이코노미런치플러스캔참치_고등어/46072_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>드림펫푸드)이코노미런치플러스캔참치_고등어</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1411</xmin>
+        <ymin>1277</ymin>
+        <xmax>2743</xmax>
+        <ymax>2037</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>드림펫푸드)이코노미런치플러스캔참치_고등어</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>217</xmin>
+        <ymin>1275</ymin>
+        <xmax>1442</xmax>
+        <ymax>1980</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

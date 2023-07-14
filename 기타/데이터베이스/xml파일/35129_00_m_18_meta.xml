@@ -1,0 +1,62 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>35129_00_m_18.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>00000800007</item_cd>
+    <item_no>35129</item_no>
+    <div_l>유제품</div_l>
+    <div_m>치즈</div_m>
+    <div_s>크림치즈</div_s>
+    <div_n>크림치즈</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>프랑스)끼리크림치즈플레인108G</img_prod_nm>
+    <volume>108G</volume>
+    <barcd>3073780963893</barcd>
+    <width>14</width>
+    <length>8</length>
+    <height>2</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"108","총내용량(mL)":"","에너지(㎉)":"330","단백질(g)":"9","지방(g)":"32","탄수화물(g)":"2","총당류(g)":"2","총 식이섬유(g)":"","칼슘(㎎)":"99","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"630","비타민":"","콜레스테롤(㎎)":"95","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/35129_프랑스)끼리크림치즈플레인108G/</folder>
+    <filename>35129_00_m_18.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/35129_프랑스)끼리크림치즈플레인108G/35129_00_m_18.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>프랑스)끼리크림치즈플레인108G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1388</xmin>
+        <ymin>1063</ymin>
+        <xmax>2153</xmax>
+        <ymax>2259</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>프랑스)끼리크림치즈플레인108G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1141</xmin>
+        <ymin>1233</ymin>
+        <xmax>1541</xmax>
+        <ymax>2031</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

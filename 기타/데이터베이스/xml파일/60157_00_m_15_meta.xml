@@ -1,0 +1,74 @@
+<comp_cd>
+  1292
+  <identifier>
+    <identifier>60157_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>12920100054</item_cd>
+    <item_no>60157</item_no>
+    <div_l>과자</div_l>
+    <div_m>비스킷</div_m>
+    <div_s>샌드</div_s>
+    <div_n>샌드</div_n>
+    <comp_nm>크라운제과</comp_nm>
+    <img_prod_nm>크라운치즈샌드60G</img_prod_nm>
+    <volume>60G</volume>
+    <barcd>8801111614382</barcd>
+    <width>10</width>
+    <length>13</length>
+    <height>6</height>
+    <nutrition_info>{"1회제공량":"60","총내용량(g)":"60","총내용량(mL)":"0","에너지(㎉)":"302","단백질(g)":"4","지방(g)":"14","탄수화물(g)":"40","총당류(g)":"11","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"330","비타민":"0","콜레스테롤(㎎)":"5","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/60157_크라운치즈샌드60G/</folder>
+    <filename>60157_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/60157_크라운치즈샌드60G/60157_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>크라운치즈샌드60G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>394</xmin>
+        <ymin>1194</ymin>
+        <xmax>1303</xmax>
+        <ymax>1564</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>크라운치즈샌드60G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1035</xmin>
+        <ymin>1191</ymin>
+        <xmax>1941</xmax>
+        <ymax>1590</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>크라운치즈샌드60G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1802</xmin>
+        <ymin>1174</ymin>
+        <xmax>2927</xmax>
+        <ymax>1636</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

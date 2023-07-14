@@ -1,0 +1,62 @@
+<comp_cd>
+  0561
+  <identifier>
+    <identifier>10325_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    14
+    <item_cd>05611400001</item_cd>
+    <item_no>10325</item_no>
+    <div_l>통조림/안주</div_l>
+    <div_m>통조림</div_m>
+    <div_s>보일드통조림</div_s>
+    <div_n>닭가슴살통조림</div_n>
+    <comp_nm>사조</comp_nm>
+    <img_prod_nm>사조 훈제닭가슴살 90G</img_prod_nm>
+    <volume>90G</volume>
+    <barcd>8801075010992</barcd>
+    <width>8</width>
+    <length />
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"90","총내용량(g)":"90","총내용량(mL)":"0","에너지(㎉)":"60","단백질(g)":"15","지방(g)":"0","탄수화물(g)":"0","총당류(g)":"0","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"240","비타민":"0","콜레스테롤(㎎)":"30","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/10325_사조훈제닭가슴살90G/</folder>
+    <filename>10325_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/10325_사조훈제닭가슴살90G/10325_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>사조훈제닭가슴살90G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>242</xmin>
+        <ymin>1213</ymin>
+        <xmax>1573</xmax>
+        <ymax>1815</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>사조훈제닭가슴살90G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1547</xmin>
+        <ymin>1210</ymin>
+        <xmax>2822</xmax>
+        <ymax>1779</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

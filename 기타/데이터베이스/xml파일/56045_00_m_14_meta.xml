@@ -1,0 +1,62 @@
+<comp_cd>
+  0215
+  <identifier>
+    <identifier>56045_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>02151100070</item_cd>
+    <item_no>56045</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>바디패치/팩</div_s>
+    <div_n>바디패치/팩</div_n>
+    <comp_nm>더샘인터내셔날</comp_nm>
+    <img_prod_nm>더샘인터내셔날)더샘시크릿퓨어노오즈클리어패치세트</img_prod_nm>
+    <volume>6매</volume>
+    <barcd>8806164172742</barcd>
+    <width>7</width>
+    <length>1</length>
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/56045_더샘인터내셔날)더샘시크릿퓨어노오즈클리어패치세트/</folder>
+    <filename>56045_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/56045_더샘인터내셔날)더샘시크릿퓨어노오즈클리어패치세트/56045_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>더샘인터내셔날)더샘시크릿퓨어노오즈클리어패치세트</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1438</xmin>
+        <ymin>515</ymin>
+        <xmax>2641</xmax>
+        <ymax>2539</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>더샘인터내셔날)더샘시크릿퓨어노오즈클리어패치세트</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>434</xmin>
+        <ymin>560</ymin>
+        <xmax>1521</xmax>
+        <ymax>2457</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

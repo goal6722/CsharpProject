@@ -1,0 +1,62 @@
+<comp_cd>
+  1075
+  <identifier>
+    <identifier>65286_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>10751100001</item_cd>
+    <item_no>65286</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>유아용품</div_m>
+    <div_s>유아용화장품</div_s>
+    <div_n>유아용화장품</div_n>
+    <comp_nm>이앤에프</comp_nm>
+    <img_prod_nm>이앤에프카렌듈라에브리데이로션</img_prod_nm>
+    <volume>251ML</volume>
+    <barcd>792692334913</barcd>
+    <width>9</width>
+    <length>9</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/65286_이앤에프카렌듈라에브리데이로션/</folder>
+    <filename>65286_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/65286_이앤에프카렌듈라에브리데이로션/65286_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>이앤에프카렌듈라에브리데이로션</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1515</xmin>
+        <ymin>245</ymin>
+        <xmax>2400</xmax>
+        <ymax>2748</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>이앤에프카렌듈라에브리데이로션</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>642</xmin>
+        <ymin>241</ymin>
+        <xmax>1515</xmax>
+        <ymax>2758</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

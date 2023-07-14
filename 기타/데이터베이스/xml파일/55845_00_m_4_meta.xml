@@ -1,0 +1,62 @@
+<comp_cd>
+  0959
+  <identifier>
+    <identifier>55845_00_m_4.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    02
+    <item_cd>09590200001</item_cd>
+    <item_no>55845</item_no>
+    <div_l>디저트</div_l>
+    <div_m>베이커리</div_m>
+    <div_s>과자빵</div_s>
+    <div_n>과자빵</div_n>
+    <comp_nm>영도물산</comp_nm>
+    <img_prod_nm>영도물산)통밀도넛츠</img_prod_nm>
+    <volume>230G</volume>
+    <barcd>8002590308001</barcd>
+    <width>28</width>
+    <length>6</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"38","총내용량(g)":"230","총내용량(mL)":"0","에너지(㎉)":"143","단백질(g)":"3.1","지방(g)":"5.3","탄수화물(g)":"19.4","총당류(g)":"10.6","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"85.1","비타민":"0","콜레스테롤(㎎)":"58.9","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/디저트/55845_영도물산)통밀도넛츠/</folder>
+    <filename>55845_00_m_4.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/디저트/55845_영도물산)통밀도넛츠/55845_00_m_4.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>영도물산)통밀도넛츠</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>458</xmin>
+        <ymin>1234</ymin>
+        <xmax>1767</xmax>
+        <ymax>2073</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>영도물산)통밀도넛츠</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1351</xmin>
+        <ymin>1229</ymin>
+        <xmax>2865</xmax>
+        <ymax>2049</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

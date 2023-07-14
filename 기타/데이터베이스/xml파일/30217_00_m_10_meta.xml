@@ -1,0 +1,74 @@
+<comp_cd>
+  0124
+  <identifier>
+    <identifier>30217_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>01240800009</item_cd>
+    <item_no>30217</item_no>
+    <div_l>유제품</div_l>
+    <div_m>우유</div_m>
+    <div_s>일반우유</div_s>
+    <div_n>일반우유</div_n>
+    <comp_nm>남양유업</comp_nm>
+    <img_prod_nm>남양맛있는우유GT</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8801069173597</barcd>
+    <width>7</width>
+    <length>7</length>
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"500","총내용량(g)":"","총내용량(mL)":"500","에너지(㎉)":"125","단백질(g)":"6","지방(g)":"7.2","탄수화물(g)":"9","총당류(g)":"9","총 식이섬유(g)":"","칼슘(㎎)":"200","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"100","비타민":"","콜레스테롤(㎎)":"30","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/30217_남양맛있는우유GT/</folder>
+    <filename>30217_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/30217_남양맛있는우유GT/30217_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>남양맛있는우유GT</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>319</xmin>
+        <ymin>576</ymin>
+        <xmax>1481</xmax>
+        <ymax>2375</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>남양맛있는우유GT</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1137</xmin>
+        <ymin>693</ymin>
+        <xmax>2036</xmax>
+        <ymax>2250</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>남양맛있는우유GT</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1676</xmin>
+        <ymin>789</ymin>
+        <xmax>2445</xmax>
+        <ymax>2160</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

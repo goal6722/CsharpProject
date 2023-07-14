@@ -1,0 +1,62 @@
+<comp_cd>
+  1317
+  <identifier>
+    <identifier>65201_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>13170900001</item_cd>
+    <item_no>65201</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>태광웰푸드</comp_nm>
+    <img_prod_nm>태광웰푸드처음먹는칼슘츄러스야채</img_prod_nm>
+    <volume>45.5G</volume>
+    <barcd>8809216330367</barcd>
+    <width>12</width>
+    <length>16</length>
+    <height>4</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"45.5","총내용량(mL)":"","에너지(㎉)":"270","단백질(g)":"3","지방(g)":"20","탄수화물(g)":"20","총당류(g)":"9","총 식이섬유(g)":"","칼슘(㎎)":"200","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"60","비타민":"","콜레스테롤(㎎)":"10","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/65201_태광웰푸드처음먹는칼슘츄러스야채/</folder>
+    <filename>65201_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/65201_태광웰푸드처음먹는칼슘츄러스야채/65201_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>태광웰푸드처음먹는칼슘츄러스야채</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1496</xmin>
+        <ymin>623</ymin>
+        <xmax>2906</xmax>
+        <ymax>2387</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>태광웰푸드처음먹는칼슘츄러스야채</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>86</xmin>
+        <ymin>638</ymin>
+        <xmax>1489</xmax>
+        <ymax>2379</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

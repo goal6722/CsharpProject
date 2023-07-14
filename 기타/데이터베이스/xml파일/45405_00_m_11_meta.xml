@@ -1,0 +1,62 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>45405_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>00000900007</item_cd>
+    <item_no>45405</item_no>
+    <div_l>음료</div_l>
+    <div_m>기타</div_m>
+    <div_s>기타</div_s>
+    <div_n>기타</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>롯데쇼핑)스트로베리히비스커스로즈힙</img_prod_nm>
+    <volume>30G</volume>
+    <barcd>4796004231798</barcd>
+    <width>7</width>
+    <length>7</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/45405_롯데쇼핑)스트로베리히비스커스로즈힙/</folder>
+    <filename>45405_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/45405_롯데쇼핑)스트로베리히비스커스로즈힙/45405_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데쇼핑)스트로베리히비스커스로즈힙</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>493</xmin>
+        <ymin>144</ymin>
+        <xmax>1673</xmax>
+        <ymax>2905</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데쇼핑)스트로베리히비스커스로즈힙</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1406</xmin>
+        <ymin>244</ymin>
+        <xmax>2375</xmax>
+        <ymax>2774</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

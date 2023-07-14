@@ -1,0 +1,62 @@
+<comp_cd>
+  0941
+  <identifier>
+    <identifier>45327_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>09410600045</item_cd>
+    <item_no>45327</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>목욕용품</div_m>
+    <div_s>바디용품</div_s>
+    <div_n>핸드워시</div_n>
+    <comp_nm>엘지생활건강</comp_nm>
+    <img_prod_nm>LG생활건강)메소드고보습핸드워시만다린망고향</img_prod_nm>
+    <volume>354ML</volume>
+    <barcd>8801051344158</barcd>
+    <width>8</width>
+    <length />
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/45327_LG생활건강)메소드고보습핸드워시만다린망고향/</folder>
+    <filename>45327_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/45327_LG생활건강)메소드고보습핸드워시만다린망고향/45327_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>LG생활건강)메소드고보습핸드워시만다린망고향</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>430</xmin>
+        <ymin>283</ymin>
+        <xmax>1517</xmax>
+        <ymax>2624</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>LG생활건강)메소드고보습핸드워시만다린망고향</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1374</xmin>
+        <ymin>184</ymin>
+        <xmax>2563</xmax>
+        <ymax>2764</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

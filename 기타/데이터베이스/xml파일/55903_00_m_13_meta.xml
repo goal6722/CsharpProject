@@ -1,0 +1,62 @@
+<comp_cd>
+  1405
+  <identifier>
+    <identifier>55903_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>14050900001</item_cd>
+    <item_no>55903</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>플라노그램</comp_nm>
+    <img_prod_nm>플라노그램)밀라이트브이차100ML</img_prod_nm>
+    <volume>100ML</volume>
+    <barcd>8809556561711</barcd>
+    <width>8</width>
+    <length>2</length>
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"0","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"","비타민":"0","콜레스테롤(㎎)":"","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/55903_플라노그램)밀라이트브이차100ML/</folder>
+    <filename>55903_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/55903_플라노그램)밀라이트브이차100ML/55903_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>플라노그램)밀라이트브이차100ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>561</xmin>
+        <ymin>398</ymin>
+        <xmax>1503</xmax>
+        <ymax>2565</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>플라노그램)밀라이트브이차100ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1503</xmin>
+        <ymin>396</ymin>
+        <xmax>2465</xmax>
+        <ymax>2582</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

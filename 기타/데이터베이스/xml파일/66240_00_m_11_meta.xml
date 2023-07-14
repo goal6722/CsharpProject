@@ -1,0 +1,62 @@
+<comp_cd>
+  0215
+  <identifier>
+    <identifier>66240_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>02151100113</item_cd>
+    <item_no>66240</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>페이셜클렌저</div_s>
+    <div_n>페이셜클렌저</div_n>
+    <comp_nm>더샘인터내셔날</comp_nm>
+    <img_prod_nm>더샘인터내셔날)더샘내추럴컨디션클렌징폼크리미휩더블휩2개입번들</img_prod_nm>
+    <volume>300ML</volume>
+    <barcd>8806164163009</barcd>
+    <width>10</width>
+    <length>5</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/66240_더샘인터내셔날)더샘내추럴컨디션클렌징폼크리미휩더블휩2개입번들/</folder>
+    <filename>66240_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/66240_더샘인터내셔날)더샘내추럴컨디션클렌징폼크리미휩더블휩2개입번들/66240_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>더샘인터내셔날)더샘내추럴컨디션클렌징폼크리미휩더블휩2개입번들</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>274</xmin>
+        <ymin>818</ymin>
+        <xmax>1503</xmax>
+        <ymax>2326</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>더샘인터내셔날)더샘내추럴컨디션클렌징폼크리미휩더블휩2개입번들</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1486</xmin>
+        <ymin>966</ymin>
+        <xmax>2393</xmax>
+        <ymax>2223</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

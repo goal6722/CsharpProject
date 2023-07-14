@@ -1,0 +1,62 @@
+<comp_cd>
+  0154
+  <identifier>
+    <identifier>35162_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>01540500002</item_cd>
+    <item_no>35162</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>씨리얼</div_m>
+    <div_s>일반시리얼</div_s>
+    <div_n>일반시리얼</div_n>
+    <comp_nm>농심켈로그</comp_nm>
+    <img_prod_nm>농심켈로그)콘푸로스트컵시리얼30G</img_prod_nm>
+    <volume>30G </volume>
+    <barcd>8801083333304</barcd>
+    <width>11</width>
+    <length>10</length>
+    <height>9</height>
+    <nutrition_info>{"1회제공량":"30","총내용량(g)":"30","총내용량(mL)":"","에너지(㎉)":"116","단백질(g)":"1.5","지방(g)":"0.4","탄수화물(g)":"26.7","총당류(g)":"9.5","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"1.2","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"135","비타민":"175","콜레스테롤(㎎)":"0","총 지방산(g)":"0.4",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35162_농심켈로그)콘푸로스트컵시리얼30G/</folder>
+    <filename>35162_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35162_농심켈로그)콘푸로스트컵시리얼30G/35162_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>농심켈로그)콘푸로스트컵시리얼30G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>205</xmin>
+        <ymin>880</ymin>
+        <xmax>1503</xmax>
+        <ymax>2210</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>농심켈로그)콘푸로스트컵시리얼30G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1467</xmin>
+        <ymin>929</ymin>
+        <xmax>2704</xmax>
+        <ymax>2156</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

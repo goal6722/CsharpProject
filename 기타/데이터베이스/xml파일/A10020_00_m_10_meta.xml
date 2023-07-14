@@ -1,0 +1,62 @@
+<comp_cd>
+  1520
+  <identifier>
+    <identifier>A10020_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>15200600017</item_cd>
+    <item_no>A10020</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>티슈</div_s>
+    <div_n>물티슈</div_n>
+    <comp_nm>홈플러스</comp_nm>
+    <img_prod_nm>홈플러스)시그니처물티슈</img_prod_nm>
+    <volume>100매</volume>
+    <barcd>8806147078894</barcd>
+    <width>14</width>
+    <length>7</length>
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/A10020_홈플러스)시그니처물티슈/</folder>
+    <filename>A10020_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/A10020_홈플러스)시그니처물티슈/A10020_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>홈플러스)시그니처물티슈</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>308</xmin>
+        <ymin>1508</ymin>
+        <xmax>1533</xmax>
+        <ymax>2401</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>홈플러스)시그니처물티슈</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1457</xmin>
+        <ymin>1540</ymin>
+        <xmax>2205</xmax>
+        <ymax>2148</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

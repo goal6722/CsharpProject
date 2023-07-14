@@ -1,0 +1,62 @@
+<comp_cd>
+  0679
+  <identifier>
+    <identifier>35221_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>06790300001</item_cd>
+    <item_no>35221</item_no>
+    <div_l>면류</div_l>
+    <div_m>용기면</div_m>
+    <div_s>국물용기라면</div_s>
+    <div_n>일반라면</div_n>
+    <comp_nm>세진식품</comp_nm>
+    <img_prod_nm>세진식품)시카고컵당면매콤한맛180G</img_prod_nm>
+    <volume>180G</volume>
+    <barcd>8809065441719</barcd>
+    <width>15</width>
+    <length>15</length>
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"180","총내용량(g)":"180","총내용량(mL)":"0","에너지(㎉)":"490","단백질(g)":"3","지방(g)":"5","탄수화물(g)":"109","총당류(g)":"4","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"410","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/35221_세진식품)시카고컵당면매콤한맛180G/</folder>
+    <filename>35221_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/35221_세진식품)시카고컵당면매콤한맛180G/35221_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>세진식품)시카고컵당면매콤한맛180G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>101</xmin>
+        <ymin>1013</ymin>
+        <xmax>1465</xmax>
+        <ymax>2018</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>세진식품)시카고컵당면매콤한맛180G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1452</xmin>
+        <ymin>1023</ymin>
+        <xmax>2751</xmax>
+        <ymax>2008</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

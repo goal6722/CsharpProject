@@ -1,0 +1,50 @@
+<comp_cd>
+  0595
+  <identifier>
+    <identifier>35430_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>05950700001</item_cd>
+    <item_no>35430</item_no>
+    <div_l>소스</div_l>
+    <div_m>설탕류</div_m>
+    <div_s>물엿/시럽</div_s>
+    <div_n>물엿/시럽</div_n>
+    <comp_nm>삼양사</comp_nm>
+    <img_prod_nm>삼양사)트루스위트올리고당40</img_prod_nm>
+    <volume>2.4KG</volume>
+    <barcd>8801013840094</barcd>
+    <width>20</width>
+    <length>6</length>
+    <height>30</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"24000","총내용량(mL)":"","에너지(㎉)":"235","단백질(g)":"","지방(g)":"","탄수화물(g)":"79","총당류(g)":"24","총 식이섬유(g)":"40","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/35430_삼양사)트루스위트올리고당40/</folder>
+    <filename>35430_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/35430_삼양사)트루스위트올리고당40/35430_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>삼양사)트루스위트올리고당40</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>409</xmin>
+        <ymin>241</ymin>
+        <xmax>1943</xmax>
+        <ymax>2451</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

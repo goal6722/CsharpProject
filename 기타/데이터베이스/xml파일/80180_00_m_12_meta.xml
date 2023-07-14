@@ -1,0 +1,50 @@
+<comp_cd>
+  0519
+  <identifier>
+    <identifier>80180_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>05190500001</item_cd>
+    <item_no>80180</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석죽</div_s>
+    <div_n>즉석죽</div_n>
+    <comp_nm>비비고 </comp_nm>
+    <img_prod_nm>비비고 들깨버섯죽</img_prod_nm>
+    <volume>450g</volume>
+    <barcd>8801007825939</barcd>
+    <width>14</width>
+    <length>4</length>
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"450","총내용량(g)":"450","총내용량(mL)":"","에너지(㎉)":"250","단백질(g)":"6","지방(g)":"6","탄수화물(g)":"43","총당류(g)":"1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"890","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"6",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/80180_비비고들깨버섯죽/</folder>
+    <filename>80180_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/80180_비비고들깨버섯죽/80180_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>비비고들깨버섯죽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>278</xmin>
+        <ymin>453</ymin>
+        <xmax>1762</xmax>
+        <ymax>2583</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

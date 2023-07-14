@@ -1,0 +1,62 @@
+<comp_cd>
+  1520
+  <identifier>
+    <identifier>60274_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    14
+    <item_cd>15201400003</item_cd>
+    <item_no>60274</item_no>
+    <div_l>통조림/안주</div_l>
+    <div_m>통조림</div_m>
+    <div_s>과일통조림</div_s>
+    <div_n>복숭아통조림</div_n>
+    <comp_nm>홈플러스</comp_nm>
+    <img_prod_nm>홈플러스시그니처 그리스황도2절 410G</img_prod_nm>
+    <volume>410G</volume>
+    <barcd>5201414110131</barcd>
+    <width>7</width>
+    <length />
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"0","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"","비타민":"0","콜레스테롤(㎎)":"","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/60274_홈플러스시그니처그리스황도2절410G/</folder>
+    <filename>60274_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/60274_홈플러스시그니처그리스황도2절410G/60274_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>홈플러스시그니처그리스황도2절410G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>435</xmin>
+        <ymin>574</ymin>
+        <xmax>1685</xmax>
+        <ymax>2506</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>홈플러스시그니처그리스황도2절410G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1552</xmin>
+        <ymin>609</ymin>
+        <xmax>2678</xmax>
+        <ymax>2433</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

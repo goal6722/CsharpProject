@@ -1,0 +1,62 @@
+<comp_cd>
+  0825
+  <identifier>
+    <identifier>25168_00_m_5.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>08250600004</item_cd>
+    <item_no>25168</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>구강용품</div_s>
+    <div_n>치약</div_n>
+    <comp_nm>아모레퍼시픽</comp_nm>
+    <img_prod_nm>아모레퍼시픽)플레시아 자연담은 안심키즈치약 감귤향80G</img_prod_nm>
+    <volume>80G</volume>
+    <barcd>8809559326171</barcd>
+    <width>5</width>
+    <length>4</length>
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/25168_아모레퍼시픽)플레시아자연담은안심키즈치약감귤향80G/</folder>
+    <filename>25168_00_m_5.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/25168_아모레퍼시픽)플레시아자연담은안심키즈치약감귤향80G/25168_00_m_5.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>아모레퍼시픽)플레시아자연담은안심키즈치약감귤향80G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1353</xmin>
+        <ymin>414</ymin>
+        <xmax>2231</xmax>
+        <ymax>2816</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아모레퍼시픽)플레시아자연담은안심키즈치약감귤향80G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1051</xmin>
+        <ymin>529</ymin>
+        <xmax>1589</xmax>
+        <ymax>2696</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0412
+  <identifier>
+    <identifier>65614_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>04121100044</item_cd>
+    <item_no>65614</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>화장품</div_m>
+    <div_s>미스트</div_s>
+    <div_n>미스트</div_n>
+    <comp_nm>미샤</comp_nm>
+    <img_prod_nm>미샤데어바디미스트산타모니카해변</img_prod_nm>
+    <volume>105ML</volume>
+    <barcd>8809643531368</barcd>
+    <width>4</width>
+    <length>4</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/65614_미샤데어바디미스트산타모니카해변/</folder>
+    <filename>65614_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/65614_미샤데어바디미스트산타모니카해변/65614_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>미샤데어바디미스트산타모니카해변</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1516</xmin>
+        <ymin>192</ymin>
+        <xmax>2185</xmax>
+        <ymax>2808</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>미샤데어바디미스트산타모니카해변</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>875</xmin>
+        <ymin>206</ymin>
+        <xmax>1540</xmax>
+        <ymax>2820</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

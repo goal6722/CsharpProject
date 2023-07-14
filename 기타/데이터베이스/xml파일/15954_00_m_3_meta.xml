@@ -1,0 +1,62 @@
+<comp_cd>
+  0196
+  <identifier>
+    <identifier>15954_00_m_3.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>01960500001</item_cd>
+    <item_no>15954</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>파우치음료</div_s>
+    <div_n>파우치음료</div_n>
+    <comp_nm>대웅생명과학</comp_nm>
+    <img_prod_nm>대웅생명과학 글램디4킬로칼로리곤약워터젤리복숭아맛150G</img_prod_nm>
+    <volume>150G</volume>
+    <barcd>8809506803779</barcd>
+    <width>9</width>
+    <length>4</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"150","총내용량(g)":"150","총내용량(mL)":"","에너지(㎉)":"4","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"13","총당류(g)":"0","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"23","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15954_대웅생명과학글램디4킬로칼로리곤약워터젤리복숭아맛150G/</folder>
+    <filename>15954_00_m_3.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15954_대웅생명과학글램디4킬로칼로리곤약워터젤리복숭아맛150G/15954_00_m_3.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>대웅생명과학글램디4킬로칼로리곤약워터젤리복숭아맛150G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1467</xmin>
+        <ymin>444</ymin>
+        <xmax>2542</xmax>
+        <ymax>2602</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>대웅생명과학글램디4킬로칼로리곤약워터젤리복숭아맛150G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>632</xmin>
+        <ymin>576</ymin>
+        <xmax>1482</xmax>
+        <ymax>2523</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

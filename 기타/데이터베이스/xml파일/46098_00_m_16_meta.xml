@@ -1,0 +1,62 @@
+<comp_cd>
+  0340
+  <identifier>
+    <identifier>46098_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>03400600001</item_cd>
+    <item_no>46098</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>욕실용품</div_m>
+    <div_s>수납</div_s>
+    <div_n>칫솔걸이</div_n>
+    <comp_nm>릴팡</comp_nm>
+    <img_prod_nm>릴팡)릴팡카카오프렌즈라이언칫솔홀더컵걸이</img_prod_nm>
+    <volume>1개입</volume>
+    <barcd>8806365082970</barcd>
+    <width>10</width>
+    <length>9</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/46098_릴팡)릴팡카카오프렌즈라이언칫솔홀더컵걸이/</folder>
+    <filename>46098_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/46098_릴팡)릴팡카카오프렌즈라이언칫솔홀더컵걸이/46098_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>릴팡)릴팡카카오프렌즈라이언칫솔홀더컵걸이</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1087</xmin>
+        <ymin>756</ymin>
+        <xmax>2653</xmax>
+        <ymax>2283</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>릴팡)릴팡카카오프렌즈라이언칫솔홀더컵걸이</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>418</xmin>
+        <ymin>615</ymin>
+        <xmax>1445</xmax>
+        <ymax>2038</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

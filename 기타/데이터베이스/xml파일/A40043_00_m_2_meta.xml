@@ -1,0 +1,62 @@
+<comp_cd>
+  1011
+  <identifier>
+    <identifier>A40043_00_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>10110100002</item_cd>
+    <item_no>A40043</item_no>
+    <div_l>과자</div_l>
+    <div_m>소스류</div_m>
+    <div_s>맛가루</div_s>
+    <div_n>맛가루</div_n>
+    <comp_nm>우리찬</comp_nm>
+    <img_prod_nm>(주)우리찬 바삭바삭어린이현미가케빨강마을</img_prod_nm>
+    <volume>28g</volume>
+    <barcd>8809539863641</barcd>
+    <width>10</width>
+    <length>4</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"3.5","총내용량(g)":"28","총내용량(mL)":"0","에너지(㎉)":"15","단백질(g)":"0.6","지방(g)":"0.8","탄수화물(g)":"2","총당류(g)":"0.2","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"70","비타민":"0","콜레스테롤(㎎)":"1.9","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/A40043_(주)우리찬바삭바삭어린이현미가케빨강마을/</folder>
+    <filename>A40043_00_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/A40043_(주)우리찬바삭바삭어린이현미가케빨강마을/A40043_00_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>(주)우리찬바삭바삭어린이현미가케빨강마을</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>368</xmin>
+        <ymin>646</ymin>
+        <xmax>1448</xmax>
+        <ymax>2322</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>(주)우리찬바삭바삭어린이현미가케빨강마을</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1455</xmin>
+        <ymin>601</ymin>
+        <xmax>2655</xmax>
+        <ymax>2397</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

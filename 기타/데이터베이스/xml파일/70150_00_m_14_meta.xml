@@ -1,0 +1,74 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>70150_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>09750700086</item_cd>
+    <item_no>70150</item_no>
+    <div_l>소스</div_l>
+    <div_m>장류</div_m>
+    <div_s>겨자/고추냉이</div_s>
+    <div_n>겨자/고추냉이</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기연겨자튜브35G</img_prod_nm>
+    <volume>35G</volume>
+    <barcd>8801045451169</barcd>
+    <width>4</width>
+    <length>2</length>
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/70150_오뚜기연겨자튜브35G/</folder>
+    <filename>70150_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/70150_오뚜기연겨자튜브35G/70150_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기연겨자튜브35G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1791</xmin>
+        <ymin>162</ymin>
+        <xmax>2575</xmax>
+        <ymax>2813</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기연겨자튜브35G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>335</xmin>
+        <ymin>212</ymin>
+        <xmax>1110</xmax>
+        <ymax>2744</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기연겨자튜브35G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1061</xmin>
+        <ymin>194</ymin>
+        <xmax>1790</xmax>
+        <ymax>2785</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

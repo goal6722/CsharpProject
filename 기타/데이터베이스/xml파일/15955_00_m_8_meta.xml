@@ -1,0 +1,62 @@
+<comp_cd>
+  1112
+  <identifier>
+    <identifier>15955_00_m_8.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>11120500001</item_cd>
+    <item_no>15955</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>파우치음료</div_s>
+    <div_n>파우치음료</div_n>
+    <comp_nm>자임에프앤비</comp_nm>
+    <img_prod_nm>자임에프앤비 온리프라이스곤약젤리파인애플140G</img_prod_nm>
+    <volume>140G</volume>
+    <barcd>8809396442447</barcd>
+    <width>8</width>
+    <length>4</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"140","총내용량(g)":"140","총내용량(mL)":"","에너지(㎉)":"14","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"10.9","총당류(g)":"1.4","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"80","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15955_자임에프앤비온리프라이스곤약젤리파인애플140G/</folder>
+    <filename>15955_00_m_8.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15955_자임에프앤비온리프라이스곤약젤리파인애플140G/15955_00_m_8.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>자임에프앤비온리프라이스곤약젤리파인애플140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1162</xmin>
+        <ymin>400</ymin>
+        <xmax>1648</xmax>
+        <ymax>2682</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>자임에프앤비온리프라이스곤약젤리파인애플140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1542</xmin>
+        <ymin>667</ymin>
+        <xmax>1864</xmax>
+        <ymax>2500</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

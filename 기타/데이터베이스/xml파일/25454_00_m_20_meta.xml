@@ -1,0 +1,62 @@
+<comp_cd>
+  0890
+  <identifier>
+    <identifier>25454_00_m_20.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>08900500001</item_cd>
+    <item_no>25454</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>스낵</div_m>
+    <div_s>과일스낵</div_s>
+    <div_n>과일스낵</div_n>
+    <comp_nm>에스앤너츠</comp_nm>
+    <img_prod_nm>에스앤너츠 오아시스가선물한대추야자 500G</img_prod_nm>
+    <volume>500G</volume>
+    <barcd>8809109389922</barcd>
+    <width>17</width>
+    <length>7</length>
+    <height>27</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/25454_에스앤너츠오아시스가선물한대추야자500G/</folder>
+    <filename>25454_00_m_20.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/25454_에스앤너츠오아시스가선물한대추야자500G/25454_00_m_20.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>에스앤너츠오아시스가선물한대추야자500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1479</xmin>
+        <ymin>100</ymin>
+        <xmax>2101</xmax>
+        <ymax>2773</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>에스앤너츠오아시스가선물한대추야자500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>970</xmin>
+        <ymin>487</ymin>
+        <xmax>1595</xmax>
+        <ymax>2484</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

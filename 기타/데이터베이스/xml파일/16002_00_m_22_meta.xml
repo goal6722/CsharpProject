@@ -1,0 +1,62 @@
+<comp_cd>
+  0141
+  <identifier>
+    <identifier>16002_00_m_22.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>01411100009</item_cd>
+    <item_no>16002</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>화장품</div_m>
+    <div_s>립글로즈/틴트</div_s>
+    <div_n>립글로즈/틴트</div_n>
+    <comp_nm>네이처리퍼블릭</comp_nm>
+    <img_prod_nm>네이처리퍼블릭 엑소에디션워터틴트02피크닉피치(첸)1개입</img_prod_nm>
+    <volume>1개입</volume>
+    <barcd>8806173458813</barcd>
+    <width>3</width>
+    <length>3</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/16002_네이처리퍼블릭엑소에디션워터틴트02피크닉피치(첸)1개입/</folder>
+    <filename>16002_00_m_22.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/16002_네이처리퍼블릭엑소에디션워터틴트02피크닉피치(첸)1개입/16002_00_m_22.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>네이처리퍼블릭엑소에디션워터틴트02피크닉피치(첸)1개입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>937</xmin>
+        <ymin>339</ymin>
+        <xmax>1793</xmax>
+        <ymax>2606</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>네이처리퍼블릭엑소에디션워터틴트02피크닉피치(첸)1개입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1475</xmin>
+        <ymin>390</ymin>
+        <xmax>2289</xmax>
+        <ymax>2531</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0112
+  <identifier>
+    <identifier>45225_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>01120100001</item_cd>
+    <item_no>45225</item_no>
+    <div_l>과자</div_l>
+    <div_m>차류</div_m>
+    <div_s>과칠차</div_s>
+    <div_n>과칠차</div_n>
+    <comp_nm>꽃샘식품</comp_nm>
+    <img_prod_nm>꽃샘식품)블렌딩스틱유자&amp;모과</img_prod_nm>
+    <volume>400G</volume>
+    <barcd>8809388462217</barcd>
+    <width>11</width>
+    <length>5</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"20","총내용량(g)":"400","총내용량(mL)":"0","에너지(㎉)":"50","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"12","총당류(g)":"12","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"20","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45225_꽃샘식품)블렌딩스틱유자_모과/</folder>
+    <filename>45225_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45225_꽃샘식품)블렌딩스틱유자_모과/45225_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>꽃샘식품)블렌딩스틱유자_모과</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1294</xmin>
+        <ymin>258</ymin>
+        <xmax>2751</xmax>
+        <ymax>2712</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>꽃샘식품)블렌딩스틱유자_모과</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>553</xmin>
+        <ymin>439</ymin>
+        <xmax>1587</xmax>
+        <ymax>2464</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

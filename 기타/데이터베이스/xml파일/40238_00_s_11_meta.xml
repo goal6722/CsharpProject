@@ -1,0 +1,50 @@
+<comp_cd>
+  1234
+  <identifier>
+    <identifier>40238_00_s_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>12340100001</item_cd>
+    <item_no>40238</item_no>
+    <div_l>과자</div_l>
+    <div_m>비스킷</div_m>
+    <div_s>쿠키</div_s>
+    <div_n>쿠키</div_n>
+    <comp_nm>칼렌베르크</comp_nm>
+    <img_prod_nm>Global premiumSDN코코넛쿠키</img_prod_nm>
+    <volume>80G</volume>
+    <barcd>9555701503837</barcd>
+    <width>10</width>
+    <length>15</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"80","총내용량(g)":"80","총내용량(mL)":"0","에너지(㎉)":"491","단백질(g)":"4","지방(g)":"35","탄수화물(g)":"40","총당류(g)":"20","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"160","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/40238_GlobalpremiumSDN코코넛쿠키/</folder>
+    <filename>40238_00_s_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/40238_GlobalpremiumSDN코코넛쿠키/40238_00_s_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>GlobalpremiumSDN코코넛쿠키</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>635</xmin>
+        <ymin>198</ymin>
+        <xmax>2411</xmax>
+        <ymax>2734</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

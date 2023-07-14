@@ -1,0 +1,74 @@
+<comp_cd>
+  0191
+  <identifier>
+    <identifier>90235_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>01910700057</item_cd>
+    <item_no>90235</item_no>
+    <div_l>소스</div_l>
+    <div_m>소금류</div_m>
+    <div_s>천일염</div_s>
+    <div_n>천일염</div_n>
+    <comp_nm>대상</comp_nm>
+    <img_prod_nm>대상 허브맛쏠트순한맛</img_prod_nm>
+    <volume>52G</volume>
+    <barcd>8801052740355</barcd>
+    <width>4</width>
+    <length />
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/90235_대상허브맛쏠트순한맛/</folder>
+    <filename>90235_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/90235_대상허브맛쏠트순한맛/90235_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>대상허브맛쏠트순한맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1706</xmin>
+        <ymin>143</ymin>
+        <xmax>2654</xmax>
+        <ymax>2852</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>대상허브맛쏠트순한맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1040</xmin>
+        <ymin>310</ymin>
+        <xmax>1815</xmax>
+        <ymax>2761</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>대상허브맛쏠트순한맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>500</xmin>
+        <ymin>443</ymin>
+        <xmax>1164</xmax>
+        <ymax>2685</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

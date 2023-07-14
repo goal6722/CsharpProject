@@ -1,0 +1,62 @@
+<comp_cd>
+  0111
+  <identifier>
+    <identifier>75082_00_m_1.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>01110600024</item_cd>
+    <item_no>75082</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>생리용품</div_m>
+    <div_s>생리대</div_s>
+    <div_n>생리대</div_n>
+    <comp_nm>깨끗한나라</comp_nm>
+    <img_prod_nm>깨끗한나라100%유기농순면커버중형</img_prod_nm>
+    <volume>36개입</volume>
+    <barcd>8801260419388</barcd>
+    <width>16</width>
+    <length>11</length>
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/75082_깨끗한나라100_유기농순면커버중형/</folder>
+    <filename>75082_00_m_1.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/75082_깨끗한나라100_유기농순면커버중형/75082_00_m_1.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>깨끗한나라100_유기농순면커버중형</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1488</xmin>
+        <ymin>890</ymin>
+        <xmax>2812</xmax>
+        <ymax>2515</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>깨끗한나라100_유기농순면커버중형</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>183</xmin>
+        <ymin>886</ymin>
+        <xmax>1498</xmax>
+        <ymax>2452</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,50 @@
+<comp_cd>
+  0586
+  <identifier>
+    <identifier>A10025_00_s_22.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>05860300001</item_cd>
+    <item_no>A10025</item_no>
+    <div_l>면류</div_l>
+    <div_m>봉지면</div_m>
+    <div_s>국물봉지라면</div_s>
+    <div_n>파스타</div_n>
+    <comp_nm>삼색동물</comp_nm>
+    <img_prod_nm>삼색동물원파스타</img_prod_nm>
+    <volume>250G</volume>
+    <barcd>8016419125007</barcd>
+    <width>10</width>
+    <length>7</length>
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"250","총내용량(g)":"250","총내용량(mL)":"0","에너지(㎉)":"888","단백질(g)":"30","지방(g)":"4","탄수화물(g)":"183","총당류(g)":"10","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"25","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/A10025_삼색동물원파스타/</folder>
+    <filename>A10025_00_s_22.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/A10025_삼색동물원파스타/A10025_00_s_22.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>삼색동물원파스타</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>554</xmin>
+        <ymin>171</ymin>
+        <xmax>2165</xmax>
+        <ymax>2852</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

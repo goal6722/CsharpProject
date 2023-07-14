@@ -1,0 +1,74 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>80017_0_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900178</item_cd>
+    <item_no>80017</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>혼합탄산</div_s>
+    <div_n>혼합탄산</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데트로피카나스파클링오렌지355ML</img_prod_nm>
+    <volume>355ML</volume>
+    <barcd>8801056035518</barcd>
+    <width>6</width>
+    <length />
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"355","총내용량(g)":"0","총내용량(mL)":"355","에너지(㎉)":"155","단백질(g)":"","지방(g)":"","탄수화물(g)":"39","총당류(g)":"39","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"10","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/80017_롯데트로피카나스파클링오렌지355ML/</folder>
+    <filename>80017_0_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/80017_롯데트로피카나스파클링오렌지355ML/80017_0_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데트로피카나스파클링오렌지355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>80</xmin>
+        <ymin>609</ymin>
+        <xmax>1012</xmax>
+        <ymax>2441</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데트로피카나스파클링오렌지355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1010</xmin>
+        <ymin>630</ymin>
+        <xmax>1914</xmax>
+        <ymax>2404</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데트로피카나스파클링오렌지355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1874</xmin>
+        <ymin>632</ymin>
+        <xmax>2789</xmax>
+        <ymax>2364</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

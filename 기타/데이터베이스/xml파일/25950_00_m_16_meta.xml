@@ -1,0 +1,62 @@
+<comp_cd>
+  0657
+  <identifier>
+    <identifier>25950_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>06570100005</item_cd>
+    <item_no>25950</item_no>
+    <div_l>과자</div_l>
+    <div_m>마른안주</div_m>
+    <div_s>어포류</div_s>
+    <div_n>어포류</div_n>
+    <comp_nm>선해수산</comp_nm>
+    <img_prod_nm>선해수산 델리황오리지널뉴30G</img_prod_nm>
+    <volume>30G</volume>
+    <barcd>8809090184575</barcd>
+    <width>14</width>
+    <length>5</length>
+    <height>23</height>
+    <nutrition_info>{"1회제공량":"15","총내용량(g)":"30","총내용량(mL)":"0","에너지(㎉)":"55","단백질(g)":"12","지방(g)":"0.6","탄수화물(g)":"1","총당류(g)":"1","총 식이섬유(g)":"1","칼슘(㎎)":"32.6","철(㎍)":"0.2","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"194.6","나트륨(㎎)":"150","비타민":"0","콜레스테롤(㎎)":"50","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25950_선해수산델리황오리지널뉴30G/</folder>
+    <filename>25950_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25950_선해수산델리황오리지널뉴30G/25950_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>선해수산델리황오리지널뉴30G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1483</xmin>
+        <ymin>317</ymin>
+        <xmax>2768</xmax>
+        <ymax>2719</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>선해수산델리황오리지널뉴30G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>632</xmin>
+        <ymin>552</ymin>
+        <xmax>1460</xmax>
+        <ymax>2502</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

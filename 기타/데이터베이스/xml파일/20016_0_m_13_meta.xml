@@ -1,0 +1,74 @@
+<comp_cd>
+  1274
+  <identifier>
+    <identifier>20016_0_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12740900022</item_cd>
+    <item_no>20016</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>혼합탄산</div_s>
+    <div_n>혼합탄산</div_n>
+    <comp_nm>코카콜라음료</comp_nm>
+    <img_prod_nm>코카환타오렌지185ML</img_prod_nm>
+    <volume>185ML</volume>
+    <barcd>8801094113902</barcd>
+    <width>5</width>
+    <length />
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"185","에너지(㎉)":"84","단백질(g)":"","지방(g)":"","탄수화물(g)":"21","총당류(g)":"21","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20016_코카환타오렌지185ML/</folder>
+    <filename>20016_0_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20016_코카환타오렌지185ML/20016_0_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>코카환타오렌지185ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>148</xmin>
+        <ymin>532</ymin>
+        <xmax>1073</xmax>
+        <ymax>2434</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카환타오렌지185ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1073</xmin>
+        <ymin>531</ymin>
+        <xmax>1986</xmax>
+        <ymax>2438</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카환타오렌지185ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1984</xmin>
+        <ymin>534</ymin>
+        <xmax>2926</xmax>
+        <ymax>2441</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

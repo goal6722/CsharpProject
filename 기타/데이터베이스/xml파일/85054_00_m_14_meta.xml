@@ -1,0 +1,62 @@
+<comp_cd>
+  0404
+  <identifier>
+    <identifier>85054_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    12
+    <item_cd>04041200001</item_cd>
+    <item_no>85054</item_no>
+    <div_l>주류</div_l>
+    <div_m>기타주류</div_m>
+    <div_s>진</div_s>
+    <div_n>진</div_n>
+    <comp_nm>뮤어스</comp_nm>
+    <img_prod_nm>뮤어스TEL오리지널롱드링크진&amp;그레이프프루트</img_prod_nm>
+    <volume>440ML</volume>
+    <barcd>6413600055006</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/85054_뮤어스TEL오리지널롱드링크진_그레이프프루트/</folder>
+    <filename>85054_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/85054_뮤어스TEL오리지널롱드링크진_그레이프프루트/85054_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>뮤어스TEL오리지널롱드링크진_그레이프프루트</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1406</xmin>
+        <ymin>247</ymin>
+        <xmax>2441</xmax>
+        <ymax>2749</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>뮤어스TEL오리지널롱드링크진_그레이프프루트</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>475</xmin>
+        <ymin>302</ymin>
+        <xmax>1442</xmax>
+        <ymax>2663</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

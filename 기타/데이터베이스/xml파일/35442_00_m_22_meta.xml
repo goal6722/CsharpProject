@@ -1,0 +1,62 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>35442_00_m_22.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>09750500046</item_cd>
+    <item_no>35442</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석죽</div_s>
+    <div_n>즉석죽</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기)오즈키친송이버섯죽</img_prod_nm>
+    <volume>450G</volume>
+    <barcd>8801045303444</barcd>
+    <width>14</width>
+    <length>5</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"450","총내용량(g)":"450","총내용량(mL)":"","에너지(㎉)":"225","단백질(g)":"5","지방(g)":"4.2","탄수화물(g)":"42","총당류(g)":"0","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"660","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"4.2",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35442_오뚜기)오즈키친송이버섯죽/</folder>
+    <filename>35442_00_m_22.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35442_오뚜기)오즈키친송이버섯죽/35442_00_m_22.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기)오즈키친송이버섯죽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>385</xmin>
+        <ymin>507</ymin>
+        <xmax>1465</xmax>
+        <ymax>2468</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기)오즈키친송이버섯죽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1449</xmin>
+        <ymin>686</ymin>
+        <xmax>2153</xmax>
+        <ymax>2336</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

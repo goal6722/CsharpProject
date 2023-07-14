@@ -1,0 +1,50 @@
+<comp_cd>
+  1390
+  <identifier>
+    <identifier>25291_00_s_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>13900300006</item_cd>
+    <item_no>25291</item_no>
+    <div_l>면류</div_l>
+    <div_m>봉지면</div_m>
+    <div_s>국물봉지라면</div_s>
+    <div_n>일반라면</div_n>
+    <comp_nm>풀무원</comp_nm>
+    <img_prod_nm>풀무원 생면식감매운맛4개입번들</img_prod_nm>
+    <volume>4개입</volume>
+    <barcd>8801114137277</barcd>
+    <width>16</width>
+    <length>13</length>
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"95.9","총내용량(g)":"383.6","총내용량(mL)":"0","에너지(㎉)":"340","단백질(g)":"7","지방(g)":"0","탄수화물(g)":"72","총당류(g)":"3","총 식이섬유(g)":"1","칼슘(㎎)":"31.59","철(㎍)":"0.42","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"1610","비타민":"0","콜레스테롤(㎎)":"2","총 지방산(g)":"2.9",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/25291_풀무원생면식감매운맛4개입번들/</folder>
+    <filename>25291_00_s_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/25291_풀무원생면식감매운맛4개입번들/25291_00_s_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>풀무원생면식감매운맛4개입번들</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>410</xmin>
+        <ymin>210</ymin>
+        <xmax>2452</xmax>
+        <ymax>2697</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

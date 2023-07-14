@@ -1,0 +1,62 @@
+<comp_cd>
+  1366
+  <identifier>
+    <identifier>35676_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>13660500001</item_cd>
+    <item_no>35676</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>절임/잼</div_m>
+    <div_s>스프레드</div_s>
+    <div_n>스프레드</div_n>
+    <comp_nm>페레로</comp_nm>
+    <img_prod_nm>페레로)누텔라</img_prod_nm>
+    <volume>370G</volume>
+    <barcd>80765486</barcd>
+    <width>9</width>
+    <length>6</length>
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"370","총내용량(mL)":"","에너지(㎉)":"545","단백질(g)":"6.3","지방(g)":"30.9","탄수화물(g)":"60.5","총당류(g)":"56.3","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"42","비타민":"","콜레스테롤(㎎)":"4","총 지방산(g)":"30.9",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35676_페레로)누텔라/</folder>
+    <filename>35676_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35676_페레로)누텔라/35676_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>페레로)누텔라</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>410</xmin>
+        <ymin>791</ymin>
+        <xmax>1530</xmax>
+        <ymax>2305</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>페레로)누텔라</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1131</xmin>
+        <ymin>913</ymin>
+        <xmax>2212</xmax>
+        <ymax>2225</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  1443
+  <identifier>
+    <identifier>45428_00_m_9.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>14430100002</item_cd>
+    <item_no>45428</item_no>
+    <div_l>과자</div_l>
+    <div_m>스낵</div_m>
+    <div_s>쌀스낵</div_s>
+    <div_n>쌀스낵</div_n>
+    <comp_nm>한국라이스텍</comp_nm>
+    <img_prod_nm>한국라이스텍)쌀눈이있는찹쌀누룽지</img_prod_nm>
+    <volume>800G</volume>
+    <barcd>8809042944004</barcd>
+    <width>22</width>
+    <length>7</length>
+    <height>27</height>
+    <nutrition_info>{"1회제공량":"800","총내용량(g)":"800","총내용량(mL)":"0","에너지(㎉)":"3018.56","단백질(g)":"54.88","지방(g)":"8.96","탄수화물(g)":"679.6","총당류(g)":"0","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"22.56","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45428_한국라이스텍)쌀눈이있는찹쌀누룽지/</folder>
+    <filename>45428_00_m_9.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45428_한국라이스텍)쌀눈이있는찹쌀누룽지/45428_00_m_9.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>한국라이스텍)쌀눈이있는찹쌀누룽지</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1462</xmin>
+        <ymin>71</ymin>
+        <xmax>2483</xmax>
+        <ymax>2614</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>한국라이스텍)쌀눈이있는찹쌀누룽지</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>580</xmin>
+        <ymin>638</ymin>
+        <xmax>1492</xmax>
+        <ymax>2243</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

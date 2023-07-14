@@ -1,0 +1,62 @@
+<comp_cd>
+  1069
+  <identifier>
+    <identifier>15728_00_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>10690700001</item_cd>
+    <item_no>15728</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>양념소스</div_s>
+    <div_n>양념소스</div_n>
+    <comp_nm>이마트</comp_nm>
+    <img_prod_nm>이마트 피코크 낙지볶음양념 140G</img_prod_nm>
+    <volume>140G</volume>
+    <barcd>8809306600387</barcd>
+    <width>12</width>
+    <length>2</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/15728_이마트피코크낙지볶음양념140G/</folder>
+    <filename>15728_00_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/15728_이마트피코크낙지볶음양념140G/15728_00_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>이마트피코크낙지볶음양념140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1513</xmin>
+        <ymin>562</ymin>
+        <xmax>2750</xmax>
+        <ymax>2419</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>이마트피코크낙지볶음양념140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>459</xmin>
+        <ymin>613</ymin>
+        <xmax>1530</xmax>
+        <ymax>2344</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

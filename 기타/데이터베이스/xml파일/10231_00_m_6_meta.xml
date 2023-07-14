@@ -1,0 +1,74 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>10231_00_m_6.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>09750700008</item_cd>
+    <item_no>10231</item_no>
+    <div_l>소스</div_l>
+    <div_m>가공분말류</div_m>
+    <div_s>부침가루</div_s>
+    <div_n>부침가루</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기부침가루500G</img_prod_nm>
+    <volume>500G</volume>
+    <barcd>8801045421407</barcd>
+    <width>17</width>
+    <length />
+    <height>23</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"500","총내용량(mL)":"","에너지(㎉)":"1850","단백질(g)":"6","지방(g)":"","탄수화물(g)":"82","총당류(g)":"17","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"570","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"4.4",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/10231_오뚜기부침가루500G/</folder>
+    <filename>10231_00_m_6.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/10231_오뚜기부침가루500G/10231_00_m_6.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기부침가루500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1882</xmin>
+        <ymin>487</ymin>
+        <xmax>2491</xmax>
+        <ymax>2494</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기부침가루500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>713</xmin>
+        <ymin>660</ymin>
+        <xmax>1043</xmax>
+        <ymax>2271</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기부침가루500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1328</xmin>
+        <ymin>618</ymin>
+        <xmax>1779</xmax>
+        <ymax>2349</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

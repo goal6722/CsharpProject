@@ -1,0 +1,62 @@
+<comp_cd>
+  0637
+  <identifier>
+    <identifier>15196_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>06370800002</item_cd>
+    <item_no>15196</item_no>
+    <div_l>유제품</div_l>
+    <div_m>우유</div_m>
+    <div_s>가공우유</div_s>
+    <div_n>바나나우유</div_n>
+    <comp_nm>서울에프앤비</comp_nm>
+    <img_prod_nm>서울에프앤비푸르밀바나나우유</img_prod_nm>
+    <volume>730ML</volume>
+    <barcd>8806371308989</barcd>
+    <width>8</width>
+    <length>6</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"","총내용량(mL)":"730","에너지(㎉)":"85","단백질(g)":"2.9","지방(g)":"3.6","탄수화물(g)":"10","총당류(g)":"10","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"60","비타민":"","콜레스테롤(㎎)":"15","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/15196_서울에프앤비푸르밀바나나우유/</folder>
+    <filename>15196_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/15196_서울에프앤비푸르밀바나나우유/15196_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>서울에프앤비푸르밀바나나우유</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>600</xmin>
+        <ymin>241</ymin>
+        <xmax>1788</xmax>
+        <ymax>2822</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>서울에프앤비푸르밀바나나우유</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1544</xmin>
+        <ymin>452</ymin>
+        <xmax>2272</xmax>
+        <ymax>2604</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

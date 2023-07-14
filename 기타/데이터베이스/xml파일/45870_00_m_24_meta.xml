@@ -1,0 +1,50 @@
+<comp_cd>
+  1335
+  <identifier>
+    <identifier>45870_00_m_24.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>13350100008</item_cd>
+    <item_no>45870</item_no>
+    <div_l>과자</div_l>
+    <div_m>과자</div_m>
+    <div_s>비스킷</div_s>
+    <div_n>비스킷</div_n>
+    <comp_nm>투데이</comp_nm>
+    <img_prod_nm>투데이)알비엔핑거비스킷</img_prod_nm>
+    <volume>650G</volume>
+    <barcd>8680395192119</barcd>
+    <width>26</width>
+    <length>7</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"650","총내용량(mL)":"0","에너지(㎉)":"454","단백질(g)":"6","지방(g)":"14","탄수화물(g)":"76","총당류(g)":"25","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"440","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45870_투데이)알비엔핑거비스킷/</folder>
+    <filename>45870_00_m_24.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45870_투데이)알비엔핑거비스킷/45870_00_m_24.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>투데이)알비엔핑거비스킷</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>111</xmin>
+        <ymin>1205</ymin>
+        <xmax>1979</xmax>
+        <ymax>2291</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

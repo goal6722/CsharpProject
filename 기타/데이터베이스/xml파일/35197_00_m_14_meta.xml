@@ -1,0 +1,62 @@
+<comp_cd>
+  1096
+  <identifier>
+    <identifier>35197_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>10960800002</item_cd>
+    <item_no>35197</item_no>
+    <div_l>유제품</div_l>
+    <div_m>요구르트</div_m>
+    <div_s>떠먹는 요구르트</div_s>
+    <div_n>떠먹는 요구르트</div_n>
+    <comp_nm>일동후디스</comp_nm>
+    <img_prod_nm>일동후디스)후디스그릭요거트플레인450G</img_prod_nm>
+    <volume>450G</volume>
+    <barcd>8801157491985</barcd>
+    <width>12</width>
+    <length>12</length>
+    <height>8</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"450","총내용량(mL)":"","에너지(㎉)":"160","단백질(g)":"6","지방(g)":"7.8","탄수화물(g)":"16","총당류(g)":"16","총 식이섬유(g)":"","칼슘(㎎)":"200","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"112","비타민":"","콜레스테롤(㎎)":"31","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/35197_일동후디스)후디스그릭요거트플레인450G/</folder>
+    <filename>35197_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/35197_일동후디스)후디스그릭요거트플레인450G/35197_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>일동후디스)후디스그릭요거트플레인450G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1456</xmin>
+        <ymin>1100</ymin>
+        <xmax>2733</xmax>
+        <ymax>2066</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>일동후디스)후디스그릭요거트플레인450G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>152</xmin>
+        <ymin>1142</ymin>
+        <xmax>1457</xmax>
+        <ymax>2034</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

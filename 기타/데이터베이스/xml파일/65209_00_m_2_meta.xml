@@ -1,0 +1,62 @@
+<comp_cd>
+  0400
+  <identifier>
+    <identifier>65209_00_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>04001100003</item_cd>
+    <item_no>65209</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>핸드워시/손세정제</div_s>
+    <div_n>핸드워시/손세정제</div_n>
+    <comp_nm>무궁화 </comp_nm>
+    <img_prod_nm>무궁화항균버블핸드워시</img_prod_nm>
+    <volume>250ML</volume>
+    <barcd>8801173702522</barcd>
+    <width>10</width>
+    <length>17</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/65209_무궁화항균버블핸드워시/</folder>
+    <filename>65209_00_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/65209_무궁화항균버블핸드워시/65209_00_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>무궁화항균버블핸드워시</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>469</xmin>
+        <ymin>471</ymin>
+        <xmax>1476</xmax>
+        <ymax>2454</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>무궁화항균버블핸드워시</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1476</xmin>
+        <ymin>406</ymin>
+        <xmax>2643</xmax>
+        <ymax>2573</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,74 @@
+<comp_cd>
+  0430
+  <identifier>
+    <identifier>50220_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>04300600001</item_cd>
+    <item_no>50220</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>기타</div_m>
+    <div_s>기타</div_s>
+    <div_n>기타</div_n>
+    <comp_nm>바슈롬</comp_nm>
+    <img_prod_nm>바슈롬BIOTRUE(바이오트루)</img_prod_nm>
+    <volume>120ML</volume>
+    <barcd>310119037751</barcd>
+    <width>5</width>
+    <length />
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/50220_바슈롬BIOTRUE(바이오트루)/</folder>
+    <filename>50220_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/50220_바슈롬BIOTRUE(바이오트루)/50220_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>바슈롬BIOTRUE(바이오트루)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1655</xmin>
+        <ymin>306</ymin>
+        <xmax>2615</xmax>
+        <ymax>2772</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>바슈롬BIOTRUE(바이오트루)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1032</xmin>
+        <ymin>434</ymin>
+        <xmax>1852</xmax>
+        <ymax>2635</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>바슈롬BIOTRUE(바이오트루)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>514</xmin>
+        <ymin>537</ymin>
+        <xmax>1251</xmax>
+        <ymax>2525</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

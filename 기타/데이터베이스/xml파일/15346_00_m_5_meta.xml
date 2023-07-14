@@ -1,0 +1,62 @@
+<comp_cd>
+  0878
+  <identifier>
+    <identifier>15346_00_m_5.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    15
+    <item_cd>08781500002</item_cd>
+    <item_no>15346</item_no>
+    <div_l>홈클린</div_l>
+    <div_m>주방세제</div_m>
+    <div_s>일반주방세제</div_s>
+    <div_n>일반주방세제</div_n>
+    <comp_nm>에버코스</comp_nm>
+    <img_prod_nm>에버코스 프릴 시크릿오브베이킹소다주방세제 와일드베리향 1L</img_prod_nm>
+    <volume>1L</volume>
+    <barcd>8809401602989</barcd>
+    <width>16</width>
+    <length>10</length>
+    <height>27</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/15346_에버코스프릴시크릿오브베이킹소다주방세제와일드베리향1L/</folder>
+    <filename>15346_00_m_5.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/15346_에버코스프릴시크릿오브베이킹소다주방세제와일드베리향1L/15346_00_m_5.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>에버코스프릴시크릿오브베이킹소다주방세제와일드베리향1L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1763</xmin>
+        <ymin>454</ymin>
+        <xmax>2870</xmax>
+        <ymax>2504</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>에버코스프릴시크릿오브베이킹소다주방세제와일드베리향1L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>643</xmin>
+        <ymin>527</ymin>
+        <xmax>1412</xmax>
+        <ymax>2461</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

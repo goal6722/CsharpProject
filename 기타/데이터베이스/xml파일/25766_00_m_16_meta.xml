@@ -1,0 +1,62 @@
+<comp_cd>
+  1069
+  <identifier>
+    <identifier>25766_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>10690300001</item_cd>
+    <item_no>25766</item_no>
+    <div_l>면류</div_l>
+    <div_m>봉지면</div_m>
+    <div_s>국물봉지라면</div_s>
+    <div_n>일반라면</div_n>
+    <comp_nm>이마트</comp_nm>
+    <img_prod_nm>이마트 피코크 기름에튀기지않은구운사리면 320G</img_prod_nm>
+    <volume>320G</volume>
+    <barcd>8801073141773</barcd>
+    <width>16</width>
+    <length>13</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"80","총내용량(g)":"320","총내용량(mL)":"0","에너지(㎉)":"290","단백질(g)":"9","지방(g)":"0","탄수화물(g)":"62","총당류(g)":"2","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"320","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0.7",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/25766_이마트피코크기름에튀기지않은구운사리면320G/</folder>
+    <filename>25766_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/25766_이마트피코크기름에튀기지않은구운사리면320G/25766_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>이마트피코크기름에튀기지않은구운사리면320G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1111</xmin>
+        <ymin>621</ymin>
+        <xmax>2714</xmax>
+        <ymax>2347</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>이마트피코크기름에튀기지않은구운사리면320G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>494</xmin>
+        <ymin>709</ymin>
+        <xmax>1430</xmax>
+        <ymax>2161</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

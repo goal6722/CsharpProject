@@ -1,0 +1,62 @@
+<comp_cd>
+  1386
+  <identifier>
+    <identifier>65676_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>13860700001</item_cd>
+    <item_no>65676</item_no>
+    <div_l>소스</div_l>
+    <div_m>절임/잼</div_m>
+    <div_s>과일잼</div_s>
+    <div_n>과일잼</div_n>
+    <comp_nm>푸드웰</comp_nm>
+    <img_prod_nm>푸드웰언제어디서나짜먹는포도잼</img_prod_nm>
+    <volume>260G</volume>
+    <barcd>8801214504009</barcd>
+    <width>8</width>
+    <length>4</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"200","총내용량(mL)":"","에너지(㎉)":"251","단백질(g)":"","지방(g)":"","탄수화물(g)":"62","총당류(g)":"53","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"35","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/65676_푸드웰언제어디서나짜먹는포도잼/</folder>
+    <filename>65676_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/65676_푸드웰언제어디서나짜먹는포도잼/65676_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>푸드웰언제어디서나짜먹는포도잼</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1499</xmin>
+        <ymin>352</ymin>
+        <xmax>2336</xmax>
+        <ymax>2669</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>푸드웰언제어디서나짜먹는포도잼</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>413</xmin>
+        <ymin>218</ymin>
+        <xmax>1514</xmax>
+        <ymax>2811</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

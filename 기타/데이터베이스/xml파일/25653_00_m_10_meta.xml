@@ -1,0 +1,62 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>25653_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>09750500035</item_cd>
+    <item_no>25653</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>가공분말류</div_m>
+    <div_s>도넛가루/핫케이크가루</div_s>
+    <div_n>도넛가루/핫케이크가루</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기 쉐이크앤팬핫케이크믹스 오리지널 150G</img_prod_nm>
+    <volume>150G</volume>
+    <barcd>8801045420233</barcd>
+    <width>7</width>
+    <length>6</length>
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"150","총내용량(g)":"150","총내용량(mL)":"","에너지(㎉)":"545","단백질(g)":"12","지방(g)":"3","탄수화물(g)":"121","총당류(g)":"31","총 식이섬유(g)":"6","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"900","비타민":"","콜레스테롤(㎎)":"90","총 지방산(g)":"3",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/25653_오뚜기쉐이크앤팬핫케이크믹스오리지널150G/</folder>
+    <filename>25653_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/25653_오뚜기쉐이크앤팬핫케이크믹스오리지널150G/25653_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기쉐이크앤팬핫케이크믹스오리지널150G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>569</xmin>
+        <ymin>74</ymin>
+        <xmax>1566</xmax>
+        <ymax>2901</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기쉐이크앤팬핫케이크믹스오리지널150G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1342</xmin>
+        <ymin>290</ymin>
+        <xmax>2063</xmax>
+        <ymax>2620</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

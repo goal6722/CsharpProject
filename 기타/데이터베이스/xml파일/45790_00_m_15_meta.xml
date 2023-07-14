@@ -1,0 +1,62 @@
+<comp_cd>
+  0595
+  <identifier>
+    <identifier>45790_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>05950500007</item_cd>
+    <item_no>45790</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>가공분말류</div_m>
+    <div_s>기타프리믹스</div_s>
+    <div_n>기타프리믹스</div_n>
+    <comp_nm>삼양사</comp_nm>
+    <img_prod_nm>삼양사)큐원홈메이드난과커리믹스</img_prod_nm>
+    <volume>235G</volume>
+    <barcd>8801013797442</barcd>
+    <width>14</width>
+    <length>5</length>
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"235","총내용량(mL)":"","에너지(㎉)":"370","단백질(g)":"8","지방(g)":"6","탄수화물(g)":"71","총당류(g)":"12","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1175","비타민":"","콜레스테롤(㎎)":"5","총 지방산(g)":"6",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/45790_삼양사)큐원홈메이드난과커리믹스/</folder>
+    <filename>45790_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/45790_삼양사)큐원홈메이드난과커리믹스/45790_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>삼양사)큐원홈메이드난과커리믹스</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1487</xmin>
+        <ymin>731</ymin>
+        <xmax>2746</xmax>
+        <ymax>2610</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>삼양사)큐원홈메이드난과커리믹스</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>600</xmin>
+        <ymin>799</ymin>
+        <xmax>1677</xmax>
+        <ymax>2414</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

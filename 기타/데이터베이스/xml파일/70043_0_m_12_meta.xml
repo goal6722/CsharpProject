@@ -1,0 +1,74 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>70043_0_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900158</item_cd>
+    <item_no>70043</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산수</div_m>
+    <div_s>Flavor탄산수</div_s>
+    <div_n>Flavor탄산수</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데에비앙500ML</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>3068320024400</barcd>
+    <width>6</width>
+    <length />
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"500","총내용량(g)":"0","총내용량(mL)":"500","에너지(㎉)":"0","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"0","총당류(g)":"0","총 식이섬유(g)":"0","칼슘(㎎)":"54~87","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"1.0~1.3","나트륨(㎎)":"4.4~15.6","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/70043_롯데에비앙500ML/</folder>
+    <filename>70043_0_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/70043_롯데에비앙500ML/70043_0_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데에비앙500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>396</xmin>
+        <ymin>270</ymin>
+        <xmax>1121</xmax>
+        <ymax>2738</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데에비앙500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1112</xmin>
+        <ymin>314</ymin>
+        <xmax>1775</xmax>
+        <ymax>2670</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데에비앙500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1766</xmin>
+        <ymin>346</ymin>
+        <xmax>2454</xmax>
+        <ymax>2606</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,74 @@
+<comp_cd>
+  1495
+  <identifier>
+    <identifier>50047_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>14950900015</item_cd>
+    <item_no>50047</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>혼합탄산</div_s>
+    <div_n>혼합탄산</div_n>
+    <comp_nm>해태음료</comp_nm>
+    <img_prod_nm>써니텐 오렌지향 1.5L</img_prod_nm>
+    <volume>1.5L</volume>
+    <barcd>8801105911084</barcd>
+    <width>8</width>
+    <length />
+    <height>32</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"0","총내용량(mL)":"1500","에너지(㎉)":"52","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"13","총당류(g)":"13","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"4","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/50047_써니텐오렌지향1.5L/</folder>
+    <filename>50047_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/50047_써니텐오렌지향1.5L/50047_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>써니텐오렌지향1.5L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1826</xmin>
+        <ymin>349</ymin>
+        <xmax>2513</xmax>
+        <ymax>2663</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>써니텐오렌지향1.5L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1168</xmin>
+        <ymin>351</ymin>
+        <xmax>1835</xmax>
+        <ymax>2666</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>써니텐오렌지향1.5L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>479</xmin>
+        <ymin>334</ymin>
+        <xmax>1169</xmax>
+        <ymax>2684</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

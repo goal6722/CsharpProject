@@ -1,0 +1,74 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>30101_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>09750300024</item_cd>
+    <item_no>30101</item_no>
+    <div_l>면류</div_l>
+    <div_m>봉지면</div_m>
+    <div_s>비빔봉지라면</div_s>
+    <div_n>일반라면</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기)오뚜기카레면130G</img_prod_nm>
+    <volume>130G</volume>
+    <barcd>8801045524184</barcd>
+    <width>16</width>
+    <length>19</length>
+    <height>4</height>
+    <nutrition_info>{"1회제공량":"130","총내용량(g)":"","총내용량(mL)":"0","에너지(㎉)":"515","단백질(g)":"9","지방(g)":"0","탄수화물(g)":"84","총당류(g)":"8","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"1750","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"24",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/30101_오뚜기)오뚜기카레면130G/</folder>
+    <filename>30101_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/30101_오뚜기)오뚜기카레면130G/30101_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기)오뚜기카레면130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>85</xmin>
+        <ymin>954</ymin>
+        <xmax>1083</xmax>
+        <ymax>2048</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기)오뚜기카레면130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1815</xmin>
+        <ymin>1032</ymin>
+        <xmax>2605</xmax>
+        <ymax>1943</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기)오뚜기카레면130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>983</xmin>
+        <ymin>991</ymin>
+        <xmax>1966</xmax>
+        <ymax>1993</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

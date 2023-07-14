@@ -1,0 +1,62 @@
+<comp_cd>
+  0413
+  <identifier>
+    <identifier>15093_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>04130100007</item_cd>
+    <item_no>15093</item_no>
+    <div_l>과자</div_l>
+    <div_m>스낵</div_m>
+    <div_s>쿠키</div_s>
+    <div_n>쿠키</div_n>
+    <comp_nm>미성패밀리</comp_nm>
+    <img_prod_nm>허쉬 세미 스위트 초콜릿 칩 100G</img_prod_nm>
+    <volume>100G</volume>
+    <barcd>8809256674971</barcd>
+    <width>11</width>
+    <length>4</length>
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"100","총내용량(mL)":"0","에너지(㎉)":"539","단백질(g)":"7","지방(g)":"27","탄수화물(g)":"67","총당류(g)":"60","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"0","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15093_허쉬세미스위트초콜릿칩100G/</folder>
+    <filename>15093_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15093_허쉬세미스위트초콜릿칩100G/15093_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>허쉬세미스위트초콜릿칩100G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>273</xmin>
+        <ymin>963</ymin>
+        <xmax>1520</xmax>
+        <ymax>2518</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>허쉬세미스위트초콜릿칩100G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1496</xmin>
+        <ymin>1046</ymin>
+        <xmax>2494</xmax>
+        <ymax>2381</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

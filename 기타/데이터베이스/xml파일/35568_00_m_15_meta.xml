@@ -1,0 +1,62 @@
+<comp_cd>
+  0683
+  <identifier>
+    <identifier>35568_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>06831100006</item_cd>
+    <item_no>35568</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>바디패치/팩</div_s>
+    <div_n>바디패치/팩</div_n>
+    <comp_nm>셀랩</comp_nm>
+    <img_prod_nm>셀랩)스킨후리까만참숯코팩</img_prod_nm>
+    <volume>8개입</volume>
+    <barcd>8802070700253</barcd>
+    <width>7</width>
+    <length>1</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/35568_셀랩)스킨후리까만참숯코팩/</folder>
+    <filename>35568_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/35568_셀랩)스킨후리까만참숯코팩/35568_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>셀랩)스킨후리까만참숯코팩</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1438</xmin>
+        <ymin>352</ymin>
+        <xmax>2508</xmax>
+        <ymax>2496</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>셀랩)스킨후리까만참숯코팩</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>596</xmin>
+        <ymin>421</ymin>
+        <xmax>1540</xmax>
+        <ymax>2425</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

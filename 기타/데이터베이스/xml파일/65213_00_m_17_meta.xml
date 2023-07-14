@@ -1,0 +1,62 @@
+<comp_cd>
+  0187
+  <identifier>
+    <identifier>65213_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>01871300010</item_cd>
+    <item_no>65213</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>아이스티</div_s>
+    <div_n>아이스티</div_n>
+    <comp_nm>담터</comp_nm>
+    <img_prod_nm>담터꿀자몽차믹스10T</img_prod_nm>
+    <volume>230G</volume>
+    <barcd>8809257332467</barcd>
+    <width>12</width>
+    <length>16</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"23","총내용량(g)":"230","총내용량(mL)":"","에너지(㎉)":"90","단백질(g)":"","지방(g)":"","탄수화물(g)":"22","총당류(g)":"19","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"122","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65213_담터꿀자몽차믹스10T/</folder>
+    <filename>65213_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65213_담터꿀자몽차믹스10T/65213_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>담터꿀자몽차믹스10T</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1250</xmin>
+        <ymin>222</ymin>
+        <xmax>2677</xmax>
+        <ymax>2797</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>담터꿀자몽차믹스10T</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>757</xmin>
+        <ymin>586</ymin>
+        <xmax>1493</xmax>
+        <ymax>2402</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

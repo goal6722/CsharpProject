@@ -1,0 +1,62 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>15126_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>00000800004</item_cd>
+    <item_no>15126</item_no>
+    <div_l>유제품</div_l>
+    <div_m>치즈</div_m>
+    <div_s>리코타치즈</div_s>
+    <div_n>리코타치즈</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>갈바니 리코타치즈425G</img_prod_nm>
+    <volume>425G</volume>
+    <barcd>73882410240</barcd>
+    <width>6</width>
+    <length />
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"425","총내용량(mL)":"","에너지(㎉)":"153","단백질(g)":"6","지방(g)":"11","탄수화물(g)":"6","총당류(g)":"5","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"105","비타민":"","콜레스테롤(㎎)":"56","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/15126_갈바니리코타치즈425G/</folder>
+    <filename>15126_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/15126_갈바니리코타치즈425G/15126_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>갈바니리코타치즈425G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1354</xmin>
+        <ymin>722</ymin>
+        <xmax>2671</xmax>
+        <ymax>2319</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>갈바니리코타치즈425G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>225</xmin>
+        <ymin>787</ymin>
+        <xmax>1406</xmax>
+        <ymax>2242</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

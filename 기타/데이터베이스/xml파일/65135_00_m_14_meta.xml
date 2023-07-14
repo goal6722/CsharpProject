@@ -1,0 +1,62 @@
+<comp_cd>
+  0462
+  <identifier>
+    <identifier>65135_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>04620800001</item_cd>
+    <item_no>65135</item_no>
+    <div_l>유제품</div_l>
+    <div_m>치즈</div_m>
+    <div_s>크림치즈</div_s>
+    <div_n>크림치즈</div_n>
+    <comp_nm>벨치즈코</comp_nm>
+    <img_prod_nm>벨치즈코리아끼리플레인</img_prod_nm>
+    <volume>200G</volume>
+    <barcd>3073781010725</barcd>
+    <width>14</width>
+    <length>8</length>
+    <height>4</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"200","총내용량(mL)":"","에너지(㎉)":"244","단백질(g)":"5","지방(g)":"24","탄수화물(g)":"2","총당류(g)":"2","총 식이섬유(g)":"0","칼슘(㎎)":"500","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"500","비타민":"0","콜레스테롤(㎎)":"72","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/65135_벨치즈코리아끼리플레인/</folder>
+    <filename>65135_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/65135_벨치즈코리아끼리플레인/65135_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>벨치즈코리아끼리플레인</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1467</xmin>
+        <ymin>1242</ymin>
+        <xmax>2935</xmax>
+        <ymax>1705</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>벨치즈코리아끼리플레인</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>229</xmin>
+        <ymin>1246</ymin>
+        <xmax>1483</xmax>
+        <ymax>1661</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

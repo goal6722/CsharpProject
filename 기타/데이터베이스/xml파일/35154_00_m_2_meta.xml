@@ -1,0 +1,62 @@
+<comp_cd>
+  0941
+  <identifier>
+    <identifier>35154_00_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>09411100059</item_cd>
+    <item_no>35154</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>두발용품</div_m>
+    <div_s>샴푸</div_s>
+    <div_n>샴푸</div_n>
+    <comp_nm>엘지생활건강</comp_nm>
+    <img_prod_nm>LG)생활건강오가니스트페퍼민트앤진저클링케어샴푸500ML</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8801051080902</barcd>
+    <width>10</width>
+    <length>5</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/35154_LG)생활건강오가니스트페퍼민트앤진저클링케어샴푸500ML/</folder>
+    <filename>35154_00_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/35154_LG)생활건강오가니스트페퍼민트앤진저클링케어샴푸500ML/35154_00_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>LG)생활건강오가니스트페퍼민트앤진저클링케어샴푸500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1496</xmin>
+        <ymin>280</ymin>
+        <xmax>2514</xmax>
+        <ymax>2788</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>LG)생활건강오가니스트페퍼민트앤진저클링케어샴푸500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>545</xmin>
+        <ymin>335</ymin>
+        <xmax>1496</xmax>
+        <ymax>2737</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

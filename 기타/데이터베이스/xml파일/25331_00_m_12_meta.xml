@@ -1,0 +1,62 @@
+<comp_cd>
+  0243
+  <identifier>
+    <identifier>25331_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>02430900008</item_cd>
+    <item_no>25331</item_no>
+    <div_l>음료</div_l>
+    <div_m>커피음료</div_m>
+    <div_s>커피음료</div_s>
+    <div_n>커피음료</div_n>
+    <comp_nm>동서식품</comp_nm>
+    <img_prod_nm>동서 맥스웰하우스 콜롬비아나스위트아메리카노 240ML</img_prod_nm>
+    <volume>240ML</volume>
+    <barcd>8801037091410</barcd>
+    <width>5</width>
+    <length />
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"240","에너지(㎉)":"50","단백질(g)":"","지방(g)":"0.5","탄수화물(g)":"11","총당류(g)":"11","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"45","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/25331_동서맥스웰하우스콜롬비아나스위트아메리카노240ML/</folder>
+    <filename>25331_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/25331_동서맥스웰하우스콜롬비아나스위트아메리카노240ML/25331_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>동서맥스웰하우스콜롬비아나스위트아메리카노240ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>469</xmin>
+        <ymin>160</ymin>
+        <xmax>1496</xmax>
+        <ymax>2822</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>동서맥스웰하우스콜롬비아나스위트아메리카노240ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1483</xmin>
+        <ymin>215</ymin>
+        <xmax>2464</xmax>
+        <ymax>2816</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

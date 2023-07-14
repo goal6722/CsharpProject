@@ -1,0 +1,50 @@
+<comp_cd>
+  1088
+  <identifier>
+    <identifier>25030_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>10880100001</item_cd>
+    <item_no>25030</item_no>
+    <div_l>과자</div_l>
+    <div_m>씨리얼</div_m>
+    <div_s>일반시리얼</div_s>
+    <div_n>일반시리얼</div_n>
+    <comp_nm>인클루시브</comp_nm>
+    <img_prod_nm>인클루시브 컨트리 크리스피 레이즌 500G</img_prod_nm>
+    <volume>500G</volume>
+    <barcd>5010477303004</barcd>
+    <width>18</width>
+    <length>5</length>
+    <height>25</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"500","총내용량(mL)":"0","에너지(㎉)":"425","단백질(g)":"7.2","지방(g)":"12.5","탄수화물(g)":"67.9","총당류(g)":"5.9","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"11.8","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25030_인클루시브컨트리크리스피레이즌500G/</folder>
+    <filename>25030_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25030_인클루시브컨트리크리스피레이즌500G/25030_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>인클루시브컨트리크리스피레이즌500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>605</xmin>
+        <ymin>399</ymin>
+        <xmax>1948</xmax>
+        <ymax>2264</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

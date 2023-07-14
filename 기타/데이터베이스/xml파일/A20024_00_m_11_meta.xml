@@ -1,0 +1,50 @@
+<comp_cd>
+  0243
+  <identifier>
+    <identifier>A20024_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>02430100027</item_cd>
+    <item_no>A20024</item_no>
+    <div_l>과자</div_l>
+    <div_m>비스킷</div_m>
+    <div_s>샌드</div_s>
+    <div_n>샌드</div_n>
+    <comp_nm>동서식품</comp_nm>
+    <img_prod_nm>동서식품)오레오초콜릿크림</img_prod_nm>
+    <volume>100G</volume>
+    <barcd>8801037088205</barcd>
+    <width>22</width>
+    <length>5</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"50","총내용량(g)":"100","총내용량(mL)":"0","에너지(㎉)":"250","단백질(g)":"2","지방(g)":"12.3","탄수화물(g)":"33","총당류(g)":"18","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"200","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/A20024_동서식품)오레오초콜릿크림/</folder>
+    <filename>A20024_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/A20024_동서식품)오레오초콜릿크림/A20024_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>동서식품)오레오초콜릿크림</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>454</xmin>
+        <ymin>1264</ymin>
+        <xmax>2340</xmax>
+        <ymax>1812</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

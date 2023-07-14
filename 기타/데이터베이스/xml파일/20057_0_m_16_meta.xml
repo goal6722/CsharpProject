@@ -1,0 +1,74 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>20057_0_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900037</item_cd>
+    <item_no>20057</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데볼빅500ML</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>3057640100673</barcd>
+    <width>5</width>
+    <length />
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20057_롯데볼빅500ML/</folder>
+    <filename>20057_0_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20057_롯데볼빅500ML/20057_0_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데볼빅500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1631</xmin>
+        <ymin>85</ymin>
+        <xmax>2497</xmax>
+        <ymax>2894</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데볼빅500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1093</xmin>
+        <ymin>225</ymin>
+        <xmax>1787</xmax>
+        <ymax>2723</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데볼빅500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>689</xmin>
+        <ymin>343</ymin>
+        <xmax>1297</xmax>
+        <ymax>2578</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

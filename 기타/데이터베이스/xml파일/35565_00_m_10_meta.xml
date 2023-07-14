@@ -1,0 +1,62 @@
+<comp_cd>
+  0945
+  <identifier>
+    <identifier>35565_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>09450500001</item_cd>
+    <item_no>35565</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석죽</div_s>
+    <div_n>즉석죽</div_n>
+    <comp_nm>엠디에스코리아</comp_nm>
+    <img_prod_nm>엠디에스코리아)부안뽕잎바지락죽</img_prod_nm>
+    <volume>450G</volume>
+    <barcd>8805684001044</barcd>
+    <width>12</width>
+    <length>8</length>
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"450","총내용량(g)":"450","총내용량(mL)":"","에너지(㎉)":"260","단백질(g)":"7","지방(g)":"6","탄수화물(g)":"44","총당류(g)":"2","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"990","비타민":"","콜레스테롤(㎎)":"5","총 지방산(g)":"2",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35565_엠디에스코리아)부안뽕잎바지락죽/</folder>
+    <filename>35565_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35565_엠디에스코리아)부안뽕잎바지락죽/35565_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>엠디에스코리아)부안뽕잎바지락죽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>429</xmin>
+        <ymin>545</ymin>
+        <xmax>1612</xmax>
+        <ymax>2399</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>엠디에스코리아)부안뽕잎바지락죽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1535</xmin>
+        <ymin>767</ymin>
+        <xmax>2301</xmax>
+        <ymax>2240</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

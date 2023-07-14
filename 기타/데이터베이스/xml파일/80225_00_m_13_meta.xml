@@ -1,0 +1,74 @@
+<comp_cd>
+  1390
+  <identifier>
+    <identifier>80225_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>13900700011</item_cd>
+    <item_no>80225</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>상온드레싱</div_s>
+    <div_n>상온드레싱</div_n>
+    <comp_nm>풀무원</comp_nm>
+    <img_prod_nm>풀무원 클래식시저드레싱 220G</img_prod_nm>
+    <volume>220G</volume>
+    <barcd>8801114123744</barcd>
+    <width>4</width>
+    <length>4</length>
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"220","총내용량(mL)":"","에너지(㎉)":"685","단백질(g)":"4","지방(g)":"","탄수화물(g)":"20","총당류(g)":"15","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1840","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"84",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/80225_풀무원클래식시저드레싱220G/</folder>
+    <filename>80225_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/80225_풀무원클래식시저드레싱220G/80225_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>풀무원클래식시저드레싱220G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1749</xmin>
+        <ymin>216</ymin>
+        <xmax>2400</xmax>
+        <ymax>2647</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>풀무원클래식시저드레싱220G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>557</xmin>
+        <ymin>247</ymin>
+        <xmax>1174</xmax>
+        <ymax>2656</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>풀무원클래식시저드레싱220G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1158</xmin>
+        <ymin>232</ymin>
+        <xmax>1778</xmax>
+        <ymax>2648</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

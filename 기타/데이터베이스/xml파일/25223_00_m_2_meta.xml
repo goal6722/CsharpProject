@@ -1,0 +1,50 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>25223_00_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    02
+    <item_cd>00000200002</item_cd>
+    <item_no>25223</item_no>
+    <div_l>디저트</div_l>
+    <div_m>파이류</div_m>
+    <div_s>케이크</div_s>
+    <div_n>케이크</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>대만)파인애플케익250G</img_prod_nm>
+    <volume>250G</volume>
+    <barcd>4712928340880</barcd>
+    <width>27</width>
+    <length>19</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"250","총내용량(mL)":"0","에너지(㎉)":"456","단백질(g)":"3.4","지방(g)":"0","탄수화물(g)":"63.9","총당류(g)":"5.7","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"219","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"20.7",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/디저트/25223_대만)파인애플케익250G/</folder>
+    <filename>25223_00_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/디저트/25223_대만)파인애플케익250G/25223_00_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>대만)파인애플케익250G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>190</xmin>
+        <ymin>632</ymin>
+        <xmax>2157</xmax>
+        <ymax>2192</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

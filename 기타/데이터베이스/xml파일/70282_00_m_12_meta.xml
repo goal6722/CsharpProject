@@ -1,0 +1,62 @@
+<comp_cd>
+  0977
+  <identifier>
+    <identifier>70282_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>09770100098</item_cd>
+    <item_no>70282</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>소프트캔디</div_s>
+    <div_n>소프트캔디</div_n>
+    <comp_nm>오리온</comp_nm>
+    <img_prod_nm>오리온 아이셔츄잉캔디청사과맛 42G</img_prod_nm>
+    <volume>42G</volume>
+    <barcd>8801117344108</barcd>
+    <width>7</width>
+    <length>4</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"42","총내용량(g)":"42","총내용량(mL)":"0","에너지(㎉)":"177","단백질(g)":"0","지방(g)":"4","탄수화물(g)":"35","총당류(g)":"30","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"40","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/70282_오리온아이셔츄잉캔디청사과맛42G/</folder>
+    <filename>70282_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/70282_오리온아이셔츄잉캔디청사과맛42G/70282_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오리온아이셔츄잉캔디청사과맛42G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>299</xmin>
+        <ymin>629</ymin>
+        <xmax>1679</xmax>
+        <ymax>2582</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오리온아이셔츄잉캔디청사과맛42G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1518</xmin>
+        <ymin>647</ymin>
+        <xmax>2836</xmax>
+        <ymax>2486</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

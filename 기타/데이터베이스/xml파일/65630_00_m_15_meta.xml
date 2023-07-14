@@ -1,0 +1,62 @@
+<comp_cd>
+  1523
+  <identifier>
+    <identifier>65630_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>15231300001</item_cd>
+    <item_no>65630</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>기타</div_s>
+    <div_n>기능성차</div_n>
+    <comp_nm>화인바이오</comp_nm>
+    <img_prod_nm>화인에프티제나선다이어트차10스틱</img_prod_nm>
+    <volume>110G</volume>
+    <barcd>8809610110107</barcd>
+    <width>6</width>
+    <length>5</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"11","총내용량(g)":"110","총내용량(mL)":"","에너지(㎉)":"35","단백질(g)":"0.3","지방(g)":"","탄수화물(g)":"9","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"12","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65630_화인에프티제나선다이어트차10스틱/</folder>
+    <filename>65630_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65630_화인에프티제나선다이어트차10스틱/65630_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>화인에프티제나선다이어트차10스틱</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1313</xmin>
+        <ymin>158</ymin>
+        <xmax>2416</xmax>
+        <ymax>2819</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>화인에프티제나선다이어트차10스틱</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>632</xmin>
+        <ymin>255</ymin>
+        <xmax>1614</xmax>
+        <ymax>2713</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

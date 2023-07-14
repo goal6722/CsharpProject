@@ -1,0 +1,62 @@
+<comp_cd>
+  0818
+  <identifier>
+    <identifier>25905_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>08180100001</item_cd>
+    <item_no>25905</item_no>
+    <div_l>과자</div_l>
+    <div_m>기타</div_m>
+    <div_s>기타</div_s>
+    <div_n>기타</div_n>
+    <comp_nm>아기날도유통</comp_nm>
+    <img_prod_nm>아기닐도유통 옐로욜로카카오칩25G</img_prod_nm>
+    <volume>25G</volume>
+    <barcd>4809016024002</barcd>
+    <width>11</width>
+    <length>4</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"25","총내용량(g)":"25","총내용량(mL)":"0","에너지(㎉)":"96","단백질(g)":"4","지방(g)":"0.9","탄수화물(g)":"18","총당류(g)":"2","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"52","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25905_아기닐도유통옐로욜로카카오칩25G/</folder>
+    <filename>25905_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25905_아기닐도유통옐로욜로카카오칩25G/25905_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>아기닐도유통옐로욜로카카오칩25G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>271</xmin>
+        <ymin>448</ymin>
+        <xmax>1616</xmax>
+        <ymax>2541</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아기닐도유통옐로욜로카카오칩25G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1489</xmin>
+        <ymin>571</ymin>
+        <xmax>2537</xmax>
+        <ymax>2424</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

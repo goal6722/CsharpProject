@@ -1,0 +1,74 @@
+<comp_cd>
+  0989
+  <identifier>
+    <identifier>20026_0_m_3.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>09890900001</item_cd>
+    <item_no>20026</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>콜라</div_s>
+    <div_n>콜라</div_n>
+    <comp_nm>오케이에프</comp_nm>
+    <img_prod_nm>오케이에프)알로에베라킹500ml</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8809041427065</barcd>
+    <width>6</width>
+    <length />
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"250","총내용량(g)":"","총내용량(mL)":"500","에너지(㎉)":"96","단백질(g)":"","지방(g)":"","탄수화물(g)":"24","총당류(g)":"22","총 식이섬유(g)":"0.6","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"20","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20026_오케이에프)알로에베라킹500ml/</folder>
+    <filename>20026_0_m_3.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20026_오케이에프)알로에베라킹500ml/20026_0_m_3.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오케이에프)알로에베라킹500ml</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1690</xmin>
+        <ymin>235</ymin>
+        <xmax>2497</xmax>
+        <ymax>2787</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오케이에프)알로에베라킹500ml</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1101</xmin>
+        <ymin>334</ymin>
+        <xmax>1835</xmax>
+        <ymax>2665</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오케이에프)알로에베라킹500ml</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>596</xmin>
+        <ymin>416</ymin>
+        <xmax>1310</xmax>
+        <ymax>2562</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

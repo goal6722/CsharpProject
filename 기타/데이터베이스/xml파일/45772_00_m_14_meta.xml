@@ -1,0 +1,62 @@
+<comp_cd>
+  0955
+  <identifier>
+    <identifier>45772_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>09550100002</item_cd>
+    <item_no>45772</item_no>
+    <div_l>과자</div_l>
+    <div_m>파이류</div_m>
+    <div_s>케이크</div_s>
+    <div_n>케이크</div_n>
+    <comp_nm>여리수</comp_nm>
+    <img_prod_nm>여리수)프레디부온돌체초코허니</img_prod_nm>
+    <volume>250G</volume>
+    <barcd>8005380030014</barcd>
+    <width>12</width>
+    <length>6</length>
+    <height>28</height>
+    <nutrition_info>{"1회제공량":"25","총내용량(g)":"250","총내용량(mL)":"0","에너지(㎉)":"98","단백질(g)":"1.3","지방(g)":"4","탄수화물(g)":"14.2","총당류(g)":"8.7","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"125","비타민":"0","콜레스테롤(㎎)":"15","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45772_여리수)프레디부온돌체초코허니/</folder>
+    <filename>45772_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45772_여리수)프레디부온돌체초코허니/45772_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>여리수)프레디부온돌체초코허니</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1406</xmin>
+        <ymin>377</ymin>
+        <xmax>2454</xmax>
+        <ymax>2640</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>여리수)프레디부온돌체초코허니</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>590</xmin>
+        <ymin>554</ymin>
+        <xmax>1609</xmax>
+        <ymax>2565</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

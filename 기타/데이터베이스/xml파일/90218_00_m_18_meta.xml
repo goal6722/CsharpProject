@@ -1,0 +1,74 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>90218_00_m_18.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>09750500115</item_cd>
+    <item_no>90218</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석죽</div_s>
+    <div_n>즉석죽</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기 오즈키친 영양닭죽</img_prod_nm>
+    <volume>450g</volume>
+    <barcd>8801045303413</barcd>
+    <width>15</width>
+    <length />
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"450","총내용량(g)":"450","총내용량(mL)":"","에너지(㎉)":"310","단백질(g)":"13","지방(g)":"4.7","탄수화물(g)":"54","총당류(g)":"7","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1140","비타민":"","콜레스테롤(㎎)":"35","총 지방산(g)":"4.7",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/90218_오뚜기오즈키친영양닭죽/</folder>
+    <filename>90218_00_m_18.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/90218_오뚜기오즈키친영양닭죽/90218_00_m_18.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기오즈키친영양닭죽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>2000</xmin>
+        <ymin>819</ymin>
+        <xmax>2700</xmax>
+        <ymax>2784</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기오즈키친영양닭죽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1392</xmin>
+        <ymin>954</ymin>
+        <xmax>1785</xmax>
+        <ymax>2652</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기오즈키친영양닭죽</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>742</xmin>
+        <ymin>1033</ymin>
+        <xmax>1076</xmax>
+        <ymax>2552</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

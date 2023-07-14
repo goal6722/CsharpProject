@@ -1,0 +1,62 @@
+<comp_cd>
+  1529
+  <identifier>
+    <identifier>15122_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>15290800001</item_cd>
+    <item_no>15122</item_no>
+    <div_l>유제품</div_l>
+    <div_m>요구르트</div_m>
+    <div_s>떠먹는 요구르트</div_s>
+    <div_n>떠먹는 요구르트</div_n>
+    <comp_nm>후디스</comp_nm>
+    <img_prod_nm>후디스 그릭요거트리얼블루베리 320g(번들)</img_prod_nm>
+    <volume>320g</volume>
+    <barcd>8801157493712</barcd>
+    <width>15</width>
+    <length>13</length>
+    <height>6</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"320","총내용량(mL)":"","에너지(㎉)":"115","단백질(g)":"5","지방(g)":"3.6","탄수화물(g)":"16","총당류(g)":"15","총 식이섬유(g)":"","칼슘(㎎)":"130","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"60","비타민":"","콜레스테롤(㎎)":"12","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/15122_후디스그릭요거트리얼블루베리320g(번들)/</folder>
+    <filename>15122_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/15122_후디스그릭요거트리얼블루베리320g(번들)/15122_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>후디스그릭요거트리얼블루베리320g(번들)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>313</xmin>
+        <ymin>1214</ymin>
+        <xmax>1926</xmax>
+        <ymax>1823</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>후디스그릭요거트리얼블루베리320g(번들)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1575</xmin>
+        <ymin>1273</ymin>
+        <xmax>2583</xmax>
+        <ymax>1752</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

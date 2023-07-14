@@ -1,0 +1,62 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>15288_00_m_20.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00000500015</item_cd>
+    <item_no>15288</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석죽</div_s>
+    <div_n>즉석죽</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>본아이에프 본죽 일품쇠고기미역죽500G</img_prod_nm>
+    <volume>500G</volume>
+    <barcd>8809310071722</barcd>
+    <width>18</width>
+    <length>7</length>
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"500","총내용량(g)":"500","총내용량(mL)":"","에너지(㎉)":"305","단백질(g)":"13","지방(g)":"6","탄수화물(g)":"50","총당류(g)":"0","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1200","비타민":"","콜레스테롤(㎎)":"10","총 지방산(g)":"6",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15288_본아이에프본죽일품쇠고기미역죽500G/</folder>
+    <filename>15288_00_m_20.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15288_본아이에프본죽일품쇠고기미역죽500G/15288_00_m_20.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>본아이에프본죽일품쇠고기미역죽500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1095</xmin>
+        <ymin>811</ymin>
+        <xmax>1689</xmax>
+        <ymax>2181</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>본아이에프본죽일품쇠고기미역죽500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1614</xmin>
+        <ymin>630</ymin>
+        <xmax>2226</xmax>
+        <ymax>2439</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

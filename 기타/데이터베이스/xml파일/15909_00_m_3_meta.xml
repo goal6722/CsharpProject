@@ -1,0 +1,62 @@
+<comp_cd>
+  0250
+  <identifier>
+    <identifier>15909_00_m_3.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>02500500001</item_cd>
+    <item_no>15909</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>가공안주류</div_m>
+    <div_s>건과일</div_s>
+    <div_n>건과일</div_n>
+    <comp_nm>동우농산</comp_nm>
+    <img_prod_nm>동우농산 씨를뺀건자두300G</img_prod_nm>
+    <volume>300G</volume>
+    <barcd>8801416824721</barcd>
+    <width>14</width>
+    <length>5</length>
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15909_동우농산씨를뺀건자두300G/</folder>
+    <filename>15909_00_m_3.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15909_동우농산씨를뺀건자두300G/15909_00_m_3.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>동우농산씨를뺀건자두300G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1442</xmin>
+        <ymin>613</ymin>
+        <xmax>2717</xmax>
+        <ymax>2517</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>동우농산씨를뺀건자두300G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>541</xmin>
+        <ymin>667</ymin>
+        <xmax>1468</xmax>
+        <ymax>2367</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

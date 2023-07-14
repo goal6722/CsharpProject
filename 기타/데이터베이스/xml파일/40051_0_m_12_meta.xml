@@ -1,0 +1,74 @@
+<comp_cd>
+  1520
+  <identifier>
+    <identifier>40051_0_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>15200900009</item_cd>
+    <item_no>40051</item_no>
+    <div_l>음료</div_l>
+    <div_m>커피음료</div_m>
+    <div_s>커피음료</div_s>
+    <div_n>커피음료</div_n>
+    <comp_nm>홈플러스</comp_nm>
+    <img_prod_nm>심플러스바른샘물300ML</img_prod_nm>
+    <volume>300ML</volume>
+    <barcd>8801056103606</barcd>
+    <width>5</width>
+    <length>5</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"300","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"9.7~9.9","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""1.2~1.5","칼륨(㎎)":"0.9~1.1","나트륨(㎎)":"4.3~4.5","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/40051_심플러스바른샘물300ML/</folder>
+    <filename>40051_0_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/40051_심플러스바른샘물300ML/40051_0_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>심플러스바른샘물300ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>192</xmin>
+        <ymin>265</ymin>
+        <xmax>1018</xmax>
+        <ymax>2744</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>심플러스바른샘물300ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>956</xmin>
+        <ymin>265</ymin>
+        <xmax>1854</xmax>
+        <ymax>2671</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>심플러스바른샘물300ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1762</xmin>
+        <ymin>275</ymin>
+        <xmax>2611</xmax>
+        <ymax>2625</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

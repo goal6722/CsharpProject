@@ -1,0 +1,62 @@
+<comp_cd>
+  1437
+  <identifier>
+    <identifier>85030_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    12
+    <item_cd>14371200016</item_cd>
+    <item_no>85030</item_no>
+    <div_l>주류</div_l>
+    <div_m>와인</div_m>
+    <div_s>레드와인</div_s>
+    <div_n>레드와인</div_n>
+    <comp_nm>하이트진로</comp_nm>
+    <img_prod_nm>하이트진로진로와인레드와인</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8801048225002</barcd>
+    <width>7</width>
+    <length />
+    <height>26</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/85030_하이트진로진로와인레드와인/</folder>
+    <filename>85030_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/85030_하이트진로진로와인레드와인/85030_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>하이트진로진로와인레드와인</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1430</xmin>
+        <ymin>136</ymin>
+        <xmax>2093</xmax>
+        <ymax>2756</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>하이트진로진로와인레드와인</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>925</xmin>
+        <ymin>246</ymin>
+        <xmax>1514</xmax>
+        <ymax>2644</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

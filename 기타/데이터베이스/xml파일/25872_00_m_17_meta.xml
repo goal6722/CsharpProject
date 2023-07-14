@@ -1,0 +1,62 @@
+<comp_cd>
+  0810
+  <identifier>
+    <identifier>25872_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>08101100001</item_cd>
+    <item_no>25872</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>선크림류</div_s>
+    <div_n>선크림류</div_n>
+    <comp_nm>씨제이올리브네트웍스</comp_nm>
+    <img_prod_nm>씨제이올리브네트웍스 식물나라산소수워터프루프선스프레이100ML</img_prod_nm>
+    <volume>100ML</volume>
+    <barcd>8809533813925</barcd>
+    <width>4</width>
+    <length />
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/25872_씨제이올리브네트웍스식물나라산소수워터프루프선스프레이100ML/</folder>
+    <filename>25872_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/25872_씨제이올리브네트웍스식물나라산소수워터프루프선스프레이100ML/25872_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>씨제이올리브네트웍스식물나라산소수워터프루프선스프레이100ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1377</xmin>
+        <ymin>205</ymin>
+        <xmax>2035</xmax>
+        <ymax>2864</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>씨제이올리브네트웍스식물나라산소수워터프루프선스프레이100ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1042</xmin>
+        <ymin>316</ymin>
+        <xmax>1550</xmax>
+        <ymax>2741</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

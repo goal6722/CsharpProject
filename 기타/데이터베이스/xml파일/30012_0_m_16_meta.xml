@@ -1,0 +1,74 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>30012_0_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900047</item_cd>
+    <item_no>30012</item_no>
+    <div_l>음료</div_l>
+    <div_m>생수</div_m>
+    <div_s>일반생수</div_s>
+    <div_n>일반생수</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데델몬트포도100%400ML</img_prod_nm>
+    <volume>400ML</volume>
+    <barcd>8801056071240</barcd>
+    <width>5</width>
+    <length />
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"400","에너지(㎉)":"195","단백질(g)":"1","지방(g)":"0.6","탄수화물(g)":"46","총당류(g)":"42","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"16","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30012_롯데델몬트포도100_400ML/</folder>
+    <filename>30012_0_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30012_롯데델몬트포도100_400ML/30012_0_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데델몬트포도100_400ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1681</xmin>
+        <ymin>183</ymin>
+        <xmax>2501</xmax>
+        <ymax>2818</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데델몬트포도100_400ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1149</xmin>
+        <ymin>303</ymin>
+        <xmax>1843</xmax>
+        <ymax>2615</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데델몬트포도100_400ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>719</xmin>
+        <ymin>382</ymin>
+        <xmax>1328</xmax>
+        <ymax>2451</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

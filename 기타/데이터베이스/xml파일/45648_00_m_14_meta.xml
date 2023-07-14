@@ -1,0 +1,62 @@
+<comp_cd>
+  0232
+  <identifier>
+    <identifier>45648_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>02320500002</item_cd>
+    <item_no>45648</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석국/찌개</div_s>
+    <div_n>즉석국/찌개</div_n>
+    <comp_nm>도야지식품</comp_nm>
+    <img_prod_nm>도야지식품)맘으로소한마리탕</img_prod_nm>
+    <volume>750G</volume>
+    <barcd>8809251121555</barcd>
+    <width>17</width>
+    <length>6</length>
+    <height>26</height>
+    <nutrition_info>{"1회제공량":"750","총내용량(g)":"750","총내용량(mL)":"","에너지(㎉)":"1036","단백질(g)":"106","지방(g)":"68","탄수화물(g)":"0","총당류(g)":"0","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1460","비타민":"","콜레스테롤(㎎)":"309","총 지방산(g)":"68",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/45648_도야지식품)맘으로소한마리탕/</folder>
+    <filename>45648_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/45648_도야지식품)맘으로소한마리탕/45648_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>도야지식품)맘으로소한마리탕</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1435</xmin>
+        <ymin>501</ymin>
+        <xmax>2836</xmax>
+        <ymax>2410</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>도야지식품)맘으로소한마리탕</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>206</xmin>
+        <ymin>555</ymin>
+        <xmax>1408</xmax>
+        <ymax>2298</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

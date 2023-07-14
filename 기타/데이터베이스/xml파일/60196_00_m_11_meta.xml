@@ -1,0 +1,74 @@
+<comp_cd>
+  0977
+  <identifier>
+    <identifier>60196_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>09770100087</item_cd>
+    <item_no>60196</item_no>
+    <div_l>과자</div_l>
+    <div_m>비스킷</div_m>
+    <div_s>크래커</div_s>
+    <div_n>크래커</div_n>
+    <comp_nm>오리온</comp_nm>
+    <img_prod_nm>오리온 마켓오 초코크래커</img_prod_nm>
+    <volume>96g</volume>
+    <barcd>8801117434403</barcd>
+    <width>15</width>
+    <length>8</length>
+    <height>6</height>
+    <nutrition_info>{"1회제공량":"48","총내용량(g)":"96","총내용량(mL)":"0","에너지(㎉)":"239","단백질(g)":"4","지방(g)":"11","탄수화물(g)":"31","총당류(g)":"12","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"190","비타민":"0","콜레스테롤(㎎)":"5","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/60196_오리온마켓오초코크래커/</folder>
+    <filename>60196_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/60196_오리온마켓오초코크래커/60196_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오리온마켓오초코크래커</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>217</xmin>
+        <ymin>623</ymin>
+        <xmax>1198</xmax>
+        <ymax>2235</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오리온마켓오초코크래커</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>934</xmin>
+        <ymin>675</ymin>
+        <xmax>1878</xmax>
+        <ymax>2194</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오리온마켓오초코크래커</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1618</xmin>
+        <ymin>723</ymin>
+        <xmax>2494</xmax>
+        <ymax>2156</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

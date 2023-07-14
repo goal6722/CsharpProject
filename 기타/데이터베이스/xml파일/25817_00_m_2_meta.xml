@@ -1,0 +1,62 @@
+<comp_cd>
+  0233
+  <identifier>
+    <identifier>25817_00_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>02330100001</item_cd>
+    <item_no>25817</item_no>
+    <div_l>과자</div_l>
+    <div_m>씨리얼</div_m>
+    <div_s>일반시리얼</div_s>
+    <div_n>일반시리얼</div_n>
+    <comp_nm>도울바이오푸드</comp_nm>
+    <img_prod_nm>도울바이오푸드 유기농포시즌후르츠믹스230G</img_prod_nm>
+    <volume>230G</volume>
+    <barcd>8809027393933</barcd>
+    <width>17</width>
+    <length>7</length>
+    <height>26</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"230","총내용량(mL)":"0","에너지(㎉)":"380","단백질(g)":"5","지방(g)":"1.3","탄수화물(g)":"87","총당류(g)":"24","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"280","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25817_도울바이오푸드유기농포시즌후르츠믹스230G/</folder>
+    <filename>25817_00_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25817_도울바이오푸드유기농포시즌후르츠믹스230G/25817_00_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>도울바이오푸드유기농포시즌후르츠믹스230G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1425</xmin>
+        <ymin>576</ymin>
+        <xmax>2586</xmax>
+        <ymax>2456</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>도울바이오푸드유기농포시즌후르츠믹스230G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>402</xmin>
+        <ymin>662</ymin>
+        <xmax>1525</xmax>
+        <ymax>2383</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

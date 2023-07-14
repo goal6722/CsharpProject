@@ -1,0 +1,62 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>45454_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>09750700060</item_cd>
+    <item_no>45454</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>양념소스</div_s>
+    <div_n>양념소스</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기)3분렌틸콩짜장</img_prod_nm>
+    <volume>200G</volume>
+    <barcd>8801045290515</barcd>
+    <width>14</width>
+    <length>2</length>
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"200","총내용량(mL)":"","에너지(㎉)":"205","단백질(g)":"9","지방(g)":"","탄수화물(g)":"24","총당류(g)":"8","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1020","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"9.5",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/45454_오뚜기)3분렌틸콩짜장/</folder>
+    <filename>45454_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/45454_오뚜기)3분렌틸콩짜장/45454_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기)3분렌틸콩짜장</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>57</xmin>
+        <ymin>454</ymin>
+        <xmax>1534</xmax>
+        <ymax>2401</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기)3분렌틸콩짜장</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1386</xmin>
+        <ymin>605</ymin>
+        <xmax>2584</xmax>
+        <ymax>2251</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

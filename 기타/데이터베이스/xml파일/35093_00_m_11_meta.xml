@@ -1,0 +1,62 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>35093_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00050500049</item_cd>
+    <item_no>35093</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석국/찌개</div_s>
+    <div_n>즉석국/찌개</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ제일제당)비비고차돌육개장500G</img_prod_nm>
+    <volume>500G</volume>
+    <barcd>8801007833040</barcd>
+    <width>15</width>
+    <length>6</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"500","총내용량(g)":"500","총내용량(mL)":"","에너지(㎉)":"215","단백질(g)":"18","지방(g)":"12","탄수화물(g)":"9","총당류(g)":"2","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1490","비타민":"","콜레스테롤(㎎)":"35","총 지방산(g)":"12",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35093_CJ제일제당)비비고차돌육개장500G/</folder>
+    <filename>35093_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35093_CJ제일제당)비비고차돌육개장500G/35093_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ제일제당)비비고차돌육개장500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>178</xmin>
+        <ymin>487</ymin>
+        <xmax>1475</xmax>
+        <ymax>2484</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ제일제당)비비고차돌육개장500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1454</xmin>
+        <ymin>667</ymin>
+        <xmax>2390</xmax>
+        <ymax>2319</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

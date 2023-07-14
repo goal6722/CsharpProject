@@ -1,0 +1,62 @@
+<comp_cd>
+  0135
+  <identifier>
+    <identifier>65103_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>01350500013</item_cd>
+    <item_no>65103</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석죽</div_s>
+    <div_n>즉석죽</div_n>
+    <comp_nm>네슬레코리아</comp_nm>
+    <img_prod_nm>네슬레코리아거버2단계이유식오가닉바나나아사이베리믹스그레인</img_prod_nm>
+    <volume>99G</volume>
+    <barcd>015000074456</barcd>
+    <width>8</width>
+    <length>16</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"99","총내용량(g)":"99","총내용량(mL)":"","에너지(㎉)":"87","단백질(g)":"1","지방(g)":"1","탄수화물(g)":"19","총당류(g)":"12","총 식이섬유(g)":"1","칼슘(㎎)":"10.4","철(㎍)":"0.3","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"230","나트륨(㎎)":"25","비타민":"23","콜레스테롤(㎎)":"0","총 지방산(g)":"1",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/65103_네슬레코리아거버2단계이유식오가닉바나나아사이베리믹스그레인/</folder>
+    <filename>65103_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/65103_네슬레코리아거버2단계이유식오가닉바나나아사이베리믹스그레인/65103_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>네슬레코리아거버2단계이유식오가닉바나나아사이베리믹스그레인</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>488</xmin>
+        <ymin>138</ymin>
+        <xmax>1534</xmax>
+        <ymax>2835</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>네슬레코리아거버2단계이유식오가닉바나나아사이베리믹스그레인</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1494</xmin>
+        <ymin>355</ymin>
+        <xmax>2156</xmax>
+        <ymax>2577</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

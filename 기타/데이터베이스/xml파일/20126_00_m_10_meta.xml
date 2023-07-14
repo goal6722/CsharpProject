@@ -1,0 +1,74 @@
+<comp_cd>
+  0153
+  <identifier>
+    <identifier>20126_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>01530100010</item_cd>
+    <item_no>20126</item_no>
+    <div_l>과자</div_l>
+    <div_m>스낵</div_m>
+    <div_s>감자스낵</div_s>
+    <div_n>감자스낵</div_n>
+    <comp_nm>농심</comp_nm>
+    <img_prod_nm>농심)프링글스클래식110G</img_prod_nm>
+    <volume>110G</volume>
+    <barcd>8886467118142</barcd>
+    <width>7</width>
+    <length />
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"110","총내용량(mL)":"0","에너지(㎉)":"527","단백질(g)":"5","지방(g)":"29.1","탄수화물(g)":"61.3","총당류(g)":"1","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"414","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/20126_농심)프링글스클래식110G/</folder>
+    <filename>20126_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/20126_농심)프링글스클래식110G/20126_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>농심)프링글스클래식110G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>432</xmin>
+        <ymin>109</ymin>
+        <xmax>1299</xmax>
+        <ymax>2850</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>농심)프링글스클래식110G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1124</xmin>
+        <ymin>276</ymin>
+        <xmax>1844</xmax>
+        <ymax>2651</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>농심)프링글스클래식110G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1584</xmin>
+        <ymin>407</ymin>
+        <xmax>2245</xmax>
+        <ymax>2491</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

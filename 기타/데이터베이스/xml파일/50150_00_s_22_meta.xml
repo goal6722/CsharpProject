@@ -1,0 +1,50 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>50150_00_s_22.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>09750500070</item_cd>
+    <item_no>50150</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>기타레토르트</div_s>
+    <div_n>기타레토르트</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>3분김치참치매운맛</img_prod_nm>
+    <volume>150G</volume>
+    <barcd>8801045294018</barcd>
+    <width>12</width>
+    <length>2</length>
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"150","총내용량(g)":"150","총내용량(mL)":"","에너지(㎉)":"90","단백질(g)":"7","지방(g)":"0.7","탄수화물(g)":"14","총당류(g)":"5","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"870","비타민":"","콜레스테롤(㎎)":"10","총 지방산(g)":"0.7",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/50150_3분김치참치매운맛/</folder>
+    <filename>50150_00_s_22.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/50150_3분김치참치매운맛/50150_00_s_22.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>3분김치참치매운맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>794</xmin>
+        <ymin>257</ymin>
+        <xmax>2256</xmax>
+        <ymax>2806</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

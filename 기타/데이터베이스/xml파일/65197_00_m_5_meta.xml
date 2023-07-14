@@ -1,0 +1,62 @@
+<comp_cd>
+  1096
+  <identifier>
+    <identifier>65197_00_m_5.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>10960500004</item_cd>
+    <item_no>65197</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>가공안주류</div_m>
+    <div_s>견과류</div_s>
+    <div_n>견과류</div_n>
+    <comp_nm>일동후디스</comp_nm>
+    <img_prod_nm>일동후디스키요순찐밤</img_prod_nm>
+    <volume>50G</volume>
+    <barcd>8801157553164</barcd>
+    <width>11</width>
+    <length>13</length>
+    <height>4</height>
+    <nutrition_info>{"1회제공량":"50","총내용량(g)":"50","총내용량(mL)":"","에너지(㎉)":"75","단백질(g)":"2","지방(g)":"0.4","탄수화물(g)":"16","총당류(g)":"2","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"0","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"0.4",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/65197_일동후디스키요순찐밤/</folder>
+    <filename>65197_00_m_5.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/65197_일동후디스키요순찐밤/65197_00_m_5.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>일동후디스키요순찐밤</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1468</xmin>
+        <ymin>445</ymin>
+        <xmax>2482</xmax>
+        <ymax>2599</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>일동후디스키요순찐밤</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>918</xmin>
+        <ymin>724</ymin>
+        <xmax>1545</xmax>
+        <ymax>2285</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>55320_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>09750700066</item_cd>
+    <item_no>55320</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>국물용소스</div_s>
+    <div_n>국물용소스</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기메밀소바장국4배농축</img_prod_nm>
+    <volume>360ML</volume>
+    <barcd>8801045132228</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/55320_오뚜기메밀소바장국4배농축/</folder>
+    <filename>55320_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/55320_오뚜기메밀소바장국4배농축/55320_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기메밀소바장국4배농축</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1308</xmin>
+        <ymin>159</ymin>
+        <xmax>2031</xmax>
+        <ymax>2824</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기메밀소바장국4배농축</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1009</xmin>
+        <ymin>301</ymin>
+        <xmax>1657</xmax>
+        <ymax>2669</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

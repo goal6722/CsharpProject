@@ -1,0 +1,62 @@
+<comp_cd>
+  0979
+  <identifier>
+    <identifier>85041_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    12
+    <item_cd>09791200019</item_cd>
+    <item_no>85041</item_no>
+    <div_l>주류</div_l>
+    <div_m>맥주</div_m>
+    <div_s>수입맥주</div_s>
+    <div_n>수입맥주</div_n>
+    <comp_nm>오비맥주</comp_nm>
+    <img_prod_nm>오비맥주)구스아일랜드아이피에이</img_prod_nm>
+    <volume>473ML</volume>
+    <barcd>8801021220857</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/85041_오비맥주)구스아일랜드아이피에이/</folder>
+    <filename>85041_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/주류/85041_오비맥주)구스아일랜드아이피에이/85041_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오비맥주)구스아일랜드아이피에이</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1386</xmin>
+        <ymin>268</ymin>
+        <xmax>2360</xmax>
+        <ymax>2747</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오비맥주)구스아일랜드아이피에이</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>627</xmin>
+        <ymin>390</ymin>
+        <xmax>1431</xmax>
+        <ymax>2607</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

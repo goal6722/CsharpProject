@@ -1,0 +1,74 @@
+<comp_cd>
+  1103
+  <identifier>
+    <identifier>10045_0_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>11030900003</item_cd>
+    <item_no>10045</item_no>
+    <div_l>음료</div_l>
+    <div_m>생수</div_m>
+    <div_s>일반생수</div_s>
+    <div_n>일반생수</div_n>
+    <comp_nm>일화</comp_nm>
+    <img_prod_nm>신어산음료일화광천수500ML</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8801223005177</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/10045_신어산음료일화광천수500ML/</folder>
+    <filename>10045_0_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/10045_신어산음료일화광천수500ML/10045_0_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>신어산음료일화광천수500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1610</xmin>
+        <ymin>229</ymin>
+        <xmax>2422</xmax>
+        <ymax>2776</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>신어산음료일화광천수500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>791</xmin>
+        <ymin>456</ymin>
+        <xmax>1334</xmax>
+        <ymax>2476</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>신어산음료일화광천수500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1153</xmin>
+        <ymin>372</ymin>
+        <xmax>1788</xmax>
+        <ymax>2616</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

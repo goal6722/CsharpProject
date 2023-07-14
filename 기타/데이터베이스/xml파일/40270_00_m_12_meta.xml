@@ -1,0 +1,74 @@
+<comp_cd>
+  0828
+  <identifier>
+    <identifier>40270_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    15
+    <item_cd>08281500001</item_cd>
+    <item_no>40270</item_no>
+    <div_l>홈클린</div_l>
+    <div_m>욕실주거세제</div_m>
+    <div_s>세탁조세정제</div_s>
+    <div_n>세탁조세정제</div_n>
+    <comp_nm>아성에이치엠</comp_nm>
+    <img_prod_nm>아성다이소세탁조크리너150G*3</img_prod_nm>
+    <volume>450G</volume>
+    <barcd>8808739000207</barcd>
+    <width>10</width>
+    <length>15</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/40270_아성다이소세탁조크리너150G_3/</folder>
+    <filename>40270_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/40270_아성다이소세탁조크리너150G_3/40270_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>아성다이소세탁조크리너150G_3</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1966</xmin>
+        <ymin>844</ymin>
+        <xmax>2770</xmax>
+        <ymax>2143</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아성다이소세탁조크리너150G_3</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>119</xmin>
+        <ymin>762</ymin>
+        <xmax>1117</xmax>
+        <ymax>2235</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아성다이소세탁조크리너150G_3</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1106</xmin>
+        <ymin>807</ymin>
+        <xmax>1986</xmax>
+        <ymax>2178</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0215
+  <identifier>
+    <identifier>56134_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>02151100094</item_cd>
+    <item_no>56134</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>핸드크림</div_s>
+    <div_n>핸드크림</div_n>
+    <comp_nm>더샘인터내셔날</comp_nm>
+    <img_prod_nm>더샘인터내셔날)더샘퍼퓸드핸드모이스처라이저아카시아</img_prod_nm>
+    <volume>30ML</volume>
+    <barcd>8806164122341</barcd>
+    <width>2</width>
+    <length>2</length>
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/56134_더샘인터내셔날)더샘퍼퓸드핸드모이스처라이저아카시아/</folder>
+    <filename>56134_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/56134_더샘인터내셔날)더샘퍼퓸드핸드모이스처라이저아카시아/56134_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>더샘인터내셔날)더샘퍼퓸드핸드모이스처라이저아카시아</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1521</xmin>
+        <ymin>160</ymin>
+        <xmax>2221</xmax>
+        <ymax>2846</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>더샘인터내셔날)더샘퍼퓸드핸드모이스처라이저아카시아</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>914</xmin>
+        <ymin>266</ymin>
+        <xmax>1519</xmax>
+        <ymax>2717</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

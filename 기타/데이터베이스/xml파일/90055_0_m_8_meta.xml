@@ -1,0 +1,50 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>90055_0_m_8.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900220</item_cd>
+    <item_no>90055</item_no>
+    <div_l>음료</div_l>
+    <div_m>기능성음료</div_m>
+    <div_s>기타</div_s>
+    <div_n>기타</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데칸타타아이스아메리카노190ML</img_prod_nm>
+    <volume>190ML</volume>
+    <barcd>8801056046552</barcd>
+    <width />
+    <length />
+    <height />
+    <nutrition_info>{"1회제공량":"190","총내용량(g)":"0","총내용량(mL)":"190","에너지(㎉)":"50","단백질(g)":"1","지방(g)":"0","탄수화물(g)":"12","총당류(g)":"12","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"65","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/90055_롯데칸타타아이스아메리카노190ML/</folder>
+    <filename>90055_0_m_8.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/90055_롯데칸타타아이스아메리카노190ML/90055_0_m_8.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데칸타타아이스아메리카노190ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>955</xmin>
+        <ymin>462</ymin>
+        <xmax>1412</xmax>
+        <ymax>2663</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

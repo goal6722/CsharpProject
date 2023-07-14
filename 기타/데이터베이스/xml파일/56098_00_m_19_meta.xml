@@ -1,0 +1,50 @@
+<comp_cd>
+  0306
+  <identifier>
+    <identifier>56098_00_m_19.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>03060500011</item_cd>
+    <item_no>56098</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석밥</div_s>
+    <div_n>즉석밥</div_n>
+    <comp_nm>롯데푸드</comp_nm>
+    <img_prod_nm>롯데푸드)한우불고기밥</img_prod_nm>
+    <volume>180G</volume>
+    <barcd>8801207156321</barcd>
+    <width>10</width>
+    <length>7</length>
+    <height>8</height>
+    <nutrition_info>{"1회제공량":"180","총내용량(g)":"180","총내용량(mL)":"","에너지(㎉)":"181","단백질(g)":"6","지방(g)":"1.8","탄수화물(g)":"35","총당류(g)":"2","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"196","비타민":"","콜레스테롤(㎎)":"10","총 지방산(g)":"1.8",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/56098_롯데푸드)한우불고기밥/</folder>
+    <filename>56098_00_m_19.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/56098_롯데푸드)한우불고기밥/56098_00_m_19.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데푸드)한우불고기밥</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>956</xmin>
+        <ymin>854</ymin>
+        <xmax>2222</xmax>
+        <ymax>2282</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

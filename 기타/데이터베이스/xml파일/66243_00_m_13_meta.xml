@@ -1,0 +1,62 @@
+<comp_cd>
+  0560
+  <identifier>
+    <identifier>66243_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>05600100001</item_cd>
+    <item_no>66243</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>젤리</div_s>
+    <div_n>젤리</div_n>
+    <comp_nm>사우어</comp_nm>
+    <img_prod_nm>롯데쇼핑)사우어애플맛젤리벨트36입</img_prod_nm>
+    <volume>360G</volume>
+    <barcd>8690146143932</barcd>
+    <width>17</width>
+    <length>4</length>
+    <height>26</height>
+    <nutrition_info>{"1회제공량":"10","총내용량(g)":"360","총내용량(mL)":"0","에너지(㎉)":"40","단백질(g)":"0.3","지방(g)":"0.3","탄수화물(g)":"9","총당류(g)":"8","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"0.5","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/66243_롯데쇼핑)사우어애플맛젤리벨트36입/</folder>
+    <filename>66243_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/66243_롯데쇼핑)사우어애플맛젤리벨트36입/66243_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데쇼핑)사우어애플맛젤리벨트36입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>231</xmin>
+        <ymin>383</ymin>
+        <xmax>1646</xmax>
+        <ymax>2648</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데쇼핑)사우어애플맛젤리벨트36입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1428</xmin>
+        <ymin>705</ymin>
+        <xmax>2466</xmax>
+        <ymax>2404</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,74 @@
+<comp_cd>
+  1274
+  <identifier>
+    <identifier>30014_0_m_4.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12740900040</item_cd>
+    <item_no>30014</item_no>
+    <div_l>음료</div_l>
+    <div_m>커피음료</div_m>
+    <div_s>커피음료</div_s>
+    <div_n>커피음료</div_n>
+    <comp_nm>코카콜라음료</comp_nm>
+    <img_prod_nm>몬스터에너지울트라355ML</img_prod_nm>
+    <volume>355ML</volume>
+    <barcd>4897036691120</barcd>
+    <width>5</width>
+    <length />
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"355","에너지(㎉)":"14","단백질(g)":"1","지방(g)":"0.4","탄수화물(g)":"4","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":"100"","칼륨(㎎)":"","나트륨(㎎)":"275","비타민":"57","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30014_몬스터에너지울트라355ML/</folder>
+    <filename>30014_0_m_4.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30014_몬스터에너지울트라355ML/30014_0_m_4.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>몬스터에너지울트라355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1717</xmin>
+        <ymin>237</ymin>
+        <xmax>2633</xmax>
+        <ymax>2819</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>몬스터에너지울트라355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1106</xmin>
+        <ymin>339</ymin>
+        <xmax>1822</xmax>
+        <ymax>2624</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>몬스터에너지울트라355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>632</xmin>
+        <ymin>402</ymin>
+        <xmax>1265</xmax>
+        <ymax>2457</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

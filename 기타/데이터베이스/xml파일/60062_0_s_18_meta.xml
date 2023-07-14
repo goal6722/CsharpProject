@@ -1,0 +1,50 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>60062_0_s_18.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900141</item_cd>
+    <item_no>60062</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데델몬트오리지널알로에1.5L</img_prod_nm>
+    <volume>1.5L</volume>
+    <barcd>8801056022150</barcd>
+    <width>9</width>
+    <length />
+    <height>31</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"","총내용량(mL)":"1500","에너지(㎉)":"45","단백질(g)":"","지방(g)":"","탄수화물(g)":"11","총당류(g)":"10","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"5","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/60062_롯데델몬트오리지널알로에1.5L/</folder>
+    <filename>60062_0_s_18.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/60062_롯데델몬트오리지널알로에1.5L/60062_0_s_18.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데델몬트오리지널알로에1.5L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1083</xmin>
+        <ymin>42</ymin>
+        <xmax>1889</xmax>
+        <ymax>2927</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

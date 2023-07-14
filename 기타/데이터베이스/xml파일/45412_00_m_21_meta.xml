@@ -1,0 +1,62 @@
+<comp_cd>
+  1112
+  <identifier>
+    <identifier>45412_00_m_21.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>11120900006</item_cd>
+    <item_no>45412</item_no>
+    <div_l>음료</div_l>
+    <div_m>생수</div_m>
+    <div_s>일반생수</div_s>
+    <div_n>일반생수</div_n>
+    <comp_nm>자임에프앤비</comp_nm>
+    <img_prod_nm>자임)100%NFC착즙주스사과&amp;비트&amp;당근</img_prod_nm>
+    <volume>140ML</volume>
+    <barcd>8809396443529</barcd>
+    <width>9</width>
+    <length>4</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"140","에너지(㎉)":"66","단백질(g)":"10","지방(g)":"","탄수화물(g)":"15","총당류(g)":"12","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"45","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/45412_자임)100_NFC착즙주스사과_비트_당근/</folder>
+    <filename>45412_00_m_21.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/45412_자임)100_NFC착즙주스사과_비트_당근/45412_00_m_21.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>자임)100_NFC착즙주스사과_비트_당근</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>571</xmin>
+        <ymin>189</ymin>
+        <xmax>1418</xmax>
+        <ymax>2833</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>자임)100_NFC착즙주스사과_비트_당근</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1416</xmin>
+        <ymin>413</ymin>
+        <xmax>2087</xmax>
+        <ymax>2588</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

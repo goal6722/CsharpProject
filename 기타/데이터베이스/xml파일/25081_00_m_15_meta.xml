@@ -1,0 +1,62 @@
+<comp_cd>
+  0613
+  <identifier>
+    <identifier>25081_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>06130700007</item_cd>
+    <item_no>25081</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>국물용소스</div_s>
+    <div_n>국물용소스</div_n>
+    <comp_nm>샘표식품</comp_nm>
+    <img_prod_nm>샘표 요리에센스 연두 순 275ML</img_prod_nm>
+    <volume>275ML</volume>
+    <barcd>8801005300025</barcd>
+    <width>7</width>
+    <length />
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/25081_샘표요리에센스연두순275ML/</folder>
+    <filename>25081_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/25081_샘표요리에센스연두순275ML/25081_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>샘표요리에센스연두순275ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1236</xmin>
+        <ymin>437</ymin>
+        <xmax>2283</xmax>
+        <ymax>2519</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>샘표요리에센스연두순275ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>426</xmin>
+        <ymin>525</ymin>
+        <xmax>1358</xmax>
+        <ymax>2465</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

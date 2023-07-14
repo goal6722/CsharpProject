@@ -1,0 +1,62 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>25417_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00050500025</item_cd>
+    <item_no>25417</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석밥</div_s>
+    <div_n>즉석밥</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ 햇반컵반 미역국밥 167G</img_prod_nm>
+    <volume>167G</volume>
+    <barcd>8801007403267</barcd>
+    <width>10</width>
+    <length />
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"167","총내용량(g)":"167","총내용량(mL)":"","에너지(㎉)":"270","단백질(g)":"4","지방(g)":"2.3","탄수화물(g)":"58","총당류(g)":"0","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"980","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"2.3",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/25417_CJ햇반컵반미역국밥167G/</folder>
+    <filename>25417_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/25417_CJ햇반컵반미역국밥167G/25417_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ햇반컵반미역국밥167G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>241</xmin>
+        <ymin>1203</ymin>
+        <xmax>1700</xmax>
+        <ymax>2333</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ햇반컵반미역국밥167G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1331</xmin>
+        <ymin>1187</ymin>
+        <xmax>2507</xmax>
+        <ymax>2071</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

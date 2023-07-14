@@ -1,0 +1,74 @@
+<comp_cd>
+  1273
+  <identifier>
+    <identifier>20103_0_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12730900002</item_cd>
+    <item_no>20103</item_no>
+    <div_l>음료</div_l>
+    <div_m>생수</div_m>
+    <div_s>일반생수</div_s>
+    <div_n>일반생수</div_n>
+    <comp_nm>코카콜라</comp_nm>
+    <img_prod_nm>코카콜라)휘오제주2L</img_prod_nm>
+    <volume>2L</volume>
+    <barcd>8801094832506</barcd>
+    <width>9</width>
+    <length />
+    <height>32</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"2000","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"2","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20103_코카콜라)휘오제주2L/</folder>
+    <filename>20103_0_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20103_코카콜라)휘오제주2L/20103_0_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>코카콜라)휘오제주2L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>442</xmin>
+        <ymin>293</ymin>
+        <xmax>1150</xmax>
+        <ymax>2669</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카콜라)휘오제주2L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1817</xmin>
+        <ymin>307</ymin>
+        <xmax>2547</xmax>
+        <ymax>2627</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카콜라)휘오제주2L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1144</xmin>
+        <ymin>314</ymin>
+        <xmax>1834</xmax>
+        <ymax>2644</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

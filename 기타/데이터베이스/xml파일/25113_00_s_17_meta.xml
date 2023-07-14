@@ -1,0 +1,50 @@
+<comp_cd>
+  1472
+  <identifier>
+    <identifier>25113_00_s_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>14720700001</item_cd>
+    <item_no>25113</item_no>
+    <div_l>소스</div_l>
+    <div_m>분말조미료</div_m>
+    <div_s>기타향신료</div_s>
+    <div_n>기타향신료</div_n>
+    <comp_nm>한빛</comp_nm>
+    <img_prod_nm>한빛향료 민트향HF-17465 30G</img_prod_nm>
+    <volume>30G</volume>
+    <barcd>8809242176533</barcd>
+    <width>3</width>
+    <length />
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/25113_한빛향료민트향HF-1746530G/</folder>
+    <filename>25113_00_s_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/25113_한빛향료민트향HF-1746530G/25113_00_s_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>한빛향료민트향HF-1746530G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>928</xmin>
+        <ymin>157</ymin>
+        <xmax>1700</xmax>
+        <ymax>2880</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

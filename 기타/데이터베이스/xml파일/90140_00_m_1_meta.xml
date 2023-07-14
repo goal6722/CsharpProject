@@ -1,0 +1,74 @@
+<comp_cd>
+  0596
+  <identifier>
+    <identifier>90140_00_m_1.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>05960300017</item_cd>
+    <item_no>90140</item_no>
+    <div_l>면류</div_l>
+    <div_m>봉지면</div_m>
+    <div_s>비빔봉지라면</div_s>
+    <div_n>파스타</div_n>
+    <comp_nm>삼양식품</comp_nm>
+    <img_prod_nm>삼양크림까르보불닭볶음면(봉지)130G</img_prod_nm>
+    <volume>140G</volume>
+    <barcd>8801073114784</barcd>
+    <width>18</width>
+    <length />
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"140","총내용량(g)":"140","총내용량(mL)":"0","에너지(㎉)":"555","단백질(g)":"10","지방(g)":"18","탄수화물(g)":"88","총당류(g)":"11","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"1500","비타민":"0","콜레스테롤(㎎)":"10","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/90140_삼양크림까르보불닭볶음면(봉지)130G/</folder>
+    <filename>90140_00_m_1.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/90140_삼양크림까르보불닭볶음면(봉지)130G/90140_00_m_1.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>삼양크림까르보불닭볶음면(봉지)130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>210</xmin>
+        <ymin>1040</ymin>
+        <xmax>1747</xmax>
+        <ymax>2208</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>삼양크림까르보불닭볶음면(봉지)130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1073</xmin>
+        <ymin>1110</ymin>
+        <xmax>2242</xmax>
+        <ymax>2097</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>삼양크림까르보불닭볶음면(봉지)130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1518</xmin>
+        <ymin>1156</ymin>
+        <xmax>2590</xmax>
+        <ymax>2034</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

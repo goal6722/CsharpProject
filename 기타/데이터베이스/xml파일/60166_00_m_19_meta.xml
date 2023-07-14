@@ -1,0 +1,50 @@
+<comp_cd>
+  1010
+  <identifier>
+    <identifier>60166_00_m_19.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>10101300002</item_cd>
+    <item_no>60166</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>잎차</div_s>
+    <div_n>보이차</div_n>
+    <comp_nm>우리차</comp_nm>
+    <img_prod_nm>우리차보이차24G</img_prod_nm>
+    <volume>24G</volume>
+    <barcd>8809049860376</barcd>
+    <width>15</width>
+    <length>10</length>
+    <height>8</height>
+    <nutrition_info>{"1회제공량":"0.6","총내용량(g)":"24","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/60166_우리차보이차24G/</folder>
+    <filename>60166_00_m_19.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/60166_우리차보이차24G/60166_00_m_19.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>우리차보이차24G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>786</xmin>
+        <ymin>1185</ymin>
+        <xmax>1957</xmax>
+        <ymax>1866</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

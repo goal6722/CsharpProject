@@ -1,0 +1,62 @@
+<comp_cd>
+  0153
+  <identifier>
+    <identifier>60108_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>01530300026</item_cd>
+    <item_no>60108</item_no>
+    <div_l>면류</div_l>
+    <div_m>용기면</div_m>
+    <div_s>국물용기라면</div_s>
+    <div_n>일반라면</div_n>
+    <comp_nm>농심</comp_nm>
+    <img_prod_nm>농심새우탕큰사발115G</img_prod_nm>
+    <volume>115G</volume>
+    <barcd>8801043015967</barcd>
+    <width>14</width>
+    <length />
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"115","총내용량(g)":"115","총내용량(mL)":"0","에너지(㎉)":"510","단백질(g)":"10","지방(g)":"8","탄수화물(g)":"77","총당류(g)":"5","총 식이섬유(g)":"0","칼슘(㎎)":"149","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"1590","비타민":"0","콜레스테롤(㎎)":"10","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/60108_농심새우탕큰사발115G/</folder>
+    <filename>60108_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/60108_농심새우탕큰사발115G/60108_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>농심새우탕큰사발115G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1518</xmin>
+        <ymin>952</ymin>
+        <xmax>2657</xmax>
+        <ymax>1894</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>농심새우탕큰사발115G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1063</xmin>
+        <ymin>1086</ymin>
+        <xmax>1840</xmax>
+        <ymax>1815</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

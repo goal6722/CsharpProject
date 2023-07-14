@@ -1,0 +1,74 @@
+<comp_cd>
+  1274
+  <identifier>
+    <identifier>30026_0_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12740900042</item_cd>
+    <item_no>30026</item_no>
+    <div_l>음료</div_l>
+    <div_m>기능성음료</div_m>
+    <div_s>식이섬유음료</div_s>
+    <div_n>식이섬유음료</div_n>
+    <comp_nm>코카콜라음료</comp_nm>
+    <img_prod_nm>코카암바사345ML</img_prod_nm>
+    <volume>345ML</volume>
+    <barcd>8801094253103</barcd>
+    <width>6</width>
+    <length />
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"345","에너지(㎉)":"181","단백질(g)":"1.2","지방(g)":"","탄수화물(g)":"44","총당류(g)":"42","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"24","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30026_코카암바사345ML/</folder>
+    <filename>30026_0_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30026_코카암바사345ML/30026_0_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>코카암바사345ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1901</xmin>
+        <ymin>540</ymin>
+        <xmax>2842</xmax>
+        <ymax>2385</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카암바사345ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1034</xmin>
+        <ymin>588</ymin>
+        <xmax>1890</xmax>
+        <ymax>2328</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카암바사345ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>227</xmin>
+        <ymin>616</ymin>
+        <xmax>1044</xmax>
+        <ymax>2267</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

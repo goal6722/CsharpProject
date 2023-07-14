@@ -1,0 +1,74 @@
+<comp_cd>
+  1274
+  <identifier>
+    <identifier>20154_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12740900030</item_cd>
+    <item_no>20154</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>코카콜라음료</comp_nm>
+    <img_prod_nm>조지아오리지날350ML</img_prod_nm>
+    <volume>350ML</volume>
+    <barcd>8801094502201</barcd>
+    <width>6</width>
+    <length />
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"350","에너지(㎉)":"127","단백질(g)":"1.6","지방(g)":"1","탄수화물(g)":"28","총당류(g)":"26","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"83","비타민":"","콜레스테롤(㎎)":"3","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20154_조지아오리지날350ML/</folder>
+    <filename>20154_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20154_조지아오리지날350ML/20154_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>조지아오리지날350ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1648</xmin>
+        <ymin>129</ymin>
+        <xmax>2432</xmax>
+        <ymax>2842</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>조지아오리지날350ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1115</xmin>
+        <ymin>266</ymin>
+        <xmax>1772</xmax>
+        <ymax>2671</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>조지아오리지날350ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>704</xmin>
+        <ymin>381</ymin>
+        <xmax>1292</xmax>
+        <ymax>2538</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

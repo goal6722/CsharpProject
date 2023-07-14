@@ -1,0 +1,62 @@
+<comp_cd>
+  1520
+  <identifier>
+    <identifier>60282_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>15200100020</item_cd>
+    <item_no>60282</item_no>
+    <div_l>과자</div_l>
+    <div_m>스낵</div_m>
+    <div_s>감자스낵</div_s>
+    <div_n>감자스낵</div_n>
+    <comp_nm>홈플러스</comp_nm>
+    <img_prod_nm>심플러스 오리지날 감자칩 치즈</img_prod_nm>
+    <volume>112G</volume>
+    <barcd>9555727907060</barcd>
+    <width>7</width>
+    <length />
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"110","총내용량(mL)":"0","에너지(㎉)":"525","단백질(g)":"6","지방(g)":"29","탄수화물(g)":"60","총당류(g)":"2.6","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"830","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/60282_심플러스오리지날감자칩치즈/</folder>
+    <filename>60282_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/60282_심플러스오리지날감자칩치즈/60282_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>심플러스오리지날감자칩치즈</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>782</xmin>
+        <ymin>346</ymin>
+        <xmax>1545</xmax>
+        <ymax>2737</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>심플러스오리지날감자칩치즈</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1451</xmin>
+        <ymin>424</ymin>
+        <xmax>2061</xmax>
+        <ymax>2626</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

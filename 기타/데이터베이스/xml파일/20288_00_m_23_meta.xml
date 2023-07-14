@@ -1,0 +1,74 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>20288_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>09750700034</item_cd>
+    <item_no>20288</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>양념소스</div_s>
+    <div_n>양념소스</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기 참깨돈까스소스 470G</img_prod_nm>
+    <volume>470G</volume>
+    <barcd>8801045120652</barcd>
+    <width>6</width>
+    <length />
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/20288_오뚜기참깨돈까스소스470G/</folder>
+    <filename>20288_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/20288_오뚜기참깨돈까스소스470G/20288_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기참깨돈까스소스470G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>577</xmin>
+        <ymin>138</ymin>
+        <xmax>1319</xmax>
+        <ymax>2845</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기참깨돈까스소스470G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1747</xmin>
+        <ymin>313</ymin>
+        <xmax>2368</xmax>
+        <ymax>2558</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기참깨돈까스소스470G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1173</xmin>
+        <ymin>244</ymin>
+        <xmax>1856</xmax>
+        <ymax>2677</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

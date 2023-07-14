@@ -1,0 +1,74 @@
+<comp_cd>
+  1274
+  <identifier>
+    <identifier>10036_0_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12740900010</item_cd>
+    <item_no>10036</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>콜라</div_s>
+    <div_n>콜라</div_n>
+    <comp_nm>코카콜라음료</comp_nm>
+    <img_prod_nm>코카콜라)코카콜라350ML</img_prod_nm>
+    <volume>350ML</volume>
+    <barcd>8801094017200</barcd>
+    <width>7</width>
+    <length>7</length>
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"350","에너지(㎉)":"148","단백질(g)":"","지방(g)":"","탄수화물(g)":"37","총당류(g)":"37","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"11","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/10036_코카콜라)코카콜라350ML/</folder>
+    <filename>10036_0_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/10036_코카콜라)코카콜라350ML/10036_0_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>코카콜라)코카콜라350ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>162</xmin>
+        <ymin>540</ymin>
+        <xmax>1058</xmax>
+        <ymax>2281</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카콜라)코카콜라350ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1027</xmin>
+        <ymin>525</ymin>
+        <xmax>1954</xmax>
+        <ymax>2328</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카콜라)코카콜라350ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1962</xmin>
+        <ymin>481</ymin>
+        <xmax>2963</xmax>
+        <ymax>2401</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

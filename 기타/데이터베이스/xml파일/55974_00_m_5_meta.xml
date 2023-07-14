@@ -1,0 +1,62 @@
+<comp_cd>
+  1117
+  <identifier>
+    <identifier>55974_00_m_5.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>11170700010</item_cd>
+    <item_no>55974</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>구강용품</div_s>
+    <div_n>칫솔</div_n>
+    <comp_nm>전원식품</comp_nm>
+    <img_prod_nm>전원식품)요리하다국산보리100%로만든엿기름가루</img_prod_nm>
+    <volume>500G</volume>
+    <barcd>8803612001883</barcd>
+    <width>16</width>
+    <length>8</length>
+    <height>26</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"500","총내용량(mL)":"","에너지(㎉)":"373","단백질(g)":"11","지방(g)":"1","탄수화물(g)":"79","총당류(g)":"36","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"24","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"1",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/55974_전원식품)요리하다국산보리100_로만든엿기름가루/</folder>
+    <filename>55974_00_m_5.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/55974_전원식품)요리하다국산보리100_로만든엿기름가루/55974_00_m_5.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>전원식품)요리하다국산보리100_로만든엿기름가루</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1428</xmin>
+        <ymin>429</ymin>
+        <xmax>2536</xmax>
+        <ymax>2665</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>전원식품)요리하다국산보리100_로만든엿기름가루</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>910</xmin>
+        <ymin>646</ymin>
+        <xmax>1519</xmax>
+        <ymax>2305</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

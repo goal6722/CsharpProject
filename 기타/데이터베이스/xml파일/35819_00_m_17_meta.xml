@@ -1,0 +1,62 @@
+<comp_cd>
+  0372
+  <identifier>
+    <identifier>35819_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>03720100006</item_cd>
+    <item_no>35819</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>캐러멜</div_s>
+    <div_n>캐러멜</div_n>
+    <comp_nm>매크로통상</comp_nm>
+    <img_prod_nm>매크로통상)모리나가아즈키카라멜</img_prod_nm>
+    <volume>149G</volume>
+    <barcd>4902888175985</barcd>
+    <width>8</width>
+    <length>4</length>
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"149","총내용량(g)":"149","총내용량(mL)":"0","에너지(㎉)":"620","단백질(g)":"6.71","지방(g)":"14.9","탄수화물(g)":"114.73","총당류(g)":"102.96","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"153.47","비타민":"0","콜레스테롤(㎎)":"8.94","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/35819_매크로통상)모리나가아즈키카라멜/</folder>
+    <filename>35819_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/35819_매크로통상)모리나가아즈키카라멜/35819_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>매크로통상)모리나가아즈키카라멜</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1308</xmin>
+        <ymin>57</ymin>
+        <xmax>2551</xmax>
+        <ymax>2909</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>매크로통상)모리나가아즈키카라멜</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>807</xmin>
+        <ymin>378</ymin>
+        <xmax>1509</xmax>
+        <ymax>2659</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

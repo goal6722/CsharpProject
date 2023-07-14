@@ -1,0 +1,74 @@
+<comp_cd>
+  0977
+  <identifier>
+    <identifier>60126_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>09770100083</item_cd>
+    <item_no>60126</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>젤리</div_s>
+    <div_n>젤리</div_n>
+    <comp_nm>오리온</comp_nm>
+    <img_prod_nm>오리온마이구미1P66G</img_prod_nm>
+    <volume>66G</volume>
+    <barcd>8801117339708</barcd>
+    <width>10</width>
+    <length>14</length>
+    <height />
+    <nutrition_info>{"1회제공량":"66","총내용량(g)":"66","총내용량(mL)":"0","에너지(㎉)":"222","단백질(g)":"5","지방(g)":"1.6","탄수화물(g)":"47","총당류(g)":"40","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"25","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/60126_오리온마이구미1P66G/</folder>
+    <filename>60126_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/60126_오리온마이구미1P66G/60126_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오리온마이구미1P66G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>202</xmin>
+        <ymin>967</ymin>
+        <xmax>969</xmax>
+        <ymax>2106</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오리온마이구미1P66G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>998</xmin>
+        <ymin>980</ymin>
+        <xmax>1622</xmax>
+        <ymax>2030</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오리온마이구미1P66G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1609</xmin>
+        <ymin>999</ymin>
+        <xmax>2175</xmax>
+        <ymax>1971</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

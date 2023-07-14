@@ -1,0 +1,62 @@
+<comp_cd>
+  0277
+  <identifier>
+    <identifier>55476_00_m_2.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>02770100002</item_cd>
+    <item_no>55476</item_no>
+    <div_l>과자</div_l>
+    <div_m>아이스크림</div_m>
+    <div_s>구슬아이스크림</div_s>
+    <div_n>구슬아이스크림</div_n>
+    <comp_nm>디펜다트</comp_nm>
+    <img_prod_nm>디펜다트리오큐씨페퍼민트향</img_prod_nm>
+    <volume>14.8G</volume>
+    <barcd>7640122994301</barcd>
+    <width>8</width>
+    <length>5</length>
+    <height>2</height>
+    <nutrition_info>{"1회제공량":"14.8","총내용량(g)":"14.8","총내용량(mL)":"0","에너지(㎉)":"35","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"14","총당류(g)":"0","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"0","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/55476_디펜다트리오큐씨페퍼민트향/</folder>
+    <filename>55476_00_m_2.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/55476_디펜다트리오큐씨페퍼민트향/55476_00_m_2.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>디펜다트리오큐씨페퍼민트향</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1451</xmin>
+        <ymin>1357</ymin>
+        <xmax>2804</xmax>
+        <ymax>1749</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>디펜다트리오큐씨페퍼민트향</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>195</xmin>
+        <ymin>1334</ymin>
+        <xmax>1468</xmax>
+        <ymax>1703</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

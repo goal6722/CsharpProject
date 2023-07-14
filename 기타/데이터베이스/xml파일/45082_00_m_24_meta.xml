@@ -1,0 +1,62 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>45082_00_m_24.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00050500052</item_cd>
+    <item_no>45082</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석국/찌개</div_s>
+    <div_n>즉석국/찌개</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ제일제당)비비고돼지고기김치찌개460G</img_prod_nm>
+    <volume>460G</volume>
+    <barcd>8801007761749</barcd>
+    <width>14</width>
+    <length>6</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"460","총내용량(g)":"460","총내용량(mL)":"","에너지(㎉)":"240","단백질(g)":"24","지방(g)":"8","탄수화물(g)":"18","총당류(g)":"7","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"2080","비타민":"","콜레스테롤(㎎)":"45","총 지방산(g)":"8",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/45082_CJ제일제당)비비고돼지고기김치찌개460G/</folder>
+    <filename>45082_00_m_24.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/45082_CJ제일제당)비비고돼지고기김치찌개460G/45082_00_m_24.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ제일제당)비비고돼지고기김치찌개460G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>50</xmin>
+        <ymin>406</ymin>
+        <xmax>1543</xmax>
+        <ymax>2551</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ제일제당)비비고돼지고기김치찌개460G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1548</xmin>
+        <ymin>522</ymin>
+        <xmax>2673</xmax>
+        <ymax>2469</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

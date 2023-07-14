@@ -1,0 +1,62 @@
+<comp_cd>
+  0307
+  <identifier>
+    <identifier>15296_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    14
+    <item_cd>03071400007</item_cd>
+    <item_no>15296</item_no>
+    <div_l>통조림/안주</div_l>
+    <div_m>통조림</div_m>
+    <div_s>가미통조림</div_s>
+    <div_n>옥수수/반찬통조림</div_n>
+    <comp_nm>롯데햄</comp_nm>
+    <img_prod_nm>롯데햄 장조림80G(단품)</img_prod_nm>
+    <volume>80G</volume>
+    <barcd>8801123600519</barcd>
+    <width>7</width>
+    <length>7</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"80","총내용량(g)":"80","총내용량(mL)":"0","에너지(㎉)":"80","단백질(g)":"12","지방(g)":"3.5","탄수화물(g)":"1","총당류(g)":"1","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"520","비타민":"0","콜레스테롤(㎎)":"30","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/15296_롯데햄장조림80G(단품)/</folder>
+    <filename>15296_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/15296_롯데햄장조림80G(단품)/15296_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데햄장조림80G(단품)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>338</xmin>
+        <ymin>1496</ymin>
+        <xmax>1590</xmax>
+        <ymax>2085</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데햄장조림80G(단품)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1555</xmin>
+        <ymin>1478</ymin>
+        <xmax>2714</xmax>
+        <ymax>2023</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

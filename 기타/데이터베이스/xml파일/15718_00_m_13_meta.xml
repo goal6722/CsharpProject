@@ -1,0 +1,62 @@
+<comp_cd>
+  1069
+  <identifier>
+    <identifier>15718_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>10690500002</item_cd>
+    <item_no>15718</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석국/찌개</div_s>
+    <div_n>즉석국/찌개</div_n>
+    <comp_nm>이마트</comp_nm>
+    <img_prod_nm>이마트 피코크 정갈한오징어무국 500G</img_prod_nm>
+    <volume>500G</volume>
+    <barcd>8809676687728</barcd>
+    <width>14</width>
+    <length>7</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"500","총내용량(g)":"500","총내용량(mL)":"","에너지(㎉)":"95","단백질(g)":"11","지방(g)":"3.3","탄수화물(g)":"5","총당류(g)":"5","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1970","비타민":"","콜레스테롤(㎎)":"600","총 지방산(g)":"3.3",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15718_이마트피코크정갈한오징어무국500G/</folder>
+    <filename>15718_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15718_이마트피코크정갈한오징어무국500G/15718_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>이마트피코크정갈한오징어무국500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>194</xmin>
+        <ymin>674</ymin>
+        <xmax>1470</xmax>
+        <ymax>2475</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>이마트피코크정갈한오징어무국500G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1484</xmin>
+        <ymin>696</ymin>
+        <xmax>2749</xmax>
+        <ymax>2448</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

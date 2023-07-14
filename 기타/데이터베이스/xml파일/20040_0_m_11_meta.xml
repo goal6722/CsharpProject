@@ -1,0 +1,74 @@
+<comp_cd>
+  0011
+  <identifier>
+    <identifier>20040_0_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>00110900001</item_cd>
+    <item_no>20040</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>혼합탄산</div_s>
+    <div_n>혼합탄산</div_n>
+    <comp_nm>GS리테일</comp_nm>
+    <img_prod_nm>GS리테일스파클링요구르트350ML</img_prod_nm>
+    <volume>350ML</volume>
+    <barcd>8809351209368</barcd>
+    <width>6</width>
+    <length />
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"350","에너지(㎉)":"165","단백질(g)":"1","지방(g)":"","탄수화물(g)":"40","총당류(g)":"39","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"47","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20040_GS리테일스파클링요구르트350ML/</folder>
+    <filename>20040_0_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20040_GS리테일스파클링요구르트350ML/20040_0_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>GS리테일스파클링요구르트350ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>242</xmin>
+        <ymin>143</ymin>
+        <xmax>1170</xmax>
+        <ymax>2826</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>GS리테일스파클링요구르트350ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1099</xmin>
+        <ymin>274</ymin>
+        <xmax>1896</xmax>
+        <ymax>2703</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>GS리테일스파클링요구르트350ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1785</xmin>
+        <ymin>378</ymin>
+        <xmax>2509</xmax>
+        <ymax>2606</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

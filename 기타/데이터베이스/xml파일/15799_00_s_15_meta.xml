@@ -1,0 +1,50 @@
+<comp_cd>
+  1531
+  <identifier>
+    <identifier>15799_00_s_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>15310100002</item_cd>
+    <item_no>15799</item_no>
+    <div_l>과자</div_l>
+    <div_m>비스킷</div_m>
+    <div_s>샌드</div_s>
+    <div_n>샌드</div_n>
+    <comp_nm>훼미리인터내셔날</comp_nm>
+    <img_prod_nm>훼밀리인터내셔날 야미바닐라향비스킷178G</img_prod_nm>
+    <volume>178G</volume>
+    <barcd>8901972067195</barcd>
+    <width>25</width>
+    <length>4</length>
+    <height>6</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"178","총내용량(mL)":"0","에너지(㎉)":"480","단백질(g)":"5","지방(g)":"18","탄수화물(g)":"74","총당류(g)":"35","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"240","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15799_훼밀리인터내셔날야미바닐라향비스킷178G/</folder>
+    <filename>15799_00_s_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15799_훼밀리인터내셔날야미바닐라향비스킷178G/15799_00_s_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>훼밀리인터내셔날야미바닐라향비스킷178G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>506</xmin>
+        <ymin>1191</ymin>
+        <xmax>2627</xmax>
+        <ymax>1823</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

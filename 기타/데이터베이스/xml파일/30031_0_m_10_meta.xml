@@ -1,0 +1,74 @@
+<comp_cd>
+  0551
+  <identifier>
+    <identifier>30031_0_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>05510900004</item_cd>
+    <item_no>30031</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>혼합탄산</div_s>
+    <div_n>혼합탄산</div_n>
+    <comp_nm>빙그레</comp_nm>
+    <img_prod_nm>빙그레따옴석류크랜베리235ML</img_prod_nm>
+    <volume>235ML;</volume>
+    <barcd>8801104663823</barcd>
+    <width>5</width>
+    <length />
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"235","에너지(㎉)":"105","단백질(g)":"","지방(g)":"","탄수화물(g)":"26","총당류(g)":"24","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"45","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30031_빙그레따옴석류크랜베리235ML/</folder>
+    <filename>30031_0_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30031_빙그레따옴석류크랜베리235ML/30031_0_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>빙그레따옴석류크랜베리235ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>552</xmin>
+        <ymin>199</ymin>
+        <xmax>1346</xmax>
+        <ymax>2819</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>빙그레따옴석류크랜베리235ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1184</xmin>
+        <ymin>289</ymin>
+        <xmax>1875</xmax>
+        <ymax>2659</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>빙그레따옴석류크랜베리235ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1704</xmin>
+        <ymin>359</ymin>
+        <xmax>2317</xmax>
+        <ymax>2523</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

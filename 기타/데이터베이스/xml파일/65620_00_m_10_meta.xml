@@ -1,0 +1,50 @@
+<comp_cd>
+  0301
+  <identifier>
+    <identifier>65620_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>03010100133</item_cd>
+    <item_no>65620</item_no>
+    <div_l>과자</div_l>
+    <div_m>파이류</div_m>
+    <div_s>케이크</div_s>
+    <div_n>케이크</div_n>
+    <comp_nm>롯데제과</comp_nm>
+    <img_prod_nm>롯데제과허쉬리치초콜릿케이크6봉입</img_prod_nm>
+    <volume>126G</volume>
+    <barcd>8801062888146</barcd>
+    <width>19</width>
+    <length>6</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"21","총내용량(g)":"126","총내용량(mL)":"0","에너지(㎉)":"102","단백질(g)":"1","지방(g)":"6","탄수화물(g)":"11","총당류(g)":"8","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"55","비타민":"0","콜레스테롤(㎎)":"15","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/65620_롯데제과허쉬리치초콜릿케이크6봉입/</folder>
+    <filename>65620_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/65620_롯데제과허쉬리치초콜릿케이크6봉입/65620_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데제과허쉬리치초콜릿케이크6봉입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>912</xmin>
+        <ymin>600</ymin>
+        <xmax>2491</xmax>
+        <ymax>2303</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

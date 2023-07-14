@@ -1,0 +1,62 @@
+<comp_cd>
+  1117
+  <identifier>
+    <identifier>55074_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>11170700008</item_cd>
+    <item_no>55074</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>가곡분말류</div_m>
+    <div_s>곡물가루</div_s>
+    <div_n>곡물가루</div_n>
+    <comp_nm>전원식품</comp_nm>
+    <img_prod_nm>전원식품엿기름가루300G</img_prod_nm>
+    <volume>300G</volume>
+    <barcd>8803612001630</barcd>
+    <width>9</width>
+    <length>9</length>
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"300","총내용량(mL)":"","에너지(㎉)":"365","단백질(g)":"11","지방(g)":"1","탄수화물(g)":"77","총당류(g)":"2","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"24","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"1",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/55074_전원식품엿기름가루300G/</folder>
+    <filename>55074_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/55074_전원식품엿기름가루300G/55074_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>전원식품엿기름가루300G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1470</xmin>
+        <ymin>549</ymin>
+        <xmax>2867</xmax>
+        <ymax>2439</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>전원식품엿기름가루300G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>349</xmin>
+        <ymin>638</ymin>
+        <xmax>1485</xmax>
+        <ymax>2347</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

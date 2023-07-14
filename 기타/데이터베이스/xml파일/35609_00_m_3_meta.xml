@@ -1,0 +1,62 @@
+<comp_cd>
+  0846
+  <identifier>
+    <identifier>35609_00_m_3.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>08460900001</item_cd>
+    <item_no>35609</item_no>
+    <div_l>음료</div_l>
+    <div_m>생수</div_m>
+    <div_s>일반생수</div_s>
+    <div_n>일반생수</div_n>
+    <comp_nm>아쿠아리어스</comp_nm>
+    <img_prod_nm>아쿠아리어스 골드메달스파클링애플주스 296ML</img_prod_nm>
+    <volume>296ML</volume>
+    <barcd>041244001057</barcd>
+    <width>6</width>
+    <length />
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"296","에너지(㎉)":"180","단백질(g)":"","지방(g)":"","탄수화물(g)":"43","총당류(g)":"39","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35609_아쿠아리어스골드메달스파클링애플주스296ML/</folder>
+    <filename>35609_00_m_3.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35609_아쿠아리어스골드메달스파클링애플주스296ML/35609_00_m_3.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>아쿠아리어스골드메달스파클링애플주스296ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1400</xmin>
+        <ymin>128</ymin>
+        <xmax>2242</xmax>
+        <ymax>2783</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>아쿠아리어스골드메달스파클링애플주스296ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>697</xmin>
+        <ymin>209</ymin>
+        <xmax>1484</xmax>
+        <ymax>2714</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

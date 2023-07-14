@@ -1,0 +1,62 @@
+<comp_cd>
+  0406
+  <identifier>
+    <identifier>45120_00_m_4.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>04060800001</item_cd>
+    <item_no>45120</item_no>
+    <div_l>유제품</div_l>
+    <div_m>치즈</div_m>
+    <div_s>생치즈</div_s>
+    <div_n>생치즈</div_n>
+    <comp_nm>미국</comp_nm>
+    <img_prod_nm>미국)콜비잭치즈227G</img_prod_nm>
+    <volume>227G</volume>
+    <barcd>051934721233</barcd>
+    <width>19</width>
+    <length>9</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"227","총내용량(mL)":"","에너지(㎉)":"381","단백질(g)":"23.68","지방(g)":"0","탄수화물(g)":"1.88","총당류(g)":"0.5","총 식이섬유(g)":"0","칼슘(㎎)":"","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"618.54","비타민":"0","콜레스테롤(㎎)":"99.28","총 지방산(g)":"50",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/45120_미국)콜비잭치즈227G/</folder>
+    <filename>45120_00_m_4.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/45120_미국)콜비잭치즈227G/45120_00_m_4.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>미국)콜비잭치즈227G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>684</xmin>
+        <ymin>1189</ymin>
+        <xmax>1597</xmax>
+        <ymax>1767</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>미국)콜비잭치즈227G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1472</xmin>
+        <ymin>1111</ymin>
+        <xmax>2840</xmax>
+        <ymax>1821</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

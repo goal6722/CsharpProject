@@ -1,0 +1,62 @@
+<comp_cd>
+  1065
+  <identifier>
+    <identifier>15391_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>10650700001</item_cd>
+    <item_no>15391</item_no>
+    <div_l>소스</div_l>
+    <div_m>장류</div_m>
+    <div_s>된장</div_s>
+    <div_n>된장</div_n>
+    <comp_nm>은화식품</comp_nm>
+    <img_prod_nm>은화식품아와세미소</img_prod_nm>
+    <volume>1KG</volume>
+    <barcd>4901033149024</barcd>
+    <width>10</width>
+    <length>7</length>
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"15","총내용량(g)":"1000","총내용량(mL)":"","에너지(㎉)":"28","단백질(g)":"2","지방(g)":"","탄수화물(g)":"3","총당류(g)":"1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"730","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"0.9",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/15391_은화식품아와세미소/</folder>
+    <filename>15391_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/15391_은화식품아와세미소/15391_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>은화식품아와세미소</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1348</xmin>
+        <ymin>547</ymin>
+        <xmax>2742</xmax>
+        <ymax>2367</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>은화식품아와세미소</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>922</xmin>
+        <ymin>711</ymin>
+        <xmax>1832</xmax>
+        <ymax>2142</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

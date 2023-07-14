@@ -1,0 +1,74 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>80178_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00050500073</item_cd>
+    <item_no>80178</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석밥</div_s>
+    <div_n>즉석밥</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ햇반컵반버터장조림비빔밥216g</img_prod_nm>
+    <volume>216g</volume>
+    <barcd>8801007732466</barcd>
+    <width>10</width>
+    <length />
+    <height>9</height>
+    <nutrition_info>{"1회제공량":"216","총내용량(g)":"216","총내용량(mL)":"","에너지(㎉)":"340","단백질(g)":"12","지방(g)":"6","탄수화물(g)":"60","총당류(g)":"3","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"740","비타민":"","콜레스테롤(㎎)":"55","총 지방산(g)":"6",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/80178_CJ햇반컵반버터장조림비빔밥216g/</folder>
+    <filename>80178_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/80178_CJ햇반컵반버터장조림비빔밥216g/80178_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ햇반컵반버터장조림비빔밥216g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>147</xmin>
+        <ymin>1189</ymin>
+        <xmax>1198</xmax>
+        <ymax>1951</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ햇반컵반버터장조림비빔밥216g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1075</xmin>
+        <ymin>1219</ymin>
+        <xmax>1837</xmax>
+        <ymax>1848</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ햇반컵반버터장조림비빔밥216g</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1696</xmin>
+        <ymin>1246</ymin>
+        <xmax>2283</xmax>
+        <ymax>1779</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

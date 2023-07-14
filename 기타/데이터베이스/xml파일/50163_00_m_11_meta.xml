@@ -1,0 +1,74 @@
+<comp_cd>
+  1356
+  <identifier>
+    <identifier>50163_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>13560900004</item_cd>
+    <item_no>50163</item_no>
+    <div_l>음료</div_l>
+    <div_m>기능성음료</div_m>
+    <div_s>비타민/에너지음료</div_s>
+    <div_n>비타민/에너지음료</div_n>
+    <comp_nm>팔도</comp_nm>
+    <img_prod_nm>팔도비락식혜1.8L</img_prod_nm>
+    <volume>1.8L</volume>
+    <barcd>8801128943406</barcd>
+    <width>9</width>
+    <length>9</length>
+    <height>28</height>
+    <nutrition_info>{"1회제공량":"200","총내용량(g)":"0","총내용량(mL)":"1800","에너지(㎉)":"65","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"16","총당류(g)":"14","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"5","비타민":"0","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/50163_팔도비락식혜1.8L/</folder>
+    <filename>50163_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/50163_팔도비락식혜1.8L/50163_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>팔도비락식혜1.8L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>337</xmin>
+        <ymin>408</ymin>
+        <xmax>1185</xmax>
+        <ymax>2625</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>팔도비락식혜1.8L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1068</xmin>
+        <ymin>527</ymin>
+        <xmax>1791</xmax>
+        <ymax>2513</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>팔도비락식혜1.8L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1628</xmin>
+        <ymin>610</ymin>
+        <xmax>2295</xmax>
+        <ymax>2429</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

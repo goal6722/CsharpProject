@@ -1,0 +1,62 @@
+<comp_cd>
+  0413
+  <identifier>
+    <identifier>35366_00_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>04130900001</item_cd>
+    <item_no>35366</item_no>
+    <div_l>음료</div_l>
+    <div_m>소스류</div_m>
+    <div_s>고추장</div_s>
+    <div_n>고추장</div_n>
+    <comp_nm>미성패밀리</comp_nm>
+    <img_prod_nm>미성엠에스레몬</img_prod_nm>
+    <volume>1L</volume>
+    <barcd>8809256674698</barcd>
+    <width>9</width>
+    <length />
+    <height>23</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"1000","에너지(㎉)":"42","단백질(g)":"0.6","지방(g)":"","탄수화물(g)":"10","총당류(g)":"3","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35366_미성엠에스레몬/</folder>
+    <filename>35366_00_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35366_미성엠에스레몬/35366_00_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>미성엠에스레몬</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>588</xmin>
+        <ymin>255</ymin>
+        <xmax>1527</xmax>
+        <ymax>2702</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>미성엠에스레몬</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1527</xmin>
+        <ymin>268</ymin>
+        <xmax>2451</xmax>
+        <ymax>2681</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>35253_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>00050700016</item_cd>
+    <item_no>35253</item_no>
+    <div_l>소스</div_l>
+    <div_m>식용유</div_m>
+    <div_s>참기름/들기름</div_s>
+    <div_n>참기름/들기름</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ제일제당)진한참기름500ML</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8801007440750</barcd>
+    <width>10</width>
+    <length>5</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"","총내용량(mL)":"500","에너지(㎉)":"900","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"100",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/35253_CJ제일제당)진한참기름500ML/</folder>
+    <filename>35253_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/35253_CJ제일제당)진한참기름500ML/35253_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ제일제당)진한참기름500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>382</xmin>
+        <ymin>506</ymin>
+        <xmax>1617</xmax>
+        <ymax>2743</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ제일제당)진한참기름500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1582</xmin>
+        <ymin>630</ymin>
+        <xmax>2525</xmax>
+        <ymax>2610</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

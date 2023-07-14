@@ -1,0 +1,62 @@
+<comp_cd>
+  0964
+  <identifier>
+    <identifier>25196_00_m_17.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>09640800001</item_cd>
+    <item_no>25196</item_no>
+    <div_l>유제품</div_l>
+    <div_m>치즈</div_m>
+    <div_s>체다치즈</div_s>
+    <div_n>체다치즈</div_n>
+    <comp_nm>영홍식품</comp_nm>
+    <img_prod_nm>영홍식품)엘사보르나쵸앤딥치즈175G</img_prod_nm>
+    <volume>175G</volume>
+    <barcd>5202175019831</barcd>
+    <width>20</width>
+    <length>10</length>
+    <height>7</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"175","총내용량(mL)":"","에너지(㎉)":"660","단백질(g)":"10","지방(g)":"36","탄수화물(g)":"73","총당류(g)":"3","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"2400","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/25196_영홍식품)엘사보르나쵸앤딥치즈175G/</folder>
+    <filename>25196_00_m_17.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/25196_영홍식품)엘사보르나쵸앤딥치즈175G/25196_00_m_17.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>영홍식품)엘사보르나쵸앤딥치즈175G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1247</xmin>
+        <ymin>1236</ymin>
+        <xmax>2699</xmax>
+        <ymax>1906</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>영홍식품)엘사보르나쵸앤딥치즈175G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>793</xmin>
+        <ymin>1263</ymin>
+        <xmax>1611</xmax>
+        <ymax>1759</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

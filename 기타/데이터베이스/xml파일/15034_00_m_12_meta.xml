@@ -1,0 +1,50 @@
+<comp_cd>
+  1493
+  <identifier>
+    <identifier>15034_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>14930100001</item_cd>
+    <item_no>15034</item_no>
+    <div_l>과자</div_l>
+    <div_m>파이류</div_m>
+    <div_s>파이</div_s>
+    <div_n>파이</div_n>
+    <comp_nm>해태</comp_nm>
+    <img_prod_nm>해태 오예스 콜드브루 360G</img_prod_nm>
+    <volume>360G</volume>
+    <barcd>8801019314834</barcd>
+    <width>24</width>
+    <length>5</length>
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"30","총내용량(g)":"135","총내용량(mL)":"0","에너지(㎉)":"135","단백질(g)":"2","지방(g)":"7","탄수화물(g)":"16","총당류(g)":"9","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"85","비타민":"0","콜레스테롤(㎎)":"15","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15034_해태오예스콜드브루360G/</folder>
+    <filename>15034_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/15034_해태오예스콜드브루360G/15034_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>해태오예스콜드브루360G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>303</xmin>
+        <ymin>666</ymin>
+        <xmax>2181</xmax>
+        <ymax>2389</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

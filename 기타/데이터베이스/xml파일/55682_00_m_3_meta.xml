@@ -1,0 +1,62 @@
+<comp_cd>
+  0814
+  <identifier>
+    <identifier>55682_00_m_3.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>08140100003</item_cd>
+    <item_no>55682</item_no>
+    <div_l>과자</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>과일음료</div_s>
+    <div_n>과일음료</div_n>
+    <comp_nm>씨제이제일제당</comp_nm>
+    <img_prod_nm>씨제이쁘띠첼워터젤리사과</img_prod_nm>
+    <volume>130ML</volume>
+    <barcd>8801007026282</barcd>
+    <width>9</width>
+    <length>4</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"130","총내용량(g)":"0","총내용량(mL)":"130","에너지(㎉)":"100","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"25","총당류(g)":"13","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"15","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/55682_씨제이쁘띠첼워터젤리사과/</folder>
+    <filename>55682_00_m_3.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/55682_씨제이쁘띠첼워터젤리사과/55682_00_m_3.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>씨제이쁘띠첼워터젤리사과</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>613</xmin>
+        <ymin>384</ymin>
+        <xmax>1519</xmax>
+        <ymax>2536</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>씨제이쁘띠첼워터젤리사과</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1503</xmin>
+        <ymin>267</ymin>
+        <xmax>2688</xmax>
+        <ymax>2720</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

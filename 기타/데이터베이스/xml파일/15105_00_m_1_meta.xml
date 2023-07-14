@@ -1,0 +1,62 @@
+<comp_cd>
+  0134
+  <identifier>
+    <identifier>15105_00_m_1.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>01340500001</item_cd>
+    <item_no>15105</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>기타레토르트</div_s>
+    <div_n>기타레토르트</div_n>
+    <comp_nm>네슬레거버</comp_nm>
+    <img_prod_nm>거버 오가닉 2단계 바나나 블루베리 블랙베리 오트밀 99G</img_prod_nm>
+    <volume>99G</volume>
+    <barcd>015000074449</barcd>
+    <width>7</width>
+    <length>4</length>
+    <height>15</height>
+    <nutrition_info>{"1회제공량":"99","총내용량(g)":"99","총내용량(mL)":"","에너지(㎉)":"75","단백질(g)":"1","지방(g)":"0.5","탄수화물(g)":"17","총당류(g)":"11","총 식이섬유(g)":"","칼슘(㎎)":"7","철(㎍)":"0.3","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"180","나트륨(㎎)":"55","비타민":"23","콜레스테롤(㎎)":"0","총 지방산(g)":"0.5",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15105_거버오가닉2단계바나나블루베리블랙베리오트밀99G/</folder>
+    <filename>15105_00_m_1.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/15105_거버오가닉2단계바나나블루베리블랙베리오트밀99G/15105_00_m_1.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>거버오가닉2단계바나나블루베리블랙베리오트밀99G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>534</xmin>
+        <ymin>510</ymin>
+        <xmax>1493</xmax>
+        <ymax>2477</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>거버오가닉2단계바나나블루베리블랙베리오트밀99G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1503</xmin>
+        <ymin>462</ymin>
+        <xmax>2451</xmax>
+        <ymax>2482</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

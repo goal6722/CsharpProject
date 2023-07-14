@@ -1,0 +1,74 @@
+<comp_cd>
+  0553
+  <identifier>
+    <identifier>20197_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>05530500002</item_cd>
+    <item_no>20197</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>기타레토르트</div_s>
+    <div_n>기타레토르트</div_n>
+    <comp_nm>뽀로로매</comp_nm>
+    <img_prod_nm>뽀로로매콤떡볶이120G</img_prod_nm>
+    <volume>120G</volume>
+    <barcd>8809380343392</barcd>
+    <width>7</width>
+    <length />
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"120","총내용량(g)":"120","총내용량(mL)":"","에너지(㎉)":"318.4","단백질(g)":"3.16","지방(g)":"1.87","탄수화물(g)":"72.19","총당류(g)":"10.44","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"801.85","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"1.87",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/20197_뽀로로매콤떡볶이120G/</folder>
+    <filename>20197_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/20197_뽀로로매콤떡볶이120G/20197_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>뽀로로매콤떡볶이120G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>219</xmin>
+        <ymin>1107</ymin>
+        <xmax>1270</xmax>
+        <ymax>2433</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>뽀로로매콤떡볶이120G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1170</xmin>
+        <ymin>1125</ymin>
+        <xmax>1948</xmax>
+        <ymax>2229</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>뽀로로매콤떡볶이120G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1690</xmin>
+        <ymin>1136</ymin>
+        <xmax>2407</xmax>
+        <ymax>2079</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

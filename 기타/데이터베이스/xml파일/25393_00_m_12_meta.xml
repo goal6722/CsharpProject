@@ -1,0 +1,62 @@
+<comp_cd>
+  0153
+  <identifier>
+    <identifier>25393_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>01530100020</item_cd>
+    <item_no>25393</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>소프트캔디</div_s>
+    <div_n>소프트캔디</div_n>
+    <comp_nm>농심</comp_nm>
+    <img_prod_nm>농심 멘토스 요구르트맛 바틀 81G</img_prod_nm>
+    <volume>81G</volume>
+    <barcd>8 935001 721000</barcd>
+    <width>5</width>
+    <length>5</length>
+    <height>8</height>
+    <nutrition_info>{"1회제공량":"81","총내용량(g)":"81","총내용량(mL)":"0","에너지(㎉)":"310","단백질(g)":"0","지방(g)":"1.3","탄수화물(g)":"75","총당류(g)":"59","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"35","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25393_농심멘토스요구르트맛바틀81G/</folder>
+    <filename>25393_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/25393_농심멘토스요구르트맛바틀81G/25393_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>농심멘토스요구르트맛바틀81G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>62</xmin>
+        <ymin>608</ymin>
+        <xmax>1491</xmax>
+        <ymax>2463</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>농심멘토스요구르트맛바틀81G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1342</xmin>
+        <ymin>577</ymin>
+        <xmax>2679</xmax>
+        <ymax>2343</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

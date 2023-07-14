@@ -1,0 +1,62 @@
+<comp_cd>
+  0868
+  <identifier>
+    <identifier>35285_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    14
+    <item_cd>08681400001</item_cd>
+    <item_no>35285</item_no>
+    <div_l>통조림/안주</div_l>
+    <div_m>통조림</div_m>
+    <div_s>가미통조림</div_s>
+    <div_n>옥수수/반찬통조림</div_n>
+    <comp_nm>양포식품</comp_nm>
+    <img_prod_nm>양포식품)우리엄마메추리알장조림130G</img_prod_nm>
+    <volume>130G</volume>
+    <barcd>8801005484824</barcd>
+    <width>11</width>
+    <length>8</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"0","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"","비타민":"0","콜레스테롤(㎎)":"","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/35285_양포식품)우리엄마메추리알장조림130G/</folder>
+    <filename>35285_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/통조림_안주/35285_양포식품)우리엄마메추리알장조림130G/35285_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>양포식품)우리엄마메추리알장조림130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>441</xmin>
+        <ymin>1235</ymin>
+        <xmax>1693</xmax>
+        <ymax>1666</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>양포식품)우리엄마메추리알장조림130G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1518</xmin>
+        <ymin>1249</ymin>
+        <xmax>2742</xmax>
+        <ymax>1656</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

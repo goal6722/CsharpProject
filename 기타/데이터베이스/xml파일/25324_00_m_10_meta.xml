@@ -1,0 +1,62 @@
+<comp_cd>
+  0032
+  <identifier>
+    <identifier>25324_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>00320900001</item_cd>
+    <item_no>25324</item_no>
+    <div_l>음료</div_l>
+    <div_m>기능성음료</div_m>
+    <div_s>기타기능성음료</div_s>
+    <div_n>기타기능성음료</div_n>
+    <comp_nm>갈바니나</comp_nm>
+    <img_prod_nm>갈바니나 스파클링 레몬에이드 355ML</img_prod_nm>
+    <volume>355ML</volume>
+    <barcd>8007885722524</barcd>
+    <width>6</width>
+    <length />
+    <height>24</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"355","에너지(㎉)":"170","단백질(g)":"","지방(g)":"","탄수화물(g)":"43","총당류(g)":"42","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"55","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/25324_갈바니나스파클링레몬에이드355ML/</folder>
+    <filename>25324_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/25324_갈바니나스파클링레몬에이드355ML/25324_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>갈바니나스파클링레몬에이드355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>866</xmin>
+        <ymin>54</ymin>
+        <xmax>1579</xmax>
+        <ymax>2892</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>갈바니나스파클링레몬에이드355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1429</xmin>
+        <ymin>199</ymin>
+        <xmax>1990</xmax>
+        <ymax>2706</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

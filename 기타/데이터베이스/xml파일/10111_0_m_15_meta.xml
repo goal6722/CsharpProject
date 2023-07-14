@@ -1,0 +1,74 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>10111_0_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>09750300003</item_cd>
+    <item_no>10111</item_no>
+    <div_l>면류</div_l>
+    <div_m>용기면</div_m>
+    <div_s>국물용기라면</div_s>
+    <div_n>일반라면</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기컵누들매콤37.8G</img_prod_nm>
+    <volume>37.8G</volume>
+    <barcd>8801045571577</barcd>
+    <width>10</width>
+    <length />
+    <height>10</height>
+    <nutrition_info>{"1회제공량":"37.8","총내용량(g)":"0","총내용량(mL)":"0","에너지(㎉)":"120","단백질(g)":"1","지방(g)":"0","탄수화물(g)":"29","총당류(g)":"3","총 식이섬유(g)":"0.4","칼슘(㎎)":"","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":""0","칼륨(㎎)":"0","나트륨(㎎)":"890","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/10111_오뚜기컵누들매콤37.8G/</folder>
+    <filename>10111_0_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/10111_오뚜기컵누들매콤37.8G/10111_0_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기컵누들매콤37.8G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1844</xmin>
+        <ymin>960</ymin>
+        <xmax>2840</xmax>
+        <ymax>1976</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기컵누들매콤37.8G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1064</xmin>
+        <ymin>996</ymin>
+        <xmax>1892</xmax>
+        <ymax>1896</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기컵누들매콤37.8G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>428</xmin>
+        <ymin>1048</ymin>
+        <xmax>1172</xmax>
+        <ymax>1836</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

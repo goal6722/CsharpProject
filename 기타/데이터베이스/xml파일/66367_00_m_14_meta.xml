@@ -1,0 +1,62 @@
+<comp_cd>
+  0596
+  <identifier>
+    <identifier>66367_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    03
+    <item_cd>05960300018</item_cd>
+    <item_no>66367</item_no>
+    <div_l>면류</div_l>
+    <div_m>봉지면</div_m>
+    <div_s>비빔봉지라면</div_s>
+    <div_n>짜장라면</div_n>
+    <comp_nm>삼양식품</comp_nm>
+    <img_prod_nm>삼양식품맛이차이나짜장면140G</img_prod_nm>
+    <volume>140G</volume>
+    <barcd>8801073114616</barcd>
+    <width>16</width>
+    <length>4</length>
+    <height>14</height>
+    <nutrition_info>{"1회제공량":"140","총내용량(g)":"140","총내용량(mL)":"0","에너지(㎉)":"545","단백질(g)":"13","지방(g)":"16","탄수화물(g)":"87","총당류(g)":"6","총 식이섬유(g)":"0","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"1180","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"16",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/66367_삼양식품맛이차이나짜장면140G/</folder>
+    <filename>66367_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/면류/66367_삼양식품맛이차이나짜장면140G/66367_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>삼양식품맛이차이나짜장면140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1456</xmin>
+        <ymin>820</ymin>
+        <xmax>2728</xmax>
+        <ymax>1937</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>삼양식품맛이차이나짜장면140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>259</xmin>
+        <ymin>948</ymin>
+        <xmax>1426</xmax>
+        <ymax>1901</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

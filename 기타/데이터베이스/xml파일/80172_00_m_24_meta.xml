@@ -1,0 +1,74 @@
+<comp_cd>
+  0005
+  <identifier>
+    <identifier>80172_00_m_24.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>00050500071</item_cd>
+    <item_no>80172</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>즉석국/찌개</div_s>
+    <div_n>즉석컵밥</div_n>
+    <comp_nm>CJ제일제당</comp_nm>
+    <img_prod_nm>CJ햇반컵반순두부찌개국밥173G</img_prod_nm>
+    <volume>173G</volume>
+    <barcd>8801007403168</barcd>
+    <width>10</width>
+    <length />
+    <height>9</height>
+    <nutrition_info>{"1회제공량":"173","총내용량(g)":"173","총내용량(mL)":"","에너지(㎉)":"290","단백질(g)":"7","지방(g)":"3.2","탄수화물(g)":"58","총당류(g)":"2","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"1130","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"3.2",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/80172_CJ햇반컵반순두부찌개국밥173G/</folder>
+    <filename>80172_00_m_24.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/80172_CJ햇반컵반순두부찌개국밥173G/80172_00_m_24.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>CJ햇반컵반순두부찌개국밥173G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>136</xmin>
+        <ymin>1195</ymin>
+        <xmax>1080</xmax>
+        <ymax>1866</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ햇반컵반순두부찌개국밥173G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1881</xmin>
+        <ymin>1202</ymin>
+        <xmax>2719</xmax>
+        <ymax>1807</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>CJ햇반컵반순두부찌개국밥173G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1073</xmin>
+        <ymin>1197</ymin>
+        <xmax>1924</xmax>
+        <ymax>1830</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

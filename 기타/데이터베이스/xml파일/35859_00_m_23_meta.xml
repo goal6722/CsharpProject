@@ -1,0 +1,62 @@
+<comp_cd>
+  1536
+  <identifier>
+    <identifier>35859_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>15361300004</item_cd>
+    <item_no>35859</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>기타</div_s>
+    <div_n>단백질쉐이크</div_n>
+    <comp_nm>흥국에프엔비</comp_nm>
+    <img_prod_nm>흥국에프엔비)푸드쉐이크커피맛</img_prod_nm>
+    <volume>90G</volume>
+    <barcd>8809495071098</barcd>
+    <width>7</width>
+    <length />
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"90","총내용량(mL)":"","에너지(㎉)":"345","단백질(g)":"18","지방(g)":"","탄수화물(g)":"60","총당류(g)":"19","총 식이섬유(g)":"5","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"230","비타민":"","콜레스테롤(㎎)":"45","총 지방산(g)":"4.6",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/35859_흥국에프엔비)푸드쉐이크커피맛/</folder>
+    <filename>35859_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/35859_흥국에프엔비)푸드쉐이크커피맛/35859_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>흥국에프엔비)푸드쉐이크커피맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>600</xmin>
+        <ymin>208</ymin>
+        <xmax>1561</xmax>
+        <ymax>2837</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>흥국에프엔비)푸드쉐이크커피맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1490</xmin>
+        <ymin>345</ymin>
+        <xmax>2294</xmax>
+        <ymax>2704</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

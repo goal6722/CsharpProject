@@ -1,0 +1,62 @@
+<comp_cd>
+  0941
+  <identifier>
+    <identifier>15285_00_m_19.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    15
+    <item_cd>09411500001</item_cd>
+    <item_no>15285</item_no>
+    <div_l>홈클린</div_l>
+    <div_m>세탁세제</div_m>
+    <div_s>액상세탁세제</div_s>
+    <div_n>액상세탁세제</div_n>
+    <comp_nm>엘지생활건강</comp_nm>
+    <img_prod_nm>엘지 베비언스 핑크퐁세탁세제2.2L</img_prod_nm>
+    <volume>2.2L</volume>
+    <barcd>8801051377293</barcd>
+    <width>18</width>
+    <length>10</length>
+    <height>30</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/15285_엘지베비언스핑크퐁세탁세제2.2L/</folder>
+    <filename>15285_00_m_19.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/홈클린/15285_엘지베비언스핑크퐁세탁세제2.2L/15285_00_m_19.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>엘지베비언스핑크퐁세탁세제2.2L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>698</xmin>
+        <ymin>532</ymin>
+        <xmax>1470</xmax>
+        <ymax>2516</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>엘지베비언스핑크퐁세탁세제2.2L</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1547</xmin>
+        <ymin>374</ymin>
+        <xmax>2486</xmax>
+        <ymax>2793</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

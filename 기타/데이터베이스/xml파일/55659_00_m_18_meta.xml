@@ -1,0 +1,62 @@
+<comp_cd>
+  1199
+  <identifier>
+    <identifier>55659_00_m_18.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>11990500001</item_cd>
+    <item_no>55659</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>소시지</div_m>
+    <div_s>소시지</div_s>
+    <div_n>소시지</div_n>
+    <comp_nm>진주햄</comp_nm>
+    <img_prod_nm>진주햄치즈따봉25개입</img_prod_nm>
+    <volume>375G</volume>
+    <barcd>8801077332009</barcd>
+    <width>18</width>
+    <length>8</length>
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"15","총내용량(g)":"375","총내용량(mL)":"","에너지(㎉)":"19","단백질(g)":"1","지방(g)":"0.8","탄수화물(g)":"2","총당류(g)":"1","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"105","비타민":"","콜레스테롤(㎎)":"5","총 지방산(g)":"0.8",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/55659_진주햄치즈따봉25개입/</folder>
+    <filename>55659_00_m_18.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/55659_진주햄치즈따봉25개입/55659_00_m_18.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>진주햄치즈따봉25개입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1586</xmin>
+        <ymin>335</ymin>
+        <xmax>2395</xmax>
+        <ymax>2725</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>진주햄치즈따봉25개입</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>638</xmin>
+        <ymin>600</ymin>
+        <xmax>1305</xmax>
+        <ymax>2495</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

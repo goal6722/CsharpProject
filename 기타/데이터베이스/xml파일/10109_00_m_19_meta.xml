@@ -1,0 +1,50 @@
+<comp_cd>
+  1237
+  <identifier>
+    <identifier>10109_00_m_19.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>12370100001</item_cd>
+    <item_no>10109</item_no>
+    <div_l>과자</div_l>
+    <div_m>캔디</div_m>
+    <div_s>사탕/캔디세트</div_s>
+    <div_n>사탕/캔디세트</div_n>
+    <comp_nm>캐빈디쉬</comp_nm>
+    <img_prod_nm>캐빈디쉬하비트로피칼캔디200G</img_prod_nm>
+    <volume>200G</volume>
+    <barcd>4037719066986</barcd>
+    <width>9</width>
+    <length />
+    <height>4</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"200","총내용량(mL)":"0","에너지(㎉)":"392","단백질(g)":"0.4","지방(g)":"0.3","탄수화물(g)":"97","총당류(g)":"70","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"10","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/10109_캐빈디쉬하비트로피칼캔디200G/</folder>
+    <filename>10109_00_m_19.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/10109_캐빈디쉬하비트로피칼캔디200G/10109_00_m_19.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>캐빈디쉬하비트로피칼캔디200G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1150</xmin>
+        <ymin>982</ymin>
+        <xmax>1678</xmax>
+        <ymax>2077</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

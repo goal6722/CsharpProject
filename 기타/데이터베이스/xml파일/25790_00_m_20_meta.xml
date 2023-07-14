@@ -1,0 +1,50 @@
+<comp_cd>
+  0217
+  <identifier>
+    <identifier>25790_00_m_20.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>02170900001</item_cd>
+    <item_no>25790</item_no>
+    <div_l>음료</div_l>
+    <div_m>냉장음료</div_m>
+    <div_s>코코넛워터</div_s>
+    <div_n>코코넛워터</div_n>
+    <comp_nm>더케이홀딩스</comp_nm>
+    <img_prod_nm>더케어홀딩스 브로콜리혼합주스1000ML</img_prod_nm>
+    <volume>1000ML</volume>
+    <barcd>8851013744496</barcd>
+    <width>7</width>
+    <length>6</length>
+    <height>25</height>
+    <nutrition_info>{"1회제공량":"200","총내용량(g)":"","총내용량(mL)":"1000","에너지(㎉)":"50","단백질(g)":"1","지방(g)":"","탄수화물(g)":"14","총당류(g)":"12","총 식이섬유(g)":"5","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"45","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/25790_더케어홀딩스브로콜리혼합주스1000ML/</folder>
+    <filename>25790_00_m_20.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/25790_더케어홀딩스브로콜리혼합주스1000ML/25790_00_m_20.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>더케어홀딩스브로콜리혼합주스1000ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>976</xmin>
+        <ymin>147</ymin>
+        <xmax>1779</xmax>
+        <ymax>2889</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

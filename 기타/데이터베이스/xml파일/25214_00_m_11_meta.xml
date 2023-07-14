@@ -1,0 +1,62 @@
+<comp_cd>
+  1219
+  <identifier>
+    <identifier>25214_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>12190700005</item_cd>
+    <item_no>25214</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>고기양념장</div_s>
+    <div_n>고기양념장</div_n>
+    <comp_nm>청정원</comp_nm>
+    <img_prod_nm>청정원)연탄불고기양념140G</img_prod_nm>
+    <volume>140G</volume>
+    <barcd>8801052042015</barcd>
+    <width>12</width>
+    <length>1</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/25214_청정원)연탄불고기양념140G/</folder>
+    <filename>25214_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/25214_청정원)연탄불고기양념140G/25214_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>청정원)연탄불고기양념140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>294</xmin>
+        <ymin>378</ymin>
+        <xmax>1544</xmax>
+        <ymax>2572</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>청정원)연탄불고기양념140G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1486</xmin>
+        <ymin>530</ymin>
+        <xmax>2417</xmax>
+        <ymax>2344</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

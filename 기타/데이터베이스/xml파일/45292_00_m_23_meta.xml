@@ -1,0 +1,62 @@
+<comp_cd>
+  0198
+  <identifier>
+    <identifier>45292_00_m_23.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    10
+    <item_cd>01981000001</item_cd>
+    <item_no>45292</item_no>
+    <div_l>의약외품</div_l>
+    <div_m>위생용품</div_m>
+    <div_s>파스</div_s>
+    <div_n>파스</div_n>
+    <comp_nm>대일화학공업</comp_nm>
+    <img_prod_nm>대일화학공업)대일뉴아이스쿨에어로솔200ML</img_prod_nm>
+    <volume>200ML</volume>
+    <barcd>8802260001153</barcd>
+    <width>5</width>
+    <length>5</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/의약외품/45292_대일화학공업)대일뉴아이스쿨에어로솔200ML/</folder>
+    <filename>45292_00_m_23.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/의약외품/45292_대일화학공업)대일뉴아이스쿨에어로솔200ML/45292_00_m_23.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>대일화학공업)대일뉴아이스쿨에어로솔200ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>716</xmin>
+        <ymin>131</ymin>
+        <xmax>1512</xmax>
+        <ymax>2842</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>대일화학공업)대일뉴아이스쿨에어로솔200ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1489</xmin>
+        <ymin>193</ymin>
+        <xmax>2183</xmax>
+        <ymax>2760</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

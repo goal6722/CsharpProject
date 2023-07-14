@@ -1,0 +1,50 @@
+<comp_cd>
+  1464
+  <identifier>
+    <identifier>20027_0_m_8.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>14640900002</item_cd>
+    <item_no>20027</item_no>
+    <div_l>음료</div_l>
+    <div_m>과채음료</div_m>
+    <div_s>채소음료</div_s>
+    <div_n>채소음료</div_n>
+    <comp_nm>한국쥬맥스</comp_nm>
+    <img_prod_nm>랭거스망고449ML</img_prod_nm>
+    <volume>449ML</volume>
+    <barcd>041755008477</barcd>
+    <width>6</width>
+    <length />
+    <height>19</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"449","에너지(㎉)":"265","단백질(g)":"","지방(g)":"","탄수화물(g)":"66","총당류(g)":"66","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"30","비타민":"365","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20027_랭거스망고449ML/</folder>
+    <filename>20027_0_m_8.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/20027_랭거스망고449ML/20027_0_m_8.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>랭거스망고449ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>797</xmin>
+        <ymin>40</ymin>
+        <xmax>1717</xmax>
+        <ymax>2928</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

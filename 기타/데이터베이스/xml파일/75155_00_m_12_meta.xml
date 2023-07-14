@@ -1,0 +1,62 @@
+<comp_cd>
+  0000
+  <identifier>
+    <identifier>75155_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    06
+    <item_cd>00000600101</item_cd>
+    <item_no>75155</item_no>
+    <div_l>생활용품</div_l>
+    <div_m>세탁용품</div_m>
+    <div_s>보풀제거기</div_s>
+    <div_n>보풀제거기</div_n>
+    <comp_nm>기타</comp_nm>
+    <img_prod_nm>심플보풀제거기(블루)</img_prod_nm>
+    <volume>1개</volume>
+    <barcd>8808739000504</barcd>
+    <width>12</width>
+    <length>7</length>
+    <height>18</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/75155_심플보풀제거기(블루)/</folder>
+    <filename>75155_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/생활용품/75155_심플보풀제거기(블루)/75155_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>심플보풀제거기(블루)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>227</xmin>
+        <ymin>414</ymin>
+        <xmax>1616</xmax>
+        <ymax>2501</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>심플보풀제거기(블루)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1464</xmin>
+        <ymin>501</ymin>
+        <xmax>2702</xmax>
+        <ymax>2387</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,74 @@
+<comp_cd>
+  0305
+  <identifier>
+    <identifier>30030_0_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>03050900053</item_cd>
+    <item_no>30030</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>혼합탄산</div_s>
+    <div_n>혼합탄산</div_n>
+    <comp_nm>롯데칠성음료</comp_nm>
+    <img_prod_nm>롯데칠성요랄라요구르트스파클링(펫)420ML</img_prod_nm>
+    <volume>420ML</volume>
+    <barcd>8801056102128</barcd>
+    <width>6</width>
+    <length />
+    <height>21</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"420","에너지(㎉)":"145","단백질(g)":"1","지방(g)":"","탄수화물(g)":"35","총당류(g)":"35","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"45","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30030_롯데칠성요랄라요구르트스파클링(펫)420ML/</folder>
+    <filename>30030_0_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30030_롯데칠성요랄라요구르트스파클링(펫)420ML/30030_0_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>롯데칠성요랄라요구르트스파클링(펫)420ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1875</xmin>
+        <ymin>291</ymin>
+        <xmax>2598</xmax>
+        <ymax>2628</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데칠성요랄라요구르트스파클링(펫)420ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>456</xmin>
+        <ymin>296</ymin>
+        <xmax>1171</xmax>
+        <ymax>2621</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>롯데칠성요랄라요구르트스파클링(펫)420ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1175</xmin>
+        <ymin>310</ymin>
+        <xmax>1884</xmax>
+        <ymax>2623</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

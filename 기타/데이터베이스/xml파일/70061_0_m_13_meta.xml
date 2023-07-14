@@ -1,0 +1,74 @@
+<comp_cd>
+  1274
+  <identifier>
+    <identifier>70061_0_m_13.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>12740900095</item_cd>
+    <item_no>70061</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>사이다</div_s>
+    <div_n>사이다</div_n>
+    <comp_nm>코카콜라음료</comp_nm>
+    <img_prod_nm>코카스프라이트355ML</img_prod_nm>
+    <volume>355ML</volume>
+    <barcd />
+    <width>6</width>
+    <length />
+    <height>12</height>
+    <nutrition_info>{"1회제공량":"355","총내용량(g)":"0","총내용량(mL)":"355","에너지(㎉)":"160","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"40","총당류(g)":"40","총 식이섬유(g)":"0","칼슘(㎎)":"0","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"33","비타민":"0","콜레스테롤(㎎)":"0","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/70061_코카스프라이트355ML/</folder>
+    <filename>70061_0_m_13.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/70061_코카스프라이트355ML/70061_0_m_13.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>코카스프라이트355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1988</xmin>
+        <ymin>622</ymin>
+        <xmax>2972</xmax>
+        <ymax>2440</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카스프라이트355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1081</xmin>
+        <ymin>660</ymin>
+        <xmax>2015</xmax>
+        <ymax>2442</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>코카스프라이트355ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>196</xmin>
+        <ymin>679</ymin>
+        <xmax>1099</xmax>
+        <ymax>2441</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

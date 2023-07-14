@@ -1,0 +1,62 @@
+<comp_cd>
+  0717
+  <identifier>
+    <identifier>65005_00_m_11.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    13
+    <item_cd>07171300002</item_cd>
+    <item_no>65005</item_no>
+    <div_l>커피차</div_l>
+    <div_m>분말차</div_m>
+    <div_s>코코아/핫초코</div_s>
+    <div_n>초코맛</div_n>
+    <comp_nm>스위스미</comp_nm>
+    <img_prod_nm>스위스미스머쉬멜로우코코아 737G </img_prod_nm>
+    <volume>737G</volume>
+    <barcd>015700052327</barcd>
+    <width>10</width>
+    <length>10</length>
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"737","총내용량(mL)":"","에너지(㎉)":"150","단백질(g)":"1","지방(g)":"","탄수화물(g)":"29","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"320","나트륨(㎎)":"170","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"2",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65005_스위스미스머쉬멜로우코코아737G/</folder>
+    <filename>65005_00_m_11.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/커피차/65005_스위스미스머쉬멜로우코코아737G/65005_00_m_11.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>스위스미스머쉬멜로우코코아737G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1458</xmin>
+        <ymin>461</ymin>
+        <xmax>2569</xmax>
+        <ymax>2599</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>스위스미스머쉬멜로우코코아737G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>115</xmin>
+        <ymin>228</ymin>
+        <xmax>1552</xmax>
+        <ymax>2821</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

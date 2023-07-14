@@ -1,0 +1,62 @@
+<comp_cd>
+  0936
+  <identifier>
+    <identifier>66260_00_m_12.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    11
+    <item_cd>09361100040</item_cd>
+    <item_no>66260</item_no>
+    <div_l>이/미용</div_l>
+    <div_m>화장품</div_m>
+    <div_s>섀도우</div_s>
+    <div_n>섀도우</div_n>
+    <comp_nm>엔프라니</comp_nm>
+    <img_prod_nm>엔프라니)홀리카홀리카피스매칭섀도우매트다크서클겸용MBE04바닐라쉬폰</img_prod_nm>
+    <volume>1개입</volume>
+    <barcd>8806334371524</barcd>
+    <width>4</width>
+    <length>1</length>
+    <height>4</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"","에너지(㎉)":"","단백질(g)":"","지방(g)":"","탄수화물(g)":"","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/66260_엔프라니)홀리카홀리카피스매칭섀도우매트다크서클겸용MBE04바닐라쉬폰/</folder>
+    <filename>66260_00_m_12.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/이_미용/66260_엔프라니)홀리카홀리카피스매칭섀도우매트다크서클겸용MBE04바닐라쉬폰/66260_00_m_12.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>엔프라니)홀리카홀리카피스매칭섀도우매트다크서클겸용MBE04바닐라쉬폰</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1456</xmin>
+        <ymin>785</ymin>
+        <xmax>2776</xmax>
+        <ymax>2435</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>엔프라니)홀리카홀리카피스매칭섀도우매트다크서클겸용MBE04바닐라쉬폰</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>108</xmin>
+        <ymin>749</ymin>
+        <xmax>1517</xmax>
+        <ymax>2427</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

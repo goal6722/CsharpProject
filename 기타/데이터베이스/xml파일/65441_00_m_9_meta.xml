@@ -1,0 +1,62 @@
+<comp_cd>
+  1520
+  <identifier>
+    <identifier>65441_00_m_9.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>15200500039</item_cd>
+    <item_no>65441</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>레토르트</div_m>
+    <div_s>기타레토르트</div_s>
+    <div_n>기타레토르트</div_n>
+    <comp_nm>홈플러스</comp_nm>
+    <img_prod_nm>홈플러스달콤짭조름한안동식찜닭</img_prod_nm>
+    <volume>600G</volume>
+    <barcd>8809307640580</barcd>
+    <width>17</width>
+    <length>7</length>
+    <height>24</height>
+    <nutrition_info>{"1회제공량":"600","총내용량(g)":"600","총내용량(mL)":"","에너지(㎉)":"776","단백질(g)":"70","지방(g)":"25","탄수화물(g)":"68","총당류(g)":"28","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"2120","비타민":"","콜레스테롤(㎎)":"310","총 지방산(g)":"25",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/65441_홈플러스달콤짭조름한안동식찜닭/</folder>
+    <filename>65441_00_m_9.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/65441_홈플러스달콤짭조름한안동식찜닭/65441_00_m_9.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>홈플러스달콤짭조름한안동식찜닭</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1614</xmin>
+        <ymin>157</ymin>
+        <xmax>2369</xmax>
+        <ymax>2775</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>홈플러스달콤짭조름한안동식찜닭</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>587</xmin>
+        <ymin>588</ymin>
+        <xmax>1372</xmax>
+        <ymax>2450</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

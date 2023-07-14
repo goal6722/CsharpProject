@@ -1,0 +1,62 @@
+<comp_cd>
+  0975
+  <identifier>
+    <identifier>35079_00_m_18.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    05
+    <item_cd>09750500045</item_cd>
+    <item_no>35079</item_no>
+    <div_l>상온HMR</div_l>
+    <div_m>분말조리식</div_m>
+    <div_s>기타분말조리식</div_s>
+    <div_n>기타분말조리식</div_n>
+    <comp_nm>오뚜기</comp_nm>
+    <img_prod_nm>오뚜기)감자전믹스200G</img_prod_nm>
+    <volume>200G</volume>
+    <barcd>8801045425504</barcd>
+    <width>14</width>
+    <length>5</length>
+    <height>20</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"200","총내용량(mL)":"","에너지(㎉)":"355","단백질(g)":"7","지방(g)":"0.5","탄수화물(g)":"80","총당류(g)":"3","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"860","비타민":"","콜레스테롤(㎎)":"0","총 지방산(g)":"0.5",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35079_오뚜기)감자전믹스200G/</folder>
+    <filename>35079_00_m_18.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/상온HMR/35079_오뚜기)감자전믹스200G/35079_00_m_18.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>1080</width>
+      <height>1080</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>오뚜기)감자전믹스200G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>498</xmin>
+        <ymin>87</ymin>
+        <xmax>786</xmax>
+        <ymax>977</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>오뚜기)감자전믹스200G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>403</xmin>
+        <ymin>216</ymin>
+        <xmax>558</xmax>
+        <ymax>826</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

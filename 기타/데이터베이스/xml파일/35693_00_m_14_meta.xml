@@ -1,0 +1,62 @@
+<comp_cd>
+  0052
+  <identifier>
+    <identifier>35693_00_m_14.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>00520900002</item_cd>
+    <item_no>35693</item_no>
+    <div_l>음료</div_l>
+    <div_m>차음료</div_m>
+    <div_s>일반차음료</div_s>
+    <div_n>일반차음료</div_n>
+    <comp_nm>고구려통상</comp_nm>
+    <img_prod_nm>고구려통상)가토리치맛</img_prod_nm>
+    <volume>320ML</volume>
+    <barcd>8850624197196</barcd>
+    <width>6</width>
+    <length />
+    <height>17</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"320","에너지(㎉)":"76","단백질(g)":"","지방(g)":"","탄수화물(g)":"19","총당류(g)":"17","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"420","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35693_고구려통상)가토리치맛/</folder>
+    <filename>35693_00_m_14.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35693_고구려통상)가토리치맛/35693_00_m_14.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>고구려통상)가토리치맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1476</xmin>
+        <ymin>223</ymin>
+        <xmax>2346</xmax>
+        <ymax>2815</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>고구려통상)가토리치맛</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>674</xmin>
+        <ymin>294</ymin>
+        <xmax>1501</xmax>
+        <ymax>2767</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

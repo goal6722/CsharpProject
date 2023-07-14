@@ -1,0 +1,62 @@
+<comp_cd>
+  0243
+  <identifier>
+    <identifier>35714_00_m_16.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>02430900015</item_cd>
+    <item_no>35714</item_no>
+    <div_l>음료</div_l>
+    <div_m>기능성음료</div_m>
+    <div_s>스포츠음료</div_s>
+    <div_n>스포츠음료</div_n>
+    <comp_nm>동서식품</comp_nm>
+    <img_prod_nm>동서식품)스타벅스프라푸치노(카라멜향)</img_prod_nm>
+    <volume>281ML</volume>
+    <barcd>8801037086201</barcd>
+    <width>6</width>
+    <length>6</length>
+    <height>16</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"281","에너지(㎉)":"170","단백질(g)":"5","지방(g)":"3.9","탄수화물(g)":"29","총당류(g)":"28","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"140","비타민":"","콜레스테롤(㎎)":"15","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35714_동서식품)스타벅스프라푸치노(카라멜향)/</folder>
+    <filename>35714_00_m_16.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/35714_동서식품)스타벅스프라푸치노(카라멜향)/35714_00_m_16.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>동서식품)스타벅스프라푸치노(카라멜향)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1322</xmin>
+        <ymin>259</ymin>
+        <xmax>2298</xmax>
+        <ymax>2675</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>동서식품)스타벅스프라푸치노(카라멜향)</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>813</xmin>
+        <ymin>449</ymin>
+        <xmax>1632</xmax>
+        <ymax>2487</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

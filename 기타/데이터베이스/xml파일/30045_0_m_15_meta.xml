@@ -1,0 +1,74 @@
+<comp_cd>
+  1022
+  <identifier>
+    <identifier>30045_0_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>10220900023</item_cd>
+    <item_no>30045</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>혼합탄산</div_s>
+    <div_n>혼합탄산</div_n>
+    <comp_nm>웅진식품</comp_nm>
+    <img_prod_nm>웅진)아침햇살(캔)180ML</img_prod_nm>
+    <volume>180</volume>
+    <barcd>8801382128502</barcd>
+    <width>5</width>
+    <length />
+    <height>11</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"","총내용량(mL)":"180","에너지(㎉)":"110","단백질(g)":"","지방(g)":"2.3","탄수화물(g)":"22","총당류(g)":"12","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"10","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30045_웅진)아침햇살(캔)180ML/</folder>
+    <filename>30045_0_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/30045_웅진)아침햇살(캔)180ML/30045_0_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>웅진)아침햇살(캔)180ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1842</xmin>
+        <ymin>464</ymin>
+        <xmax>2808</xmax>
+        <ymax>2449</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>웅진)아침햇살(캔)180ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1035</xmin>
+        <ymin>507</ymin>
+        <xmax>1928</xmax>
+        <ymax>2347</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>웅진)아침햇살(캔)180ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>313</xmin>
+        <ymin>521</ymin>
+        <xmax>1120</xmax>
+        <ymax>2259</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

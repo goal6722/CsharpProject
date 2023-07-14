@@ -1,0 +1,62 @@
+<comp_cd>
+  1379
+  <identifier>
+    <identifier>45033_00_m_15.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    01
+    <item_cd>13790100006</item_cd>
+    <item_no>45033</item_no>
+    <div_l>과자</div_l>
+    <div_m>씨리얼</div_m>
+    <div_s>일반시리얼</div_s>
+    <div_n>일반시리얼</div_n>
+    <comp_nm>포스트</comp_nm>
+    <img_prod_nm>포스트오곡코코볼바100G</img_prod_nm>
+    <volume>100G</volume>
+    <barcd>8801037094183</barcd>
+    <width>18</width>
+    <length>17</length>
+    <height>3</height>
+    <nutrition_info>{"1회제공량":"25","총내용량(g)":"100","총내용량(mL)":"0","에너지(㎉)":"112","단백질(g)":"1","지방(g)":"4.4","탄수화물(g)":"17","총당류(g)":"9","총 식이섬유(g)":"0","칼슘(㎎)":"65.38","철(㎍)":"0.95","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"0","나트륨(㎎)":"35","비타민":"6.24","콜레스테롤(㎎)":"0.7","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45033_포스트오곡코코볼바100G/</folder>
+    <filename>45033_00_m_15.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/과자/45033_포스트오곡코코볼바100G/45033_00_m_15.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>포스트오곡코코볼바100G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1428</xmin>
+        <ymin>727</ymin>
+        <xmax>2920</xmax>
+        <ymax>2269</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>포스트오곡코코볼바100G</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>432</xmin>
+        <ymin>871</ymin>
+        <xmax>1639</xmax>
+        <ymax>2123</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

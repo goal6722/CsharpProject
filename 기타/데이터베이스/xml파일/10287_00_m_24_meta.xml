@@ -1,0 +1,74 @@
+<comp_cd>
+  1390
+  <identifier>
+    <identifier>10287_00_m_24.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>13900700001</item_cd>
+    <item_no>10287</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>상온드레싱</div_s>
+    <div_n>상온드레싱</div_n>
+    <comp_nm>풀무원</comp_nm>
+    <img_prod_nm>풀무원키위저지방드레싱</img_prod_nm>
+    <volume>115G</volume>
+    <barcd>8801114120934</barcd>
+    <width>4</width>
+    <length />
+    <height>13</height>
+    <nutrition_info>{"1회제공량":"","총내용량(g)":"115","총내용량(mL)":"","에너지(㎉)":"125","단백질(g)":"","지방(g)":"","탄수화물(g)":"26","총당류(g)":"24","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"560","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"2.7",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/10287_풀무원키위저지방드레싱/</folder>
+    <filename>10287_00_m_24.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/10287_풀무원키위저지방드레싱/10287_00_m_24.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>풀무원키위저지방드레싱</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>191</xmin>
+        <ymin>219</ymin>
+        <xmax>1130</xmax>
+        <ymax>2795</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>풀무원키위저지방드레싱</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1870</xmin>
+        <ymin>231</ymin>
+        <xmax>2808</xmax>
+        <ymax>2712</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>풀무원키위저지방드레싱</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1006</xmin>
+        <ymin>226</ymin>
+        <xmax>1969</xmax>
+        <ymax>2741</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

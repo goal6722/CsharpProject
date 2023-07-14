@@ -1,0 +1,50 @@
+<comp_cd>
+  0097
+  <identifier>
+    <identifier>75041_00_m_6.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    09
+    <item_cd>00970900002</item_cd>
+    <item_no>75041</item_no>
+    <div_l>음료</div_l>
+    <div_m>탄산음료</div_m>
+    <div_s>콜라</div_s>
+    <div_n>콜라</div_n>
+    <comp_nm>글로벌심층수</comp_nm>
+    <img_prod_nm>글로벌심층수 해양심층수딥스그린 500ML</img_prod_nm>
+    <volume>500ML</volume>
+    <barcd>8809309398847</barcd>
+    <width>6</width>
+    <length />
+    <height>22</height>
+    <nutrition_info>{"1회제공량":"500","총내용량(g)":"0","총내용량(mL)":"500","에너지(㎉)":"0","단백질(g)":"0","지방(g)":"0","탄수화물(g)":"0","총당류(g)":"0","총 식이섬유(g)":"0","칼슘(㎎)":"5~9","철(㎍)":"0","마그네슘(㎎)":"카페인(㎎)":"0"0","칼륨(㎎)":"4~9","나트륨(㎎)":"3~11","비타민":"0","콜레스테롤(㎎)":"","총 지방산(g)":"0",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/75041_글로벌심층수해양심층수딥스그린500ML/</folder>
+    <filename>75041_00_m_6.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/음료/75041_글로벌심층수해양심층수딥스그린500ML/75041_00_m_6.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>글로벌심층수해양심층수딥스그린500ML</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1293</xmin>
+        <ymin>154</ymin>
+        <xmax>2047</xmax>
+        <ymax>2939</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

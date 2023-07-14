@@ -1,0 +1,50 @@
+<comp_cd>
+  0639
+  <identifier>
+    <identifier>35128_00_m_7.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    08
+    <item_cd>06390800012</item_cd>
+    <item_no>35128</item_no>
+    <div_l>유제품</div_l>
+    <div_m>치즈</div_m>
+    <div_s>체다치즈</div_s>
+    <div_n>체다치즈</div_n>
+    <comp_nm>서울우유</comp_nm>
+    <img_prod_nm>서울우유)쭈욱늘어나는체다치즈18매</img_prod_nm>
+    <volume>18매</volume>
+    <barcd>8801115691068</barcd>
+    <width>10</width>
+    <length>8</length>
+    <height>5</height>
+    <nutrition_info>{"1회제공량":"22","총내용량(g)":"396","총내용량(mL)":"","에너지(㎉)":"65","단백질(g)":"4.8","지방(g)":"5","탄수화물(g)":"0.2","총당류(g)":"","총 식이섬유(g)":"","칼슘(㎎)":"140","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"185","비타민":"","콜레스테롤(㎎)":"15","총 지방산(g)":"",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/35128_서울우유)쭈욱늘어나는체다치즈18매/</folder>
+    <filename>35128_00_m_7.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/유제품/35128_서울우유)쭈욱늘어나는체다치즈18매/35128_00_m_7.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>서울우유)쭈욱늘어나는체다치즈18매</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1192</xmin>
+        <ymin>1020</ymin>
+        <xmax>1977</xmax>
+        <ymax>2134</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>

@@ -1,0 +1,62 @@
+<comp_cd>
+  1219
+  <identifier>
+    <identifier>55075_00_m_10.jpg</identifier>
+    <copyright>LOTTE Data Communication Company</copyright>
+  </identifier>
+  <div_cd>
+    07
+    <item_cd>12190700017</item_cd>
+    <item_no>55075</item_no>
+    <div_l>소스</div_l>
+    <div_m>소스류</div_m>
+    <div_s>국물용소스</div_s>
+    <div_n>국물용소스</div_n>
+    <comp_nm>청정원</comp_nm>
+    <img_prod_nm>청정원순창진한쇠고기육수고깃집된장찌개양념</img_prod_nm>
+    <volume>450G</volume>
+    <barcd>8801052014982</barcd>
+    <width>8</width>
+    <length>6</length>
+    <height>9</height>
+    <nutrition_info>{"1회제공량":"100","총내용량(g)":"450","총내용량(mL)":"","에너지(㎉)":"170","단백질(g)":"12","지방(g)":"","탄수화물(g)":"17","총당류(g)":"5","총 식이섬유(g)":"","칼슘(㎎)":"","철(㎍)":"","마그네슘(㎎)":"카페인(㎎)":""","칼륨(㎎)":"","나트륨(㎎)":"4990","비타민":"","콜레스테롤(㎎)":"","총 지방산(g)":"6",}</nutrition_info>
+  </div_cd>
+  <annotation>
+    <folder>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/55075_청정원순창진한쇠고기육수고깃집된장찌개양념/</folder>
+    <filename>55075_00_m_10.jpg</filename>
+    <path>/119.상품 이미지 데이터/01.데이터/2.Validation/원천데이터/소스/55075_청정원순창진한쇠고기육수고깃집된장찌개양념/55075_00_m_10.jpg</path>
+    <source>
+      <database>Unknown</database>
+    </source>
+    <size>
+      <width>2988</width>
+      <height>2988</height>
+      <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+      <name>청정원순창진한쇠고기육수고깃집된장찌개양념</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>117</xmin>
+        <ymin>824</ymin>
+        <xmax>1770</xmax>
+        <ymax>2241</ymax>
+      </bndbox>
+    </object>
+    <object>
+      <name>청정원순창진한쇠고기육수고깃집된장찌개양념</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1225</xmin>
+        <ymin>945</ymin>
+        <xmax>2577</xmax>
+        <ymax>2129</ymax>
+      </bndbox>
+    </object>
+  </annotation>
+</comp_cd>
