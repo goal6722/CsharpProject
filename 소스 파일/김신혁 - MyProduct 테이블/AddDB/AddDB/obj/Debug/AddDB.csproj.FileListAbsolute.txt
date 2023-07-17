@@ -1,0 +1,8 @@
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - MyProduct 테이블\AddDB\AddDB\bin\Debug\AddDB.exe.config
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - MyProduct 테이블\AddDB\AddDB\bin\Debug\AddDB.exe
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - MyProduct 테이블\AddDB\AddDB\bin\Debug\AddDB.pdb
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - MyProduct 테이블\AddDB\AddDB\obj\Debug\AddDB.csproj.AssemblyReference.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - MyProduct 테이블\AddDB\AddDB\obj\Debug\AddDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - MyProduct 테이블\AddDB\AddDB\obj\Debug\AddDB.csproj.CoreCompileInputs.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - MyProduct 테이블\AddDB\AddDB\obj\Debug\AddDB.exe
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - MyProduct 테이블\AddDB\AddDB\obj\Debug\AddDB.pdb
