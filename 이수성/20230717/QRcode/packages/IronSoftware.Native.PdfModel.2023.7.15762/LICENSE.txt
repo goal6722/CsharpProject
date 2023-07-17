@@ -1,0 +1,2 @@
+﻿See https://ironpdf.com/licensing/#eula-modal for latest license terms
+See license text files in runtiles folders for licensing on any platform specific dependencies.
