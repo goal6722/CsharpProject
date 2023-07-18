@@ -80,3 +80,43 @@ C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Q
 C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\IronBarCode.csproj.CopyComplete
 C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\QRcode.exe
 C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\QRcode.pdb
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\QRcode.exe.config
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\QRcode.exe
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\QRcode.pdb
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\IronBarCode.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\QRCoder.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\SixLabors.Fonts.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\System.Buffers.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\System.Memory.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\zxing.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\zxing.presentation.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\IronBarCode.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\System.Buffers.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\System.Memory.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\zxing.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\bin\Debug\zxing.presentation.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\obj\Debug\IronBarCode.csproj.AssemblyReference.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\obj\Debug\IronBarCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\obj\Debug\QRcode.Form1.resources
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\obj\Debug\IronBarCode.csproj.GenerateResource.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\obj\Debug\IronBarCode.csproj.CoreCompileInputs.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\obj\Debug\IronBarCode.csproj.CopyComplete
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\obj\Debug\QRcode.exe
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\이수성\20230717\QRcode\QRcode\obj\Debug\QRcode.pdb
