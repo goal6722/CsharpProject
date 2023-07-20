@@ -8,6 +8,7 @@
 
 1. AIHub [상품 이미지 데이터셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=64)
 2. AI API[(지금은 안 됨)](https://www.youtube.com/watch?v=wdXsv4-2emg)
+3. (김신혁) 이번주 토요일 정보처리기사 실기 시험이 있어서 목, 금요일 프로젝트를 천천히 하겠습니다...
    
 ---
 
