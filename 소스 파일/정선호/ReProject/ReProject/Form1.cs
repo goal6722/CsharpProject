@@ -30,7 +30,6 @@ namespace ReProject
         private List<product> productList = new List<product>();
 
 
-
         private void ConnectDB()
         {
             if (conn.State == System.Data.ConnectionState.Closed)
@@ -46,99 +45,134 @@ namespace ReProject
                 
             }
         }
-        private void LoadDataToDataGridView() 
+        private void LoadDataToDataGridView()
         {
-            if (conn.State != System.Data.ConnectionState.Open)
+            try
             {
-                ConnectDB();
-            }
-
-            // SQL 쿼리문 작성 (MyProduct 테이블을 사용하도록 수정)
-            string query = "SELECT [position], [count], [item_cd], [item_no], [div_l], [div_m], [div_s], [div_n], [comp_nm], [img_prod_nm], [volume], [barcd], [purchase], [sale], [nutrition_info] FROM [MYDB].[dbo].[Mylnventory1]";
-
-            // SQL 쿼리를 실행하기 위한 커맨드 생성
-            using (SqlCommand command = new SqlCommand(query, conn))
-            {
-                try
+                using (SqlCommand command = new SqlCommand())
                 {
+                    ConnectDB(); // 연결을 여기서 열기
+
+                    // SQL 쿼리문 작성 (MyProduct 테이블을 사용하도록 수정)
+                    string query = "SELECT [position], [count], [item_cd], [item_no], [div_l], [div_m], [div_s], [div_n], [comp_nm], [img_prod_nm], [volume], [barcd], [purchase], [sale], [nutrition_info] FROM [MYDB].[dbo].[Mylnventory]";
+
+                    // SQL 쿼리를 실행하기 위한 커맨드 생성
+                    command.Connection = conn;
+                    command.CommandText = query;
+
                     // 쿼리 실행 후 결과 가져오기
                     using (SqlDataReader reader = command.ExecuteReader())
                     {
                         List<product> newProductList = new List<product>();
 
-                   
-                            while (reader.Read())
+                        while (reader.Read())
+                        {
+                            product newItem = new product
                             {
-                                product newItem = new product
-                                {
-                                    item_cd = reader["item_cd"].ToString(),
-                                    item_no = reader["item_no"].ToString(),
-                                    div_l = reader["div_l"].ToString(),
-                                    div_m = reader["div_m"].ToString(),
-                                    div_s = reader["div_s"].ToString(),
-                                    div_n = reader["div_n"].ToString(),
-                                    comp_nm = reader["comp_nm"].ToString(),
-                                    img_prod_nm = reader["img_prod_nm"].ToString(),
-                                    volume = reader["volume"].ToString(),
-                                    barcd = reader["barcd"].ToString(),
-                                    nutrition_info = reader["nutrition_info"].ToString(),
-                                    position = reader["position"].ToString(),
-                                    count = Convert.ToInt32(reader["count"]),
-                                    purchase = Convert.ToDecimal(reader["purchase"]),
-                                    sale = Convert.ToDecimal(reader["sale"])
-                                };
-                                newProductList.Add(newItem);
-                                
-                            }
-                            productList = newProductList;
+                                item_cd = reader["item_cd"].ToString(),
+                                item_no = reader["item_no"].ToString(),
+                                div_l = reader["div_l"].ToString(),
+                                div_m = reader["div_m"].ToString(),
+                                div_s = reader["div_s"].ToString(),
+                                div_n = reader["div_n"].ToString(),
+                                comp_nm = reader["comp_nm"].ToString(),
+                                img_prod_nm = reader["img_prod_nm"].ToString(),
+                                volume = reader["volume"].ToString(),
+                                barcd = reader["barcd"].ToString(),
+                                nutrition_info = reader["nutrition_info"].ToString(),
+                                position = reader["position"].ToString(),
+                                count = Convert.ToInt32(reader["count"]),
+                                purchase = Convert.ToDecimal(reader["purchase"]),
+                                sale = Convert.ToDecimal(reader["sale"])
+                            };
+                            newProductList.Add(newItem);
                         }
+
+                        productList = newProductList;
                     }
-              
-                catch (Exception ex)
-                {
-                    MessageBox.Show("오류가 발생했습니다: " + ex.Message);
+
+                    // 연결을 닫지 않고 유지합니다.
+                    //conn.Close();
                 }
+
+                // DataGridView 갱신
+                UpdateDataGridView();
             }
-
-            conn.Close();
-
-            // DataGridView 갱신
-            UpdateDataGridView();
+            catch (Exception ex)
+            {
+                MessageBox.Show("오류가 발생했습니다: " + ex.Message);
+            }
         }
         private void SaveDataToDB(List<product> productList)
         {
             ConnectDB();
 
-            using (SqlCommand cmd = new SqlCommand())
+            using (SqlTransaction transaction = conn.BeginTransaction())
             {
-                cmd.Connection = conn;
-                cmd.CommandType = System.Data.CommandType.Text;
-
-                foreach (var productItem in productList)
+                try
                 {
-                    cmd.CommandText = $"INSERT INTO Mylnventory1 (item_cd, item_no, div_l, div_m, div_s, div_n, comp_nm, img_prod_nm, volume, barcd, nutrition_info, position, count, purchase, sale) VALUES (@item_cd, @item_no, @div_l, @div_m, @div_s, @div_n, @comp_nm, @img_prod_nm, @volume, @barcd, @nutrition_info, @position, @count, @purchase, @sale)";
-                    cmd.Parameters.Clear();
-                    cmd.Parameters.AddWithValue("@item_cd", productItem.item_cd);
-                    cmd.Parameters.AddWithValue("@item_no", productItem.item_no);
-                    cmd.Parameters.AddWithValue("@div_l", productItem.div_l);
-                    cmd.Parameters.AddWithValue("@div_m", productItem.div_m);
-                    cmd.Parameters.AddWithValue("@div_s", productItem.div_s);
-                    cmd.Parameters.AddWithValue("@div_n", productItem.div_n);
-                    cmd.Parameters.AddWithValue("@comp_nm", productItem.comp_nm);
-                    cmd.Parameters.AddWithValue("@img_prod_nm", productItem.img_prod_nm);
-                    cmd.Parameters.AddWithValue("@volume", productItem.volume);
-                    cmd.Parameters.AddWithValue("@barcd", productItem.barcd);
-                    cmd.Parameters.AddWithValue("@nutrition_info", productItem.nutrition_info);
-                    cmd.Parameters.AddWithValue("@position", productItem.position);
-                    cmd.Parameters.AddWithValue("@count", productItem.count);
-                    cmd.Parameters.AddWithValue("@purchase", productItem.purchase);
-                    cmd.Parameters.AddWithValue("@sale", productItem.sale);
+                    foreach (var productItem in productList)
+                    {
+                        using (SqlCommand cmd = new SqlCommand())
+                        {
+                            cmd.Connection = conn;
+                            cmd.Transaction = transaction;
+                            cmd.CommandType = System.Data.CommandType.Text;
 
-                    cmd.ExecuteNonQuery();
+                            // 이미 해당 위치와 바코드로 기존에 저장된 상품이 있는지 확인
+                            cmd.CommandText = $"SELECT COUNT(*) FROM Mylnventory WHERE position = @position AND barcd = @barcd";
+                            cmd.Parameters.AddWithValue("@position", productItem.position);
+                            cmd.Parameters.AddWithValue("@barcd", productItem.barcd);
+                            int existingCount = (int)cmd.ExecuteScalar();
+
+                            if (existingCount > 0)
+                            {
+                                // 이미 해당 위치와 바코드로 기존에 저장된 상품이 있다면 UPDATE 수행
+                                cmd.CommandText = $"UPDATE Mylnventory SET count = @count, purchase = @purchase, sale = @sale WHERE position = @position AND barcd = @barcd";
+                            }
+                            else
+                            {
+                                // 해당 위치와 바코드로 기존에 저장된 상품이 없다면 INSERT 수행
+                                cmd.CommandText = $"INSERT INTO Mylnventory (item_cd, item_no, div_l, div_m, div_s, div_n, comp_nm, img_prod_nm, volume, barcd, nutrition_info, position, count, purchase, sale) " +
+                                                  "VALUES (@item_cd, @item_no, @div_l, @div_m, @div_s, @div_n, @comp_nm, @img_prod_nm, @volume, @barcd, @nutrition_info, @position, @count, @purchase, @sale)";
+                            }
+
+                            // 기존에 추가된 매개 변수를 모두 제거
+                            cmd.Parameters.Clear();
+
+                            // 매개 변수 다시 추가
+                            cmd.Parameters.AddWithValue("@item_cd", productItem.item_cd);
+                            cmd.Parameters.AddWithValue("@item_no", productItem.item_no);
+                            cmd.Parameters.AddWithValue("@div_l", productItem.div_l);
+                            cmd.Parameters.AddWithValue("@div_m", productItem.div_m);
+                            cmd.Parameters.AddWithValue("@div_s", productItem.div_s);
+                            cmd.Parameters.AddWithValue("@div_n", productItem.div_n);
+                            cmd.Parameters.AddWithValue("@comp_nm", productItem.comp_nm);
+                            cmd.Parameters.AddWithValue("@img_prod_nm", productItem.img_prod_nm);
+                            cmd.Parameters.AddWithValue("@volume", productItem.volume);
+                            cmd.Parameters.AddWithValue("@barcd", productItem.barcd);
+                            cmd.Parameters.AddWithValue("@nutrition_info", productItem.nutrition_info);
+                            cmd.Parameters.AddWithValue("@position", productItem.position);
+                            cmd.Parameters.AddWithValue("@count", productItem.count);
+                            cmd.Parameters.AddWithValue("@purchase", productItem.purchase);
+                            cmd.Parameters.AddWithValue("@sale", productItem.sale);
+                            cmd.ExecuteNonQuery();
+                        }
+                    }
+
+                    transaction.Commit();
+                    MessageBox.Show("데이터가 저장되었습니다.");
+                }
+                catch (Exception ex)
+                {
+                    transaction.Rollback();
+                    MessageBox.Show("오류가 발생했습니다: " + ex.Message);
+                }
+                finally
+                {
+                    conn.Close();
                 }
             }
-
-            conn.Close();
         }
 
         private void Barcd_F_T_TextChanged(object sender, EventArgs e)
@@ -148,18 +182,7 @@ namespace ReProject
 
             if (string.IsNullOrWhiteSpace(barcode))
             {
-                item_cd_Label.Text = "";
-                item_no_Label.Text = "";
-                div_l_Label.Text = "";
-                div_m_Label.Text = "";
-                div_s_Label.Text = "";
-                div_n_Label.Text = "";
-                comp_nm_Label.Text = "";
-                img_prod_nm_Label.Text = "";
-                volume_Label.Text = "";
-                barcd_Label.Text = "";
-                nutrition_info_Label.Text = "";
-                
+                ClearLabels();
 
 
             }
@@ -169,25 +192,11 @@ namespace ReProject
         {
             // Barcd_F_T 텍스트 상자에서 바코드 값을 가져옴
             string barcode = Barcd_F_T.Text;
-
+            ClearLabels();
             // 바코드가 비어있을 경우 라벨을 초기화하고 바로 리턴
             if (string.IsNullOrWhiteSpace(barcode))
             {
-                item_cd_Label.Text = "";
-                item_no_Label.Text = "";
-                div_l_Label.Text = "";
-                div_m_Label.Text = "";
-                div_s_Label.Text = "";
-                div_n_Label.Text = "";
-                comp_nm_Label.Text = "";
-                img_prod_nm_Label.Text = "";
-                volume_Label.Text = "";
-                barcd_Label.Text = "";
-                nutrition_info_Label.Text = "";
-                position_Label.Text = "";
-                count_Label.Text = "";
-                purchase_Label.Text = "";
-                sale_Label.Text = "";
+                ClearLabels();
 
 
                 // 빈 바코드로 조회를 하지 않도록 리턴
@@ -224,11 +233,16 @@ namespace ReProject
                             volume_Label.Text = reader["volume"].ToString();
                             barcd_Label.Text = reader["barcd"].ToString();
                             nutrition_info_Label.Text = reader["nutrition_info"].ToString();
-                            
+                            position_T.Text = "";
+                            count_T.Text = "";
+                            purchase_T.Text = "";
+                            sale_T.Text = "";
                         }
                         else
                         {
                             MessageBox.Show("해당 바코드의 정보를 찾을 수 없습니다.");
+
+
                         }
                     }
                 }
@@ -246,7 +260,6 @@ namespace ReProject
             DataGridView1.DataSource = null;
             DataGridView1.DataSource = productList;
         }
-
 
         private void Add_Click(object sender, EventArgs e)
         {
@@ -266,6 +279,7 @@ namespace ReProject
 
                     if (existingItem != null)
                     {
+
                         existingItem.count += count; // 이미 존재하는 상품이면 count를 증가시킴
 
                         if (decimal.TryParse(purchaseText, out decimal purchasePrice) && purchasePrice > 0)
@@ -277,11 +291,10 @@ namespace ReProject
                         {
                             existingItem.sale = salePrice;
                         }
-
+                       
                     }
                     else
                     {
-
                         product newItem = new product
                         {
                             item_cd = item_cd_Label.Text,
@@ -315,7 +328,7 @@ namespace ReProject
                         {
                             newItem.sale = 0;
                         }
-
+                        
                         productList.Add(newItem);
                     }
                 }
@@ -338,13 +351,9 @@ namespace ReProject
                         if (decimal.TryParse(saleText, out decimal salePrice) && salePrice >= 0)
                         {
                             selectedProduct.sale = salePrice;
-                        }
-
-                        
+                        } 
                     }
                 }
-
-               
 
                 // 로그 항목 저장
                 string logEntry = $"[{DateTime.Now:yyyy년 MM월 dd일 HH시 mm분 ss초}]  위치: '{position}' '바코드 {barcd_Label.Text}' '{img_prod_nm_Label.Text}' 상품을 추가하였습니다.";
@@ -369,14 +378,11 @@ namespace ReProject
                 UpdateDataGridView();
                 LoadDataToDataGridView();
             }
-
             else
             {
 
                 MessageBox.Show("바코드와 위치 정보와 개수를 모두 입력하세요.");
-            }
-
-           
+            }   
         }
 
         private void Out_Click(object sender, EventArgs e)
@@ -385,7 +391,6 @@ namespace ReProject
 
             if (selectedIndex >= 0 && selectedIndex < productList.Count)
             {
-                
                 if (int.TryParse(count_T.Text, out int countToDelete) && countToDelete > 0)
                 {
                     product selectedProduct = productList[selectedIndex];
@@ -399,12 +404,8 @@ namespace ReProject
                         remainingCount -= countToDelete;
                         selectedProduct.count = remainingCount;
 
-                        DataGridView1.DataSource = null;
-                        DataGridView1.DataSource = productList;
-
                         // 차감 로그를 저장
-                        string logEntry = $"[{DateTime.Now:yyyy년 MM월 dd일 HH시 mm분 ss초}] 위치: '{deletedPosition}' '바코드 {deletedBarcode}' '{deletedItem}' 상품 {countToDelete}개를 차감하였습니다.";
-
+                        string logEntry = $"[{DateTime.Now:yyyy년 MM월 dd일 HH시 mm분 ss초}] 위치: '{deletedPosition}' 바코드: '{deletedBarcode}' 상품명: '{deletedItem}' {countToDelete}개를 차감하였습니다.";
                         Log.Items.Add(logEntry);
 
                         MessageBox.Show($"{countToDelete}개의 상품을 차감하였습니다.");
@@ -432,9 +433,8 @@ namespace ReProject
             {
                 MessageBox.Show("삭제할 상품을 선택하세요.");
             }
-
-            
         }
+
 
         private void ClearLabels()
         {
@@ -455,7 +455,6 @@ namespace ReProject
             sale_Label.Text = "";
             position_Label.Text = "";
         }
-
 
         private void Timer1_Tick(object sender, EventArgs e)
         {
@@ -485,7 +484,7 @@ namespace ReProject
                 purchase_Label.Text = selectedProduct.purchase.ToString();
                 sale_Label.Text = selectedProduct.sale.ToString();
                 position_Label.Text = selectedProduct.position.ToString();
-            }
+            }      
         }
     }
 }
