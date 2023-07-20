@@ -1,0 +1,12 @@
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\bin\Debug\Search.exe.config
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\bin\Debug\Search.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\bin\Debug\Search.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\obj\Debug\Search.csproj.AssemblyReference.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\obj\Debug\Search.csproj.SuggestedBindingRedirects.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\obj\Debug\Search.Form1.resources
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\obj\Debug\Search.Properties.Resources.resources
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\obj\Debug\Search.csproj.GenerateResource.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\obj\Debug\Search.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\obj\Debug\Search.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\Search\obj\Debug\QRcode.Form1.resources

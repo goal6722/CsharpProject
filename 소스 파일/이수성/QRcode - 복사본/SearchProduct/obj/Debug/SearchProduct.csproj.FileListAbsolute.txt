@@ -1,0 +1,16 @@
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\bin\Debug\SearchProduct.exe.config
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\bin\Debug\SearchProduct.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\bin\Debug\SearchProduct.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\obj\Debug\SearchProduct.csproj.AssemblyReference.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\obj\Debug\SearchProduct.csproj.SuggestedBindingRedirects.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\obj\Debug\SearchProduct.QRcodeScanner.resources
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\obj\Debug\SearchProduct.Properties.Resources.resources
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\obj\Debug\SearchProduct.csproj.GenerateResource.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\obj\Debug\SearchProduct.csproj.CoreCompileInputs.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\obj\Debug\SearchProduct.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\obj\Debug\SearchProduct.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\bin\Debug\zxing.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\bin\Debug\zxing.presentation.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\bin\Debug\zxing.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\bin\Debug\zxing.presentation.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\SearchProduct\obj\Debug\SearchProduct.csproj.CopyComplete

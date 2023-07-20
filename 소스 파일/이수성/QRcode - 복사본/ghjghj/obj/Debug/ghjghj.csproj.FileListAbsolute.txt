@@ -1,0 +1,11 @@
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\bin\Debug\ghjghj.exe.config
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\bin\Debug\ghjghj.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\bin\Debug\ghjghj.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\obj\Debug\ghjghj.csproj.AssemblyReference.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\obj\Debug\ghjghj.csproj.SuggestedBindingRedirects.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\obj\Debug\ghjghj.Form1.resources
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\obj\Debug\ghjghj.Properties.Resources.resources
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\obj\Debug\ghjghj.csproj.GenerateResource.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\obj\Debug\ghjghj.csproj.CoreCompileInputs.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\obj\Debug\ghjghj.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\ghjghj\obj\Debug\ghjghj.pdb

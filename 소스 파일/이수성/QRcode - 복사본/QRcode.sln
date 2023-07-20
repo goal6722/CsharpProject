@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronBarCode", "QRcode\IronBarCode.csproj", "{E09D6271-3461-432D-BA4C-EE3AB1CAED1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{88EFBF10-3939-458F-9F60-0B275E39C5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBAdd", "DBAdd\DBAdd.csproj", "{E631B81B-7753-4D6C-9473-24F7BF128AA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRcode", "Searching\QRcode.csproj", "{FC671EE7-7A0D-4FA5-A3B6-044BCDDCEADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchProduct", "SearchProduct\SearchProduct.csproj", "{52BAB244-C8D5-47AC-954D-E1122A07B332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E09D6271-3461-432D-BA4C-EE3AB1CAED1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09D6271-3461-432D-BA4C-EE3AB1CAED1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09D6271-3461-432D-BA4C-EE3AB1CAED1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09D6271-3461-432D-BA4C-EE3AB1CAED1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88EFBF10-3939-458F-9F60-0B275E39C5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EFBF10-3939-458F-9F60-0B275E39C5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EFBF10-3939-458F-9F60-0B275E39C5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EFBF10-3939-458F-9F60-0B275E39C5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E631B81B-7753-4D6C-9473-24F7BF128AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E631B81B-7753-4D6C-9473-24F7BF128AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E631B81B-7753-4D6C-9473-24F7BF128AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E631B81B-7753-4D6C-9473-24F7BF128AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC671EE7-7A0D-4FA5-A3B6-044BCDDCEADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC671EE7-7A0D-4FA5-A3B6-044BCDDCEADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC671EE7-7A0D-4FA5-A3B6-044BCDDCEADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC671EE7-7A0D-4FA5-A3B6-044BCDDCEADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BAB244-C8D5-47AC-954D-E1122A07B332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BAB244-C8D5-47AC-954D-E1122A07B332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BAB244-C8D5-47AC-954D-E1122A07B332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BAB244-C8D5-47AC-954D-E1122A07B332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {549010E9-7CDE-40B5-9867-E0F8A44CBAAD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\bin\Debug\zxing.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\bin\Debug\zxing.presentation.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\bin\Debug\zxing.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\bin\Debug\zxing.presentation.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete

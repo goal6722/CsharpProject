@@ -1,0 +1,85 @@
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\QRcode.exe.config
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\QRcode.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\QRcode.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\IronBarCode.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\SixLabors.Fonts.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\System.Buffers.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\System.Memory.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\IronBarCode.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\System.Buffers.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\System.Memory.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\obj\Debug\IronBarCode.csproj.AssemblyReference.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\obj\Debug\IronBarCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\obj\Debug\QRcode.Form1.resources
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\obj\Debug\IronBarCode.csproj.GenerateResource.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\obj\Debug\IronBarCode.csproj.CoreCompileInputs.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\obj\Debug\IronBarCode.csproj.CopyComplete
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\obj\Debug\QRcode.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\obj\Debug\QRcode.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\QRCoder.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\zxing.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\zxing.presentation.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\zxing.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode\QRcode\bin\Debug\zxing.presentation.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\QRcode.exe.config
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\QRcode.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\QRcode.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\BusinessRefinery.Barcode.Win.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\IronBarCode.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\QRCoder.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\SixLabors.Fonts.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\System.Buffers.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\System.Memory.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\zxing.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\zxing.presentation.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\IronBarCode.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\System.Buffers.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\System.Memory.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\zxing.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\zxing.presentation.xml
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\IronBarCode.csproj.AssemblyReference.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\IronBarCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\QRcode.Form1.resources
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\IronBarCode.csproj.GenerateResource.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\IronBarCode.csproj.CoreCompileInputs.cache
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\IronBarCode.csproj.CopyComplete
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\QRcode.exe
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\obj\Debug\QRcode.pdb
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\itextsharp.dll
+C:\Users\apf_temp_admin\Desktop\Soosung\visualStudio\csharp\QRcode - 복사본\QRcode\bin\Debug\itextsharp.xml
