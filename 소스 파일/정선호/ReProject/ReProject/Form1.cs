@@ -356,7 +356,7 @@ namespace ReProject
                 }
 
                 // 로그 항목 저장
-                string logEntry = $"[{DateTime.Now:yyyy년 MM월 dd일 HH시 mm분 ss초}]  위치: '{position}' '바코드 {barcd_Label.Text}' '{img_prod_nm_Label.Text}' 상품을 추가하였습니다.";
+                string logEntry = $"[{DateTime.Now:yyyy년 MM월 dd일 HH시 mm분 ss초}]  위치: '{position}' '바코드 {barcd_Label.Text}' '{img_prod_nm_Label.Text}' 상품을 {count_T.Text}개를 추가하였습니다.";
 
                 Log.Items.Add(logEntry);
 
