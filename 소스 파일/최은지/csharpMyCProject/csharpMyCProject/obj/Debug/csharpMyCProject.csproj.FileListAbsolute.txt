@@ -20,3 +20,14 @@ C:\Users\KB\Desktop\새 폴더\csharpMyCProject\csharpMyCProject\obj\Debug\cshar
 C:\Users\KB\Desktop\새 폴더\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.csproj.CoreCompileInputs.cache
 C:\Users\KB\Desktop\새 폴더\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.exe
 C:\Users\KB\Desktop\새 폴더\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.pdb
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\bin\Debug\csharpMyCProject.exe.config
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\bin\Debug\csharpMyCProject.exe
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\bin\Debug\csharpMyCProject.pdb
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.csproj.AssemblyReference.cache
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.csproj.SuggestedBindingRedirects.cache
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.Form1.resources
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.Properties.Resources.resources
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.csproj.GenerateResource.cache
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.csproj.CoreCompileInputs.cache
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.exe
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\최은지\csharpMyCProject\csharpMyCProject\obj\Debug\csharpMyCProject.pdb

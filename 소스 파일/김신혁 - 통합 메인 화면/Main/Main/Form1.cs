@@ -19,17 +19,17 @@ namespace Main
 
 
             CreateComboBoxListL();
-            label5.Text = DBHelper.CountDB();
+            CountMyProductNum.Text = DBHelper.CountDB();
             Dictionary<string, int> divLCounts = DBHelper.GetDivLCounts();
 
-            chart1.ChartAreas[0].AxisX.Interval = 1;
-            chart1.Series[0].Name = "시장품목";
+            chart1MyProduct.ChartAreas[0].AxisX.Interval = 1;
+            chart1MyProduct.Series[0].Name = "시장품목";
 
             foreach (var kvp in divLCounts)
             {
                 string divLValue = kvp.Key;
                 int count = kvp.Value;
-                chart1.Series[0].Points.AddXY(divLValue, count);
+                chart1MyProduct.Series[0].Points.AddXY(divLValue, count);
             }
         }
 
@@ -38,26 +38,26 @@ namespace Main
             string jsonFilePath = @"log.json";
             string jsonContent = File.ReadAllText(jsonFilePath);
             List<ImageData> imageDataList = JsonConvert.DeserializeObject<List<ImageData>>(jsonContent);
-            string userInput = textBox1.Text;
+            string userInput = textBox1SearchProduct.Text;
             string matchedFileName = imageDataList.Find(x => x.Id == userInput)?.FileName;
             if (matchedFileName != null)
             {
                 string imagePath = @"Resource\" + matchedFileName;
                 string imageFilePath = System.IO.Path.Combine(Application.StartupPath, imagePath);
-                pictureBox1.Image = Image.FromFile(imageFilePath);
+                pictureBox1ProductImage.Image = Image.FromFile(imageFilePath);
                 string ProductName = DBHelper.Item_no_2_Product_name(userInput);
-                label1.Text = ProductName;
+                label1ProductName.Text = ProductName;
                 List<string> priceShowList = await ShowPrices(ProductName);
                 string joinedPrices = string.Join(", ", priceShowList);
                 await Console.Out.WriteLineAsync(joinedPrices);
-                label7.Text = priceShowList[0];
+                label7ShowProductPriceNaver.Text = priceShowList[0];
             }
             else
             {
-                label1.Text = "일치하는 파일을 찾을 수 없습니다.";
+                label1ProductName.Text = "일치하는 파일을 찾을 수 없습니다.";
                 string imagePath = @"Resource\null.jpg";
                 string imageFilePath = System.IO.Path.Combine(Application.StartupPath, imagePath);
-                pictureBox1.Image = Image.FromFile(imageFilePath);
+                pictureBox1ProductImage.Image = Image.FromFile(imageFilePath);
             }
         }
 
@@ -76,27 +76,27 @@ namespace Main
 
         private void CreateComboBoxListM(string constName)
         {
-            comboBox1.Items.Clear();
-            comboBox1.Items.Add("--중분류--");
+            comboBoxMIddle.Items.Clear();
+            comboBoxMIddle.Items.Add("--중분류--");
             List<string> divName = DBHelper.DivListMnS("div_m", "div_l", constName);
             foreach (var div in divName)
             {
                 string comboName = div;
-                comboBox1.Items.Add(comboName);
+                comboBoxMIddle.Items.Add(comboName);
             }
-            comboBox1.SelectedIndex = 0;
+            comboBoxMIddle.SelectedIndex = 0;
         }
         private void CreateComboBoxListS(string constName)
         {
-            comboBox3.Items.Clear();
-            comboBox3.Items.Add("--소분류--");
+            comboBoxSmall.Items.Clear();
+            comboBoxSmall.Items.Add("--소분류--");
             List<string> divName = DBHelper.DivListMnS("div_s", "div_m", constName);
             foreach (var div in divName)
             {
                 string comboName = div;
-                comboBox3.Items.Add(comboName);
+                comboBoxSmall.Items.Add(comboName);
             }
-            comboBox3.SelectedIndex = 0;
+            comboBoxSmall.SelectedIndex = 0;
         }
 
         private void button1_Click(object sender, System.EventArgs e)
@@ -110,19 +110,19 @@ namespace Main
 
         private void UpdateChart(Dictionary<string, int> data)
         {
-            chart1.Series[0].Points.Clear();
+            chart1MyProduct.Series[0].Points.Clear();
             foreach (var kvp in data)
             {
                 string divValue = kvp.Key;
                 int count = kvp.Value;
-                chart1.Series[0].Points.AddXY(divValue, count);
+                chart1MyProduct.Series[0].Points.AddXY(divValue, count);
             }
         }
 
         private void button2_Click(object sender, System.EventArgs e)
         {
-            string selectedDiv = comboBox1.SelectedItem.ToString();
-            string columnName = '\'' + comboBox1.Text + '\'';
+            string selectedDiv = comboBoxMIddle.SelectedItem.ToString();
+            string columnName = '\'' + comboBoxMIddle.Text + '\'';
             Dictionary<string, int> filteredData = DBHelper.GetFilteredData(columnName, "div_m", "div_s");
             UpdateChart(filteredData);
             CreateComboBoxListS(columnName);
@@ -130,8 +130,8 @@ namespace Main
 
         private void button3_Click(object sender, System.EventArgs e)
         {
-            string selectedDiv = comboBox3.SelectedItem.ToString();
-            string columnName = '\'' + comboBox3.Text + '\'';
+            string selectedDiv = comboBoxSmall.SelectedItem.ToString();
+            string columnName = '\'' + comboBoxSmall.Text + '\'';
             Dictionary<string, int> filteredData = DBHelper.GetFilteredData(columnName, "div_s", "img_prod_nm");
             UpdateChart(filteredData);
         }
