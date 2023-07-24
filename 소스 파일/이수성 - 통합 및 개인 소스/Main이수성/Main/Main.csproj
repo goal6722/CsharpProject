@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DBHelper.cs" />
+    <Compile Include="DBHelperBarcode.cs" />
     <Compile Include="DBHelperQRcode.cs" />
     <Compile Include="DBHelperSearcher.cs" />
     <Compile Include="Form1.cs">
@@ -93,6 +94,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="packages.config" />
+    <None Include="Properties\DataSources\Main.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\Main.Properties.Settings.datasource" />
     <None Include="Properties\DataSources\ShoppingCart.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
