@@ -1,0 +1,14 @@
+public Form1()
+{
+    InitializeComponent();
+    DataGridView1.CellClick += DataGridView1_CellContentClick;
+    DataGridView1.CellFormatting += DataGridView1_CellFormatting;
+
+    // '주황색과 빨간색 항목 출력' 버튼 추가와 클릭 이벤트 핸들러 연결
+    Button OutputColoredItemsButton = new Button();
+    OutputColoredItemsButton.Text = "재고부족항목출력";
+    OutputColoredItemsButton.Click += (sender, e) => ShowColoredItemsInDataGridView1();
+    this.Controls.Add(OutputColoredItemsButton);
+
+    // ... (기존 코드)
+}
