@@ -107,15 +107,15 @@ namespace Searching
         //    string expirationDay = textBox6.Text;
         //}
         //QR코드 생성기
-        private void GenerateQRCode(string productCode, string productName, string divDetail, string Location, string byCompany, string price)
+        private void GenerateQRCode(string bcd, string productName, string divDetail, string Location, string byCompany, string price)
         {
             // 텍스트들을 결합하여 QR 코드 데이터 생성
             string qrCodeDataString =
-                "상품코드 : " + productCode + "\n" + 
-                "상품이름 : " + productName + "\n" +
-                "상품 분류 : " + divDetail + "\n" +
-                "상품 위치 : " + Location + "\n" +
-                "제조회사 : " + byCompany + "\n" +
+                "바코드 : " + bcd + "\r\n" + 
+                "상품이름 : " + productName + "\r\n" +
+                "상품 분류 : " + divDetail + "\r\n" +
+                "상품 위치 : " + Location + "\r\n" +
+                "제조회사 : " + byCompany + "\r\n" +
                 "가격 : " + price;
 
 
@@ -128,7 +128,7 @@ namespace Searching
             // 하나 이상의 텍스트 상자에 값이 비어 있는지 확인
             if (string.IsNullOrEmpty(productName) || string.IsNullOrEmpty(divDetail) ||
                 string.IsNullOrEmpty(Location) || string.IsNullOrEmpty(byCompany) ||
-                string.IsNullOrEmpty(price) || string.IsNullOrEmpty(productCode))
+                string.IsNullOrEmpty(price) || string.IsNullOrEmpty(bcd))
             {
                 MessageBox.Show("모든 텍스트 상자에 값을 입력하세요.");
                 return;
@@ -149,9 +149,9 @@ namespace Searching
             string Location = textBox3.Text;
             string byCompany = textBox4.Text;
             string price = textBox5.Text;
-            string productCode = textBox6.Text;
+            string bcd = textBox6.Text;
 
-            GenerateQRCode(productCode, productName, divDetail, Location, byCompany, price);
+            GenerateQRCode(bcd, productName, divDetail, Location, byCompany, price);
 
         }
         //다른이름으로 저장
@@ -178,7 +178,7 @@ namespace Searching
 
         }
 
-        //productCode ,productName, divDetail, Location, byCompany, price
+        //bcd ,productName, divDetail, Location, byCompany, price
         private void GridInputData()
         {
             string productName = textBox1.Text;
@@ -186,18 +186,18 @@ namespace Searching
             string location = textBox3.Text;
             string byCompany = textBox4.Text;
             string price = textBox5.Text;
-            string productCode = textBox6.Text;
+            string bcd = textBox6.Text;
 
             using (SqlConnection connection = new SqlConnection(DBHelper.DBConnString))
             {
                 connection.Open();
 
-                string insertQuery = "INSERT INTO ProductInfo (productCode, productName, divDetail, Location, byCompany, price) " +
-                                     "VALUES (@productCode, @productName, @divDetail, @location, @byCompany, @price)";
+                string insertQuery = "INSERT INTO ProductInfo (bcd, productName, divDetail, Location, byCompany, price) " +
+                                     "VALUES (@bcd, @productName, @divDetail, @location, @byCompany, @price)";
 
                 using (SqlCommand command = new SqlCommand(insertQuery, connection))
                 {
-                    command.Parameters.AddWithValue("@productCode", productCode);
+                    command.Parameters.AddWithValue("@bcd", bcd);
                     command.Parameters.AddWithValue("@productName", productName);
                     command.Parameters.AddWithValue("@divDetail", divDetail);
                     command.Parameters.AddWithValue("@location", location);
@@ -250,7 +250,7 @@ namespace Searching
 
         private void textBox6_TextChanged(object sender, EventArgs e)
         {
-            string productCode = textBox6.Text;
+            string bcd = textBox6.Text;
         }
 
       
