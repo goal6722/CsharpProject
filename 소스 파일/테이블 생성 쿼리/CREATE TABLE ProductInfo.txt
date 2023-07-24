@@ -1,0 +1,9 @@
+CREATE TABLE ProductInfo (
+	bcd VARCHAR(50),
+	productName VARCHAR(50),
+	divDetail VARCHAR(50),
+	location VARCHAR(50),
+	byCompany VARCHAR(50),
+	price VARCHAR(50)
+
+);
