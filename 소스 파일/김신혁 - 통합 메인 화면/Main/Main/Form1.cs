@@ -33,7 +33,7 @@ namespace Main
             }
         }
 
-        public void SearchProductButton1_Click(object sender, EventArgs e)//상품검색
+        public async void SearchProductButton1_Click(object sender, EventArgs e)// 상품검색
         {
             string jsonFilePath = @"log.json";
             string jsonContent = File.ReadAllText(jsonFilePath);
@@ -48,7 +48,8 @@ namespace Main
                 string imageFilePath = System.IO.Path.Combine(Application.StartupPath, imagePath);
                 pictureBox1.Image = Image.FromFile(imageFilePath);
 
-                showPrice("롯데핑크퐁포도사과235ML");//상품 이름 검색 함수 만들자
+                List<string> priceShowList = await ShowPrices("롯데핑크퐁포도사과235ML");// 바코드로 상품 이름 검색 함수 만들자
+                label7.Text = priceShowList[0];
             }
             else
             {
@@ -58,6 +59,7 @@ namespace Main
                 pictureBox1.Image = Image.FromFile(imageFilePath);
             }
         }
+
 
         private void CreateComboBoxListL()
         {
@@ -134,7 +136,7 @@ namespace Main
         }
 
 
-        private async void showPrice(string ProductName)
+        private async Task<List<string>> ShowPrices(string ProductName)
         {
             List<string> abcdID = ReadApiID.readID();
             string clientId = abcdID[0];
@@ -146,13 +148,16 @@ namespace Main
 
             Dictionary<string, string> priceData = await SearchAsync(clientId, clientSecret, query, display, start, sort);
 
+            List<string> pricesToShow = new List<string>();
             foreach (var item in priceData)
             {
                 string title = item.Key;
                 string lprice = item.Value;
-                Console.WriteLine($"상품명: {title}, 네이버 최저가: {lprice}원");
+                pricesToShow.Add($"상품명: {title}, 네이버 최저가: {lprice}원");
             }
+            return pricesToShow;
         }
+
 
         private async Task<Dictionary<string, string>> SearchAsync(string clientId, string clientSecret, string query, int display, int start, string sort)
         {
