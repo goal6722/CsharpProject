@@ -45,3 +45,22 @@ C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\zxing.dll
 C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\zxing.presentation.dll
 C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\zxing.xml
 C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\zxing.presentation.xml
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\bin\Debug\Main.exe.config
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\bin\Debug\Main.exe
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\bin\Debug\Main.pdb
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\bin\Debug\Newtonsoft.Json.dll
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\bin\Debug\QRCoder.dll
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\bin\Debug\zxing.dll
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\bin\Debug\zxing.presentation.dll
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\bin\Debug\Newtonsoft.Json.xml
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\bin\Debug\zxing.xml
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\bin\Debug\zxing.presentation.xml
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\obj\Debug\Main.csproj.SuggestedBindingRedirects.cache
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\obj\Debug\Main.Form1.resources
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\obj\Debug\Main.Properties.Resources.resources
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\obj\Debug\Main.csproj.GenerateResource.cache
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\obj\Debug\Main.csproj.CopyComplete
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\obj\Debug\Main.exe
+D:\jjjjjjjjjjjjjjjjjjj\CsharpProject\소스 파일\이수성 - 통합 및 개인 소스\Main이수성\Main\obj\Debug\Main.pdb
