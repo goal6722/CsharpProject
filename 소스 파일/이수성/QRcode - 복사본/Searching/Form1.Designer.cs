@@ -54,9 +54,9 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(2056, 94);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(143, 30);
+            this.label6.Size = new System.Drawing.Size(103, 30);
             this.label6.TabIndex = 33;
-            this.label6.Text = "상품 코드";
+            this.label6.Text = "바코드";
             // 
             // textBox6
             // 

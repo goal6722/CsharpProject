@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBAdd", "DBAdd\DBAdd.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRcode", "Searching\QRcode.csproj", "{FC671EE7-7A0D-4FA5-A3B6-044BCDDCEADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchProduct", "SearchProduct\SearchProduct.csproj", "{52BAB244-C8D5-47AC-954D-E1122A07B332}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRcodeScanner", "SearchProduct\QRcodeScanner.csproj", "{52BAB244-C8D5-47AC-954D-E1122A07B332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searcher", "Searcher\Searcher.csproj", "{3A6EC824-8651-48E3-AC86-E70643D6E27C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{52BAB244-C8D5-47AC-954D-E1122A07B332}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52BAB244-C8D5-47AC-954D-E1122A07B332}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52BAB244-C8D5-47AC-954D-E1122A07B332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6EC824-8651-48E3-AC86-E70643D6E27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6EC824-8651-48E3-AC86-E70643D6E27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6EC824-8651-48E3-AC86-E70643D6E27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6EC824-8651-48E3-AC86-E70643D6E27C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
