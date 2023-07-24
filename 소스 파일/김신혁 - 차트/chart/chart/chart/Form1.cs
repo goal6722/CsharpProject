@@ -16,7 +16,6 @@ namespace chart
             chart1.ChartAreas[0].AxisX.Interval = 1;
             chart1.Series[0].Name = "시장품목";
 
-            // 가져온 데이터를 chart1에 바인딩하여 막대 그래프로 표시
             foreach (var kvp in divLCounts)
             {
                 string divLValue = kvp.Key;
@@ -64,24 +63,16 @@ namespace chart
 
         private void button1_Click(object sender, System.EventArgs e)
         {
-            // 선택된 분류 가져오기
             string selectedDiv = comboBoxLarge.SelectedItem.ToString();
             string columnName = '\'' + comboBoxLarge.Text + '\'';
-
-            // 필터된 데이터 가져오기
             Dictionary<string, int> filteredData = DBHelper.GetFilteredData(columnName, "div_l", "div_m");
-
-            // 차트 갱신
             UpdateChart(filteredData);
             CreateComboBoxListM(columnName);
         }
 
         private void UpdateChart(Dictionary<string, int> data)
         {
-            // 차트 초기화
             chart1.Series[0].Points.Clear();
-
-            // 가져온 값들을 차트에 추가
             foreach (var kvp in data)
             {
                 string divValue = kvp.Key;
@@ -92,30 +83,19 @@ namespace chart
 
         private void button2_Click(object sender, System.EventArgs e)
         {
-            // 선택된 분류 가져오기
             string selectedDiv = comboBox1.SelectedItem.ToString();
             string columnName = '\'' + comboBox1.Text + '\'';
-
-            // 필터된 데이터 가져오기
             Dictionary<string, int> filteredData = DBHelper.GetFilteredData(columnName, "div_m", "div_s");
-
-            // 차트 갱신
             UpdateChart(filteredData);
             CreateComboBoxListS(columnName);
         }
 
         private void button3_Click(object sender, System.EventArgs e)
         {
-            // 선택된 분류 가져오기
             string selectedDiv = comboBox3.SelectedItem.ToString();
             string columnName = '\'' + comboBox3.Text + '\'';
-
-            // 필터된 데이터 가져오기
             Dictionary<string, int> filteredData = DBHelper.GetFilteredData(columnName, "div_s", "img_prod_nm");
-
-            // 차트 갱신
             UpdateChart(filteredData);
-            //CreateComboBoxListN(columnName);
         }
     }
 }
