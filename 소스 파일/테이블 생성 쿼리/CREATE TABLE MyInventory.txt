@@ -1,0 +1,17 @@
+CREATE TABLE MyInventory (
+    item_cd VARCHAR(50),
+    item_no VARCHAR(50),
+    div_l VARCHAR(50),
+    div_m VARCHAR(50),
+    div_s VARCHAR(50),
+    div_n VARCHAR(50),
+    comp_nm VARCHAR(50),
+    img_prod_nm VARCHAR(100),
+    volume VARCHAR(50),
+    barcd VARCHAR(50),
+    nutrition_info VARCHAR(MAX),
+	position  VARCHAR(50),
+	count  VARCHAR(50),
+	purchase VARCHAR(50),
+	sale VARCHAR(50)
+);
