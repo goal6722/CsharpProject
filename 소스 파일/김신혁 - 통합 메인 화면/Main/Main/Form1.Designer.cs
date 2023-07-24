@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend4 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
@@ -38,7 +38,9 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
@@ -49,20 +51,19 @@
             this.label6 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.SearchProductButton1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.SearchProductButton1 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.label7 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.DataBase.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -138,6 +139,22 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "차트 영역";
             // 
+            // chart1
+            // 
+            chartArea2.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea2);
+            legend2.Name = "Legend1";
+            this.chart1.Legends.Add(legend2);
+            this.chart1.Location = new System.Drawing.Point(0, 27);
+            this.chart1.Name = "chart1";
+            series2.ChartArea = "ChartArea1";
+            series2.Legend = "Legend1";
+            series2.Name = "Series1";
+            this.chart1.Series.Add(series2);
+            this.chart1.Size = new System.Drawing.Size(1768, 659);
+            this.chart1.TabIndex = 0;
+            this.chart1.Text = "chart1";
+            // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.button1);
@@ -156,6 +173,16 @@
             this.groupBox1.TabIndex = 13;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "필터";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(304, 35);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(108, 26);
+            this.button1.TabIndex = 11;
+            this.button1.Text = "검색";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button3
             // 
@@ -239,6 +266,7 @@
             // 
             // tabPage3
             // 
+            this.tabPage3.Controls.Add(this.label7);
             this.tabPage3.Controls.Add(this.SearchProductButton1);
             this.tabPage3.Controls.Add(this.textBox1);
             this.tabPage3.Controls.Add(this.label1);
@@ -251,9 +279,19 @@
             this.tabPage3.Text = "상품 검색";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
+            // SearchProductButton1
+            // 
+            this.SearchProductButton1.Location = new System.Drawing.Point(1100, 765);
+            this.SearchProductButton1.Name = "SearchProductButton1";
+            this.SearchProductButton1.Size = new System.Drawing.Size(633, 127);
+            this.SearchProductButton1.TabIndex = 3;
+            this.SearchProductButton1.Text = "상품 검색";
+            this.SearchProductButton1.UseVisualStyleBackColor = true;
+            this.SearchProductButton1.Click += new System.EventHandler(this.SearchProductButton1_Click);
+            // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(1086, 689);
+            this.textBox1.Location = new System.Drawing.Point(1086, 729);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(662, 28);
             this.textBox1.TabIndex = 2;
@@ -275,41 +313,14 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // SearchProductButton1
+            // label7
             // 
-            this.SearchProductButton1.Location = new System.Drawing.Point(1100, 765);
-            this.SearchProductButton1.Name = "SearchProductButton1";
-            this.SearchProductButton1.Size = new System.Drawing.Size(633, 127);
-            this.SearchProductButton1.TabIndex = 3;
-            this.SearchProductButton1.Text = "상품 검색";
-            this.SearchProductButton1.UseVisualStyleBackColor = true;
-            this.SearchProductButton1.Click += new System.EventHandler(this.SearchProductButton1_Click);
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(304, 35);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(108, 26);
-            this.button1.TabIndex = 11;
-            this.button1.Text = "검색";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // chart1
-            // 
-            chartArea4.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea4);
-            legend4.Name = "Legend1";
-            this.chart1.Legends.Add(legend4);
-            this.chart1.Location = new System.Drawing.Point(0, 27);
-            this.chart1.Name = "chart1";
-            series4.ChartArea = "ChartArea1";
-            series4.Legend = "Legend1";
-            series4.Name = "Series1";
-            this.chart1.Series.Add(series4);
-            this.chart1.Size = new System.Drawing.Size(1768, 659);
-            this.chart1.TabIndex = 0;
-            this.chart1.Text = "chart1";
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(1083, 679);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(122, 18);
+            this.label7.TabIndex = 4;
+            this.label7.Text = "네이버 최저가";
             // 
             // Form1
             // 
@@ -324,12 +335,12 @@
             this.DataBase.ResumeLayout(false);
             this.DataBase.PerformLayout();
             this.groupBox2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.tabPage3.ResumeLayout(false);
             this.tabPage3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -360,6 +371,7 @@
         private System.Windows.Forms.Button SearchProductButton1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
+        private System.Windows.Forms.Label label7;
     }
 }
 

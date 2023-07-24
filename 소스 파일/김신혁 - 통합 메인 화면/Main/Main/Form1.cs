@@ -3,7 +3,11 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
+using System.Net.Http;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml;
 
 namespace Main
 {
@@ -43,6 +47,8 @@ namespace Main
                 string imagePath = @"Resource\" + matchedFileName;
                 string imageFilePath = System.IO.Path.Combine(Application.StartupPath, imagePath);
                 pictureBox1.Image = Image.FromFile(imageFilePath);
+
+                showPrice("롯데핑크퐁포도사과235ML");//상품 이름 검색 함수 만들자
             }
             else
             {
@@ -125,6 +131,63 @@ namespace Main
             string columnName = '\'' + comboBox3.Text + '\'';
             Dictionary<string, int> filteredData = DBHelper.GetFilteredData(columnName, "div_s", "img_prod_nm");
             UpdateChart(filteredData);
+        }
+
+
+        private async void showPrice(string ProductName)
+        {
+            List<string> abcdID = ReadApiID.readID();
+            string clientId = abcdID[0];
+            string clientSecret = abcdID[1];
+            string query = ProductName;
+            int display = 1;
+            int start = 1;
+            string sort = "sim";
+
+            Dictionary<string, string> priceData = await SearchAsync(clientId, clientSecret, query, display, start, sort);
+
+            foreach (var item in priceData)
+            {
+                string title = item.Key;
+                string lprice = item.Value;
+                Console.WriteLine($"상품명: {title}, 네이버 최저가: {lprice}원");
+            }
+        }
+
+        private async Task<Dictionary<string, string>> SearchAsync(string clientId, string clientSecret, string query, int display, int start, string sort)
+        {
+            Dictionary<string, string> priceData = new Dictionary<string, string>();
+            using (HttpClient client = new HttpClient())
+            {
+                client.DefaultRequestHeaders.Add("X-Naver-Client-Id", clientId);
+                client.DefaultRequestHeaders.Add("X-Naver-Client-Secret", clientSecret);
+
+                string url = $"https://openapi.naver.com/v1/search/shop.xml?query={query}&display={display}&start={start}&sort={sort}";
+
+                HttpResponseMessage response = await client.GetAsync(url);
+                string responseBody = await response.Content.ReadAsStringAsync();
+
+                XmlDocument xmlDoc = new XmlDocument();
+                xmlDoc.LoadXml(responseBody);
+
+                XmlNodeList titleNodes = xmlDoc.SelectNodes("rss/channel/item/title");
+                XmlNodeList lpriceNodes = xmlDoc.SelectNodes("rss/channel/item/lprice");
+
+                for (int i = 0; i < titleNodes.Count; i++)
+                {
+                    string title = RemoveHtmlTags(titleNodes[i].InnerText); // 태그 제거
+                    string lprice = lpriceNodes[i].InnerText;
+
+                    priceData.Add(title, lprice);
+                }
+
+                return priceData;
+            }
+        }
+
+        private string RemoveHtmlTags(string input)
+        {
+            return Regex.Replace(input, "<.*?>", string.Empty); // 태그 제거
         }
     }
 }
