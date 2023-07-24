@@ -174,4 +174,27 @@ public class DBHelper
         }
         return countNum;
     }
+    public static string Item_no_2_Product_name(string item_no)
+    {
+        string Product_name = null;
+        try
+        {
+            ConnectDB();
+            string query = $"SELECT img_prod_nm FROM MyProduct WHERE item_no = '{item_no}'";
+            using (SqlCommand cmd = new SqlCommand(query, conn))
+            {
+                var result = cmd.ExecuteScalar();
+                Product_name = result.ToString();
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+        finally
+        {
+            conn.Close();
+        }
+        return Product_name;
+    }
 }

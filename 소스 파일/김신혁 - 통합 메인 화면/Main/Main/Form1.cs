@@ -33,22 +33,23 @@ namespace Main
             }
         }
 
-        public async void SearchProductButton1_Click(object sender, EventArgs e)// 상품검색
+        public async void SearchProductButton1_Click(object sender, EventArgs e)// 상품검색(오류를 제때 잡지 않고 만들어서 코드가 좋지 못합니다...)
         {
             string jsonFilePath = @"log.json";
             string jsonContent = File.ReadAllText(jsonFilePath);
             List<ImageData> imageDataList = JsonConvert.DeserializeObject<List<ImageData>>(jsonContent);
             string userInput = textBox1.Text;
             string matchedFileName = imageDataList.Find(x => x.Id == userInput)?.FileName;
-
             if (matchedFileName != null)
             {
-                label1.Text = matchedFileName;
                 string imagePath = @"Resource\" + matchedFileName;
                 string imageFilePath = System.IO.Path.Combine(Application.StartupPath, imagePath);
                 pictureBox1.Image = Image.FromFile(imageFilePath);
-
-                List<string> priceShowList = await ShowPrices("롯데핑크퐁포도사과235ML");// 바코드로 상품 이름 검색 함수 만들자
+                string ProductName = DBHelper.Item_no_2_Product_name(userInput);
+                label1.Text = ProductName;
+                List<string> priceShowList = await ShowPrices(ProductName);
+                string joinedPrices = string.Join(", ", priceShowList);
+                await Console.Out.WriteLineAsync(joinedPrices);
                 label7.Text = priceShowList[0];
             }
             else
