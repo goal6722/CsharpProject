@@ -10,8 +10,8 @@ CREATE TABLE MyInventory (
     volume VARCHAR(50),
     barcd VARCHAR(50),
     nutrition_info VARCHAR(MAX),
-	position  VARCHAR(50),
-	count  VARCHAR(50),
-	purchase VARCHAR(50),
-	sale VARCHAR(50)
+    position  VARCHAR(50),
+    count  VARCHAR(50),
+    purchase VARCHAR(50),
+    sale VARCHAR(50)
 );
