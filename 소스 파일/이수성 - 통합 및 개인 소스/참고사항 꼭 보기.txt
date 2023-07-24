@@ -1,0 +1,1 @@
+CREATE TABLE ProductInfo 이용해서 테이블을 만들고 한다.
