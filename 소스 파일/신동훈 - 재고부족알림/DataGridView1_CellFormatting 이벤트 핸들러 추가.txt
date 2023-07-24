@@ -1,0 +1,24 @@
+public partial class Form1 : Form
+{
+    // ... (기존 코드)
+
+    private void DataGridView1_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
+    {
+        if (e.RowIndex >= 0 && e.RowIndex < productList.Count)
+        {
+            // 해당 행의 'count' 값
+            int countValue = productList[e.RowIndex].count;
+
+            // 'count' 값에 따라 셀의 글꼴 색상을 변경.
+            if (countValue < 10)
+            {
+                e.CellStyle.ForeColor = Color.Red; // 'count' 값이 10 미만이면 글꼴 색상을 빨간색으로 변경
+            }
+            else if (countValue < 50)
+            {
+                e.CellStyle.ForeColor = Color.Orange; // 'count' 값이 50 미만이면 글꼴 색상을 주황색으로 변경
+            }
+            // 다른 범위에 따른 글꼴 색상 변경을 원한다면 더 많은 조건을 추가
+        }
+    }
+}

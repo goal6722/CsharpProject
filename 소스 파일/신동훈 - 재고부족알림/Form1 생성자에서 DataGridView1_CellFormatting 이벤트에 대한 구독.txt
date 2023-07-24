@@ -1,0 +1,8 @@
+public Form1()
+{
+    InitializeComponent();
+    DataGridView1.CellClick += DataGridView1_CellContentClick;
+    DataGridView1.CellFormatting += DataGridView1_CellFormatting; // 이 줄을 추가.
+
+    // ... (기존 코드)
+}
