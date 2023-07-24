@@ -43,6 +43,7 @@
             this.dataGridView1.RowTemplate.Height = 44;
             this.dataGridView1.Size = new System.Drawing.Size(2298, 1021);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // textBox1
             // 

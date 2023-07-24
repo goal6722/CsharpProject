@@ -66,7 +66,7 @@ namespace Searcher
                 errorBoxCount++;
                 if (errorBoxCount == 1)
                 {
-                    MessageBox.Show(e.Message, "DBHelper - ConnectToDB()");
+                    MessageBox.Show(e.Message, "DBHelperSearcher - ConnectToDB()");
                 }
                 return false;
             }

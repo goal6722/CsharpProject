@@ -57,6 +57,7 @@
             this.label6.Size = new System.Drawing.Size(103, 30);
             this.label6.TabIndex = 33;
             this.label6.Text = "바코드";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // textBox6
             // 
@@ -75,6 +76,7 @@
             this.dataGridView1.RowTemplate.Height = 44;
             this.dataGridView1.Size = new System.Drawing.Size(1724, 989);
             this.dataGridView1.TabIndex = 31;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // button2
             // 
@@ -102,6 +104,7 @@
             this.label5.Size = new System.Drawing.Size(143, 30);
             this.label5.TabIndex = 28;
             this.label5.Text = "판매 가격";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // textBox4
             // 
@@ -119,6 +122,7 @@
             this.label4.Size = new System.Drawing.Size(143, 30);
             this.label4.TabIndex = 26;
             this.label4.Text = "제조 회사";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // textBox3
             // 
@@ -136,6 +140,7 @@
             this.label3.Size = new System.Drawing.Size(73, 30);
             this.label3.TabIndex = 24;
             this.label3.Text = "위치";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // textBox2
             // 
@@ -153,6 +158,7 @@
             this.label2.Size = new System.Drawing.Size(195, 30);
             this.label2.TabIndex = 22;
             this.label2.Text = "상품 분류(대)";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -162,6 +168,7 @@
             this.label1.Size = new System.Drawing.Size(143, 30);
             this.label1.TabIndex = 21;
             this.label1.Text = "상품 이름";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
             // 

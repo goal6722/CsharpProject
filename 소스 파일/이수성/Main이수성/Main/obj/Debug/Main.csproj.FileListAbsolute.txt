@@ -1,0 +1,47 @@
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\bin\Debug\Main.exe.config
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\bin\Debug\Main.exe
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\bin\Debug\Main.pdb
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.Form1.resources
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.exe
+C:\Users\sin00\OneDrive\문서\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.pdb
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\bin\Debug\Main.exe.config
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\bin\Debug\Main.exe
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\bin\Debug\Main.pdb
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.Form1.resources
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.exe
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\김신혁 - 통합 메인 화면\Main\Main\obj\Debug\Main.pdb
+C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\Main.exe.config
+C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\Main.exe
+C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\Main.pdb
+C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\apf_temp_admin\Desktop\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\apf_temp_admin\Desktop\Main\Main\obj\Debug\Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\apf_temp_admin\Desktop\Main\Main\obj\Debug\Main.Form1.resources
+C:\Users\apf_temp_admin\Desktop\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\apf_temp_admin\Desktop\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\apf_temp_admin\Desktop\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\apf_temp_admin\Desktop\Main\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\apf_temp_admin\Desktop\Main\Main\obj\Debug\Main.exe
+C:\Users\apf_temp_admin\Desktop\Main\Main\obj\Debug\Main.pdb
+C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\QRCoder.dll
+C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\zxing.dll
+C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\zxing.presentation.dll
+C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\zxing.xml
+C:\Users\apf_temp_admin\Desktop\Main\Main\bin\Debug\zxing.presentation.xml

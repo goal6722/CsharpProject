@@ -55,6 +55,8 @@ namespace Searcher
 
                 MessageBox.Show(ane.Message, "DataGridView_Load Error");
             }
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -90,6 +92,11 @@ namespace Searcher
             {
                 this.button1_Click(sender, e);
             }
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

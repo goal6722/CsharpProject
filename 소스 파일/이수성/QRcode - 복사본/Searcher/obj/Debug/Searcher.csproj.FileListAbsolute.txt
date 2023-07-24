@@ -9,3 +9,14 @@ C:\Users\apf_temp_admin\Desktop\QRcode - 복사본\Searcher\obj\Debug\Searcher.c
 C:\Users\apf_temp_admin\Desktop\QRcode - 복사본\Searcher\obj\Debug\Searcher.csproj.CoreCompileInputs.cache
 C:\Users\apf_temp_admin\Desktop\QRcode - 복사본\Searcher\obj\Debug\Searcher.exe
 C:\Users\apf_temp_admin\Desktop\QRcode - 복사본\Searcher\obj\Debug\Searcher.pdb
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\bin\Debug\Searcher.exe.config
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\bin\Debug\Searcher.exe
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\bin\Debug\Searcher.pdb
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\obj\Debug\Searcher.csproj.AssemblyReference.cache
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\obj\Debug\Searcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\obj\Debug\Searcher.Form1.resources
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\obj\Debug\Searcher.Properties.Resources.resources
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\obj\Debug\Searcher.csproj.GenerateResource.cache
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\obj\Debug\Searcher.csproj.CoreCompileInputs.cache
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\obj\Debug\Searcher.exe
+C:\Users\apf_temp_admin\Documents\GitHub\CsharpProject\소스 파일\이수성\QRcode - 복사본\Searcher\obj\Debug\Searcher.pdb
