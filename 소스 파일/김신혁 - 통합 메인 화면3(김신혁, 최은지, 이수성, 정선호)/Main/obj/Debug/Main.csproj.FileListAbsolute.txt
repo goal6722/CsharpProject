@@ -140,9 +140,6 @@ C:\Users\apf_temp_admin\Desktop\김신혁 - 통합 메인 화면2(김신혁, 최
 C:\Users\apf_temp_admin\Desktop\김신혁 - 통합 메인 화면2(김신혁, 최은지, 이수성)\Main\obj\Debug\Main.csproj.CopyComplete
 C:\Users\apf_temp_admin\Desktop\김신혁 - 통합 메인 화면2(김신혁, 최은지, 이수성)\Main\obj\Debug\Main.exe
 C:\Users\apf_temp_admin\Desktop\김신혁 - 통합 메인 화면2(김신혁, 최은지, 이수성)\Main\obj\Debug\Main.pdb
-C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\bin\Debug\Main.exe.config
-C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\bin\Debug\Main.exe
-C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\bin\Debug\Main.pdb
 C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\bin\Debug\Newtonsoft.Json.dll
 C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\bin\Debug\QRCoder.dll
 C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\bin\Debug\zxing.dll
@@ -157,5 +154,8 @@ C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\obj\Debug\Main.
 C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\obj\Debug\Main.csproj.GenerateResource.cache
 C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
 C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\obj\Debug\Main.csproj.CopyComplete
-C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\obj\Debug\Main.exe
-C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\obj\Debug\Main.pdb
+C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\bin\Debug\mer.exe.config
+C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\bin\Debug\mer.exe
+C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\bin\Debug\mer.pdb
+C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\obj\Debug\mer.exe
+C:\Users\KB\Desktop\이수성 통합-신혁님꺼 이어서\Main\obj\Debug\mer.pdb
