@@ -29,26 +29,28 @@ namespace csharpMyCProject
 				$"Integrated Security={security}; Timeout=3";
 			conn = new SqlConnection(connectionString); // SqlConnection 객체를 생성하여 연결 문자열을 할당
 		}
-		private void GetInventoryData(string searchValue)
-		{	try
-			{	// 이미 데이터베이스에 연결되어 있는지 확인
+		/*private void GetInventoryData(string searchValue)
+		{
+			try
+			{   // 이미 데이터베이스에 연결되어 있는지 확인
 				if (conn.State == System.Data.ConnectionState.Closed)
 				{// 데이터베이스에 연결되어 있지 않다면 연결 열기
 					conn.Open();
 				}
 				// 데이터를 받아올 쿼리 작성 (검색 값으로 조건 추가)
-				string query = $"SELECT [count], [img_prod_nm], [sale] FROM [MYDB].[dbo].[Mylnventory] WHERE [column_name] = '{searchValue}'"; 
+				string query = $"SELECT [count], [img_prod_nm], [sale] FROM [MYDB].[dbo].[Mylnventory] WHERE [column_name] = '{searchValue}'";
 				// 쿼리 실행을 위한 SqlCommand 객체 생성
 				using (SqlCommand command = new SqlCommand(query, conn))
-				{	// 데이터를 가져올 수 있는 SqlDataReader 객체 생성
+				{   // 데이터를 가져올 수 있는 SqlDataReader 객체 생성
 					using (SqlDataReader reader = command.ExecuteReader())
-					{	if (reader.Read())
-						{	// 가져온 데이터를 원하는 방식으로 처리
+					{
+						if (reader.Read())
+						{   // 가져온 데이터를 원하는 방식으로 처리
 							int count = reader.GetInt32(0); // 첫 번째 열 "count"의 값 가져옴
 							string img_prod_nm = reader.GetString(1); // 두 번째 열 "img_prod_nm"의 값 가져옴
 							double sale = reader.GetDouble(2); // 세 번째 열 "sale"의 값 가져옴
-							// 여기서 가져온 데이터를 원하는 방식으로 처리
-							// 예를 들면, 라벨에 표시하거나 변수에 저장하는 등의 작업을 수행
+															   // 여기서 가져온 데이터를 원하는 방식으로 처리
+															   // 예를 들면, 라벨에 표시하거나 변수에 저장하는 등의 작업을 수행
 						}
 						else
 						{// 검색 결과가 없는 경우, 처리할 로직 (예: 메시지 출력 )
@@ -60,10 +62,10 @@ namespace csharpMyCProject
 			{// ex.Message를 이용하여 에러 메시지를 출력하거나 로그에 기록할 수 있음
 			}
 			finally
-			{	// 데이터베이스 연결을 닫지 않고 유지
+			{   // 데이터베이스 연결을 닫지 않고 유지
 				// 필요에 따라서 메서드가 끝날 때나 애플리케이션이 종료될 때 데이터베이스 연결을 닫아주어야 함
 			}
-		}
+		}*/
 		private void search_Click(object sender, EventArgs e)
 		{	string searchValue = barcd.Text.Trim(); // "barcd" 텍스트 상자에 입력한 값을 가져옴
 

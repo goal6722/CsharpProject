@@ -42,3 +42,14 @@ C:\Users\KB\Desktop\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.csp
 C:\Users\KB\Desktop\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.csproj.CoreCompileInputs.cache
 C:\Users\KB\Desktop\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.exe
 C:\Users\KB\Desktop\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.pdb
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\bin\Debug\csharpMyCProject.exe.config
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\bin\Debug\csharpMyCProject.exe
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\bin\Debug\csharpMyCProject.pdb
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.csproj.AssemblyReference.cache
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.csproj.SuggestedBindingRedirects.cache
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.Form1.resources
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.Properties.Resources.resources
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.csproj.GenerateResource.cache
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.csproj.CoreCompileInputs.cache
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.exe
+D:\새 폴더\CsharpProject\소스 파일\최은지- 장바구니\장바구니\csharpMyCProject\obj\Debug\csharpMyCProject.pdb
